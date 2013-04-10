@@ -1,0 +1,36 @@
+dTect V4.3
+Object Management file
+Wed 20 Jun 2012, 15:56:14
+!
+ID: 100010`7
+!
+Seismics: 1
+Seismic directory: dGB`Stream
+$Name: Seismics
+!
+Seismic: 2
+Seismic Data: CBVS`Stream
+$Name: Seismic.cbvs
+#Data storage: 0 - auto
+!
+stat 120: 3
+Wavelet: dGB`Stream
+$Name: stat_120.wvlt
+!
+Spectral Blueing Operator_sb: 4
+Wavelet: dGB`Stream
+$Name: Spectral_Blueing_Operator_sb.wvlt
+!
+Coloured Inversion Operator_ci: 5
+Wavelet: dGB`Stream
+$Name: Coloured_Inversion_Operator_ci.wvlt
+!
+Prestack seismic: 6
+Pre-Stack Seismics: SEGYDirect`Stream
+$Name: Prestack_seismic.sgydef
+#=Cube.ID: 100010.7
+!
+{Prestack seismic}: 7
+Seismic Data: PS Cube`X-Group
+$ID: 100010.6
+!
