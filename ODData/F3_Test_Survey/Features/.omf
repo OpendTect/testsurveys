@@ -1,0 +1,14 @@
+dTect V4.2
+Object Management file
+do 03 nov 2011, 19:50:45
+!
+ID: 100040`2
+!
+Analysis features: 1
+Features directory: dGB`Stream
+$Name: Features
+!
+Density vs. Sonic: 2
+Probability Density Function: dTect`Stream
+$Name: Density_vs._Sonic.prdf
+!
