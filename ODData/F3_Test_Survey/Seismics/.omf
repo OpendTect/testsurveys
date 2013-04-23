@@ -1,8 +1,8 @@
-dTect V4.3
+dTect V4.5
 Object Management file
-Wed 20 Jun 2012, 15:56:14
+Tue 23 Apr 2013, 10:20:34
 !
-ID: 100010`7
+ID: 100010`8
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -33,4 +33,14 @@ $Name: Prestack_seismic.sgydef
 {Prestack seismic}: 7
 Seismic Data: PS Cube`X-Group
 $ID: 100010.6
+!
+Velocity_model_INT_INL426: 8
+Seismic Data: CBVS`Stream
+$Name: Velocity_model_INT_INL426.cbvs
+#User: raman
+#Data storage: 0 - auto
+#Top Vavg: 1959.9659`1960.0133
+#Bottom Vavg: 2098.873`2144.4773
+#Velocity Type: Vint
+#Is Velocity: Yes
 !
