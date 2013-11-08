@@ -1,0 +1,20 @@
+dTect V4.6
+Survey Info
+Fri 08 Nov 2013, 11:44:42
+!
+Name: F3 Test Survey XYinft
+Survey Data Type: Only 3D
+In-line range: 200`650`2
+Cross-line range: 700`1200`2
+Z range: 0.4`1.1`0.004`T
+Coord-X-BinID: 1963281.635`-2.290082813`81.98902136
+Coord-Y-BinID: 19917479.94`81.98705764`2.291444696
+Set Point.1: 100/300`(1987649.3331267,19926366.0791728)
+Set Point.2: 750/1250`(2064050.34959025,19981834.5391)
+Set Point.3: 100/1250`(2065538.9034187,19928542.951634)
+Lat/Long anchor: (617460.875,6082095)=[54.872108,4.83051]
+XY in feet: Yes
+Seismic Reference Datum: 0
+!
+Time test survey, with XY in feet
+Thus the velocity model is in ft/s and all depths should be displayed in ft, whereas they are in meters in the database

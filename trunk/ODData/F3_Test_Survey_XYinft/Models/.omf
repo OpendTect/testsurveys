@@ -1,0 +1,27 @@
+dTect V4.6
+Object Management file
+Fri 08 Nov 2013, 11:25:57
+!
+ID: 100090`4
+!
+Models: 1
+Earth Models directory: dGB`Stream
+$Name: Models
+!
+A test: 2
+Layer Sequence Generator Description: od`Stream
+$Name: A_test.sgd
+#Type: Basic
+!
+Stoch simple w Bunt: 3
+Layer Sequence Generator Description: od`Stream
+$Name: Stoch_simple_w_Bunt.sgd
+#Type: Stochastic [dGB]
+!
+Slanted F3-04: 4
+Layer Sequence Generator Description: od`Stream
+$Extension: sgd
+$Name: Slanted_F3-04.sgd
+#User: cases`arnaud7
+#Type: Profile [dGB]
+!
