@@ -1,0 +1,20 @@
+dTect V4.7
+Object Management file
+Fri 04 Oct 2013, 14:34:49
+!
+ID: 100070`3
+!
+Misc: 1
+Miscellaneous directory: dGB`Stream
+$Name: Misc
+!
+Start: 2
+Session setup: dGB`Stream
+$Name: Start.sess
+!
+Mute 30deg: 3
+Mute Definition: dGB`Stream
+$Extension: mute
+$Name: Mute_30deg.mute
+#User: arnaud
+!

@@ -1,0 +1,14 @@
+dTect V4.2
+Object Management file
+do 03 nov 2011, 18:17:25
+!
+ID: 100070`2
+!
+Misc: 1
+Miscellaneous directory: dGB`Stream
+$Name: Misc
+!
+Start: 2
+Session setup: dGB`Stream
+$Name: Start.sess
+!
