@@ -1,14 +1,12 @@
-dTect V4.7
+dTect V4.2
 Object Management file
-Wed 26 Jun 2013, 10:48:01
+do 03 nov 2011, 17:47:33
 !
 ID: 0`1
 !
 Survey root: 1
 Survey Info: dGB`Stream
 $Name: .survey
-!
-@100100: Geometry
 !
 @100010: Seismics
 !
