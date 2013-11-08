@@ -1,0 +1,22 @@
+dTect V4.6
+Survey defaults
+Fri 08 Nov 2013, 13:30:59
+!
+Survey defaults
+Show depth in feet: No
+Z Stretch: 14.996848
+Default.Cube: 100010.2
+Default.Horizon: 100020.2
+Default.Well: 100050.2
+Session.Auto ID: 
+Default.Wavelet: 100010.3
+Home position.Position: 615447.6875`6075334.5`-11.247636
+Home position.Orientation: 1`-0`0`1.570796
+Home position.Aspect ratio: 1
+Home position.Near Distance: 1
+Home position.Far Distance: -2147483648
+Home position.Focal Distance: 5
+SEG-Y Rev. 1 policy: 3
+3DAttrset.Auto ID: 100080.2
+Default.Cube.Velocity: 100010.8
+!
