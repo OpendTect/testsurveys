@@ -1,0 +1,21 @@
+dTect V4.6
+Survey Info
+Fri 08 Nov 2013, 12:53:15
+!
+Name: F3_Test_Survey_DepthM
+Survey Data Type: Only 3D
+In-line range: 200`650`2
+Cross-line range: 700`1200`2
+Z range: 400`1200`5`D
+Coord-X-BinID: 598408.2423`-0.6980172415`24.99025371
+Coord-Y-BinID: 6070847.887`24.98965517`0.6984323432
+Set Point.1: 100/300`(605835.516689,6073556.38222)
+Set Point.2: 750/1250`(629122.546506,6090463.168806)
+Set Point.3: 100/1250`(629576.257713,6074219.892946)
+Lat/Long anchor: (617460.875,6082095)=[54.872108,4.83051]
+XY in feet: No
+Seismic Reference Datum: 0
+!
+F3-block, offshore the Netherlands.
+Licensed under Creative Commons BY-SA 3.0. For more information, please refer to http://www.opendtect.org/osr
+
