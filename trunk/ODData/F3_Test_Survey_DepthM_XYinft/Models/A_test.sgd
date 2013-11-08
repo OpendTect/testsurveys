@@ -1,0 +1,154 @@
+dTect V4.3
+Layer Sequence Generator Description
+do 03 nov 2011, 19:01:37
+!
+Type: Single layer
+Unit: Tertiary.Upper_North_Sea.Breda.S1a-S1b.sand
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 200
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2050
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Value
+Property.3.Value: 6150000
+!
+Type: Single layer
+Unit: Tertiary.Upper_North_Sea.Breda.S1a-S1b.shale
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 200
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2100
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Value
+Property.3.Value: 6300000
+!
+Type: Single layer
+Unit: Tertiary.Lower_North_Sea.Landen.shale
+Property.0.Name: Thickness
+Property.0.Type: Range
+Property.0.Value: 150`50
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2300
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Value
+Property.3.Value: 6900000
+!
+Type: Single layer
+Unit: Cretaceous.Chalk.Ommenlanden.limestone
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 100
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2400
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Value
+Property.3.Value: 7200000
+!
+Type: Single layer
+Unit: Cretaceous.Rijnland.Holland.sand
+Property.0.Name: Thickness
+Property.0.Type: Range
+Property.0.Value: -50`200
+Property.1.Name: Density
+Property.1.Type: Range
+Property.1.Value: 2300`2600
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Range
+Property.3.Value: 6900000`7800000
+!
+Type: Single layer
+Unit: Cretaceous.Rijnland.Vlieland.shale
+Property.0.Name: Thickness
+Property.0.Type: Range
+Property.0.Value: 200`-200
+Property.1.Name: Density
+Property.1.Type: Range
+Property.1.Value: 2500`2300
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Range
+Property.3.Value: 7500000`9000000
+!
+Type: Single layer
+Unit: Jurassic.Altena.Posidonia.shale
+Property.0.Name: Thickness
+Property.0.Type: Range
+Property.0.Value: 100`200
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2600
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Value
+Property.3.Value: 7800000
+!
+Type: Single layer
+Unit: Triassic.Upper_Germanic.Muschelkalk.anhydrite
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 25
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2200
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Value
+Property.3.Value: 6600000
+!
+Type: Single layer
+Unit: Triassic.Lower_Germanic.Main_Buntsandstein.sand
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 50
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2500
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Value
+Property.3.Value: 7500000
+!
+Type: Single layer
+Unit: Triassic.Lower_Germanic.Lower_Buntsandtein.shale
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 150
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2600
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Value
+Property.3.Value: 7800000
+!
