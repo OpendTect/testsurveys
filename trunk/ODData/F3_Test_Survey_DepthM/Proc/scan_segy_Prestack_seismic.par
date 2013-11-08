@@ -1,0 +1,22 @@
+dTect V4.3
+Parameters
+Wed 20 Jun 2012, 16:23:27
+!
+File name: C:\surveys\F3_Demo\Seismics\Prestack_seismic.sgy
+Byte swapping: 0
+Examine.Number of traces: 15
+Geometry: Pre-Stack Volume
+Is2D: No
+IsPS: Yes
+IC -> XY: 0
+Offset source: 0
+Offset byte: 37
+Nr bytes for Offset byte: 4
+Task: Index Pre-Stack
+Is 2D: No
+Output: 100010.6
+Line name: 
+Log file: window
+Survey: F3_Demo
+Data Root: C:\surveys
+!

@@ -1,0 +1,156 @@
+dTect V4.3
+Layer Sequence Generator Description
+do 03 nov 2011, 19:52:11
+!
+Type: Extended
+Multi: No
+Unit: Tertiary.Upper_North_Sea.Breda.S1a-S1b.sand
+Presence: 1
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 100
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2100
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 2500
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Math
+Property.3.Value: Density*Pwave velocity`Kg/m2s
+!
+Type: Extended
+Multi: Yes
+Unit: Cretaceous.Chalk
+Presence: 1
+Nr to draw: 0
+Nr children: 2
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 50
+0.Multi: Yes
+0.Unit: Cretaceous.Chalk.Ommenlanden
+0.Presence: 0.4
+0.Nr to draw: -1
+0.Nr children: 3
+0.Property.0.Name: Thickness
+0.Property.0.Type: Range
+0.Property.0.Value: 0`200
+0.0.Multi: No
+0.0.Unit: Cretaceous.Chalk.Ommenlanden.sand
+0.0.Presence: 1
+0.0.Property.0.Name: Thickness
+0.0.Property.0.Type: Random
+0.0.Property.0.Value: N`200`70`R20`-
+0.0.Property.1.Name: Density
+0.0.Property.1.Type: PDF
+0.0.Property.1.Value: 100040.2`0`Gram/cm3
+0.0.Property.2.Name: Pwave velocity
+0.0.Property.2.Type: Value
+0.0.Property.2.Value: 3000
+0.0.Property.3.Name: Acoustic Impedance
+0.0.Property.3.Type: Math
+0.0.Property.3.Value: Density*Pwave velocity`Kg/m2s
+0.1.Multi: No
+0.1.Unit: Cretaceous.Chalk.Ommenlanden.shale
+0.1.Presence: 1
+0.1.Property.0.Name: Thickness
+0.1.Property.0.Type: Range
+0.1.Property.0.Value: -40`60
+0.1.Property.1.Name: Density
+0.1.Property.1.Type: Math
+0.1.Property.1.Value: 2.4+Thickness*0.01`Gram/cm3
+0.1.Property.2.Name: Pwave velocity
+0.1.Property.2.Type: Random
+0.1.Property.2.Value: N`3200`1500`S3000`-
+0.1.Property.3.Name: Acoustic Impedance
+0.1.Property.3.Type: Math
+0.1.Property.3.Value: Density*Pwave velocity`Kg/m2s
+0.2.Multi: No
+0.2.Unit: Cretaceous.Chalk.Ommenlanden.limestone
+0.2.Presence: 1
+0.2.Property.0.Name: Thickness
+0.2.Property.0.Type: Value
+0.2.Property.0.Value: 10
+0.2.Property.1.Name: Density
+0.2.Property.1.Type: Value
+0.2.Property.1.Value: 2700
+0.2.Property.2.Name: Pwave velocity
+0.2.Property.2.Type: Value
+0.2.Property.2.Value: 3800
+0.2.Property.3.Name: Acoustic Impedance
+0.2.Property.3.Type: Math
+0.2.Property.3.Value: Density*Pwave velocity`Kg/m2s
+1.Multi: Yes
+1.Unit: Cretaceous.Chalk.Texel
+1.Presence: 1
+1.Nr to draw: -1
+1.Nr children: 2
+1.Property.0.Name: Thickness
+1.Property.0.Type: Value
+1.Property.0.Value: 50
+1.0.Multi: No
+1.0.Unit: Cretaceous.Chalk.Texel.shale
+1.0.Presence: 1
+1.0.Property.0.Name: Thickness
+1.0.Property.0.Type: Random
+1.0.Property.0.Value: U`50`25`S0`-
+1.0.Property.1.Name: Density
+1.0.Property.1.Type: Value
+1.0.Property.1.Value: 2300
+1.0.Property.2.Name: Pwave velocity
+1.0.Property.2.Type: Value
+1.0.Property.2.Value: 3300
+1.0.Property.3.Name: Acoustic Impedance
+1.0.Property.3.Type: Math
+1.0.Property.3.Value: Density*Pwave velocity`Kg/m2s
+1.1.Multi: No
+1.1.Unit: Cretaceous.Chalk.Texel.limestone
+1.1.Presence: 1
+1.1.Property.0.Name: Thickness
+1.1.Property.0.Type: Value
+1.1.Property.0.Value: 30
+1.1.Property.1.Name: Density
+1.1.Property.1.Type: Value
+1.1.Property.1.Value: 2500
+1.1.Property.2.Name: Pwave velocity
+1.1.Property.2.Type: Value
+1.1.Property.2.Value: 3400
+1.1.Property.3.Name: Acoustic Impedance
+1.1.Property.3.Type: Math
+1.1.Property.3.Value: Density*Pwave velocity`Kg/m2s
+!
+Type: Extended
+Multi: No
+Unit: Jurassic.Altena.Posidonia.shale
+Presence: 1
+Property.0.Name: Thickness
+Property.0.Type: Range
+Property.0.Value: 150`30
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2600
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3100
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Math
+Property.3.Value: Density*Pwave velocity`Kg/m2s
+!
+Type: Extended
+Multi: No
+Unit: Triassic.Lower_Germanic.Main_Buntsandstein.sand
+Presence: 1
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 50
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2700
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 4000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Math
+Property.3.Value: Density*Pwave velocity`Kg/m2s
+!
