@@ -1,0 +1,18 @@
+dTect V4.6
+Object Management file
+Fri 08 Nov 2013, 12:14:44
+!
+ID: 100020`4
+!
+Surfaces: 1
+Surfaces directory: dGB`Stream
+$Name: Surfaces directory
+!
+1-Top: 2
+Horizon: dGB`Stream
+$Name: 1-Top.hor
+!
+2-Base: 3
+Horizon: dGB`Stream
+$Name: 2-Base.hor
+!

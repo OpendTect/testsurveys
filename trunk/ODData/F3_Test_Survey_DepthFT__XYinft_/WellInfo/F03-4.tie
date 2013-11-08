@@ -1,0 +1,37 @@
+dTect V4.3
+Well Tie Setup
+Wed 20 Jun 2012, 15:20:31
+!
+
+Well Tie Setup.ID of selected seismic: 100010.2
+Well Tie Setup.ID of selected Line: 
+Well Tie Setup.Velocity log name: Density
+Well Tie Setup.Density log name: Sonic
+Well Tie Setup.ID of selected wavelet: 100010.3
+Well Tie Setup.Provided TWT log is sonic: Yes
+Well Tie Setup.Replacement Velocity: 2000
+Well Tie Setup.Use Existing Depth/Time model: Yes
+Well Tie Setup.CheckShot Corrections: None
+Well Tie Window.Display Markers on Well Display: Yes
+Well Tie Window.Display Markers on 2D Viewer: Yes
+Well Tie Window.Display Horizon on 2D Viewer: Yes
+Well Tie Window.Z in Feet: No
+Well Tie Window.Z in Time: Yes
+Well Tie Window.Dilplay markers full name: Yes
+Well Tie Window.Dilplay horizon full name: Yes
+Well Tie Window.Markers.Color: 0`0`255
+Well Tie Window.Markers.Size: 3
+Well Tie Window.Markers.Single Marker Color: No
+Well Tie Window.Markers.Marker Shape: 0
+Well Tie Window.Markers.Cylinder Height: 1
+Well Tie Window.Markers.Marker Name Font: Helvetica`10`Bold`No
+Well Tie Window.Markers.Marker Name Color Same as Marker: Yes
+Well Tie Window.Markers.Marker Name Color: 255`255`255
+Well Tie Window.Markers.Selected Markers: MFS11`FS11`MFS10`MFS9`MFS8`FS8`FS7`Truncation`Top Foresets`FS6`MFS4`FS4`FS3`FS2`MFS2`FS1`MMU
+Well Tie Window.Viewer Zoom: 408.662689`602.163818
+Well Tie Window.Is init wavelet active: Yes
+Well Tie Window.Selected index: 0
+Well Tie Window.Selected Z Range: 0.514226`0.987012
+Well Tie Window.Start Marker Name: FS11
+Well Tie Window.Stop Marker Name: FS3
+!

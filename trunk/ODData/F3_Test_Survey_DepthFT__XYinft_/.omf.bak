@@ -1,0 +1,32 @@
+dTect V4.2
+Object Management file
+do 03 nov 2011, 17:47:33
+!
+ID: 0`1
+!
+Survey root: 1
+Survey Info: dGB`Stream
+$Name: .survey
+!
+@100010: Seismics
+!
+@100020: Surfaces
+!
+@100030: Locations
+!
+@100040: Features
+!
+@100050: WellInfo
+!
+@100060: NLAs
+!
+@100070: Misc
+!
+@100080: Attribs
+!
+@100090: Models
+!
+@909090: Madagascar
+!
+@808080: GMT
+!
