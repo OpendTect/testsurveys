@@ -1,0 +1,72 @@
+dTect V4.2
+Well Markers
+vr 20 mei 2011, 10:35:11
+!
+1.Name: Seasurface
+1.Depth along hole: 30
+1.Strat Level: -1
+1.Color: 220`50`50
+2.Name: FS11
+2.Depth along hole: 598.03448
+2.Strat Level: 22
+2.Color: 50`200`50
+3.Name: MFS10
+3.Depth along hole: 670.53997
+3.Strat Level: 23
+3.Color: 50`200`200
+4.Name: MFS9
+4.Depth along hole: 697.11999
+4.Strat Level: -1
+4.Color: 255`210`0
+5.Name: MFS8
+5.Depth along hole: 725.25
+5.Strat Level: -1
+5.Color: 220`0`220
+6.Name: FS8
+6.Depth along hole: 771.69104
+6.Strat Level: 41
+6.Color: 0`255`0
+7.Name: FS7
+7.Depth along hole: 918.25909
+7.Strat Level: 42
+7.Color: 50`50`220
+8.Name: Truncation
+8.Depth along hole: 1026.6855
+8.Strat Level: 43
+8.Color: 170`85`255
+9.Name: Top Foresets
+9.Depth along hole: 1069.7255
+9.Strat Level: 44
+9.Color: 255`0`0
+10.Name: FS6
+10.Depth along hole: 1083.9798
+10.Strat Level: 45
+10.Color: 255`170`0
+11.Name: MFS4
+11.Depth along hole: 1086.3763
+11.Strat Level: 46
+11.Color: 0`85`255
+12.Name: FS4
+12.Depth along hole: 1133.0686
+12.Strat Level: 47
+12.Color: 50`200`50
+13.Name: FS3
+13.Depth along hole: 1144.2198
+13.Strat Level: -1
+13.Color: 50`200`200
+14.Name: FS2
+14.Depth along hole: 1151.1999
+14.Strat Level: -1
+14.Color: 255`210`0
+15.Name: MFS2
+15.Depth along hole: 1170.0699
+15.Strat Level: -1
+15.Color: 220`0`220
+16.Name: FS1
+16.Depth along hole: 1225.53
+16.Strat Level: -1
+16.Color: 140`130`80
+17.Name: MMU
+17.Depth along hole: 1261.3398
+17.Strat Level: -1
+17.Color: 255`0`0
