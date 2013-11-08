@@ -1,0 +1,14 @@
+dTect V4.3
+Object Management file
+Thu 21 Jun 2012, 12:32:05
+!
+ID: 100030`2
+!
+Locations: 1
+Locations directory: dGB`Stream
+$Name: Locations
+!
+Line through wells: 2
+RandomLine Geometry: dGB`Stream
+$Name: Line_through_wells.rdl
+!

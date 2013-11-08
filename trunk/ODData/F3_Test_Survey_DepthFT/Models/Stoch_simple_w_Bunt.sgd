@@ -1,0 +1,214 @@
+dTect V4.6
+Layer Sequence Generator Description
+Fri 08 Nov 2013, 11:41:42
+!
+Top depth: 0
+Elastic Property Selection: 
+WB.Fluid Replacement Is On: No
+WB.Fluid Replacement.Synthetics.Snap Level: 0
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Name: stat 120 Offset 00
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Synthetic Type: Zero Offset Stack
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Wavelet Name: stat 120
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Ray Parameter.Type: VrmsRayTracer
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Ray Parameter.Offset Range: 0
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.Color Table: 
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.Overlap: 1
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.VD.Type: Auto
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.VD.Clip Rate: 0.025`0.025
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.VD.Sym Mid Value: 1e30
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.VD.Auto Sym: Yes
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.VD.Range: 0`0
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.VD.Flip seq: No
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Type: Auto
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Clip Rate: 0.025`0.025
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Sym Mid Value: 1e30
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Auto Sym: Yes
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Range: 0`0
+WB.Fluid Replacement.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Flip seq: No
+WB.Fluid Replacement.Synthetics.Nr of Synthetics: 1
+WB.Fluid Replacement.Synthetics.Start View Area: 1e30`0`0`0
+WB.Nr models: 25
+WB.Elastic Properties.Nr of Elastic Properties: 3
+WB.Elastic Properties.Elastic.0.Name: Density
+WB.Elastic Properties.Elastic.0.Name of formula: Density
+WB.Elastic Properties.Elastic.0.Type: Density
+WB.Elastic Properties.Elastic.0.Mathematic Expression: 
+WB.Elastic Properties.Elastic.0.Selected properties: Density
+WB.Elastic Properties.Elastic.0.Units: 
+WB.Elastic Properties.Elastic.1.Name: PWave
+WB.Elastic Properties.Elastic.1.Name of formula: PWave
+WB.Elastic Properties.Elastic.1.Type: PWave
+WB.Elastic Properties.Elastic.1.Mathematic Expression: 
+WB.Elastic Properties.Elastic.1.Selected properties: Pwave velocity
+WB.Elastic Properties.Elastic.1.Units: 
+WB.Elastic Properties.Elastic.2.Name: SWave
+WB.Elastic Properties.Elastic.2.Name of formula: Castagna's equation
+WB.Elastic Properties.Elastic.2.Type: SWave
+WB.Elastic Properties.Elastic.2.Mathematic Expression: c0*Vp + c1
+WB.Elastic Properties.Elastic.2.Selected properties: 0.8619`P-wave velocity`-1172
+WB.Elastic Properties.Elastic.2.Units: 
+WB.Displayed property: Density
+WB.Decimation: 1
+WB.Selected level: base North Sea Group
+WB.Selected content: ---
+WB.Allow zoom: Yes
+WB.Display lithology: Yes
+WB.Display flattened: No
+WB.Synthetics.Snap Level: 0
+WB.Synthetics.Synthetics Nr.0.Name: stat 120 Offset 00
+WB.Synthetics.Synthetics Nr.0.Synthetic Type: Zero Offset Stack
+WB.Synthetics.Synthetics Nr.0.Wavelet Name: stat 120
+WB.Synthetics.Synthetics Nr.0.Ray Parameter.Type: VrmsRayTracer
+WB.Synthetics.Synthetics Nr.0.Ray Parameter.Offset Range: 0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.Color Table: 
+WB.Synthetics.Synthetics Nr.0.Display Parameter.Overlap: 1
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Type: Fixed
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Clip Rate: 0`0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Sym Mid Value: 0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Auto Sym: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Range: -6.06092`6.06092
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Flip seq: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Type: Fixed
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Clip Rate: 0`0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Sym Mid Value: 0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Auto Sym: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Range: -6.06092`6.06092
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Flip seq: No
+WB.Synthetics.Nr of Synthetics: 1
+WB.Synthetics.Start View Area: 0.5`0`25.5`0.20800000429153
+!
+Type: Extended
+Multi: Yes
+Unit: Cretaceous.Chalk
+Presence: 1
+Nr to draw: 0
+Nr children: 2
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 50
+0.Multi: Yes
+0.Unit: Cretaceous.Chalk.Ommenlanden
+0.Presence: 0.4
+0.Nr to draw: -1
+0.Nr children: 3
+0.Property.0.Name: Thickness
+0.Property.0.Type: Range
+0.Property.0.Value: 0`200
+0.0.Multi: No
+0.0.Unit: Cretaceous.Chalk.Ommenlanden.sand
+0.0.Presence: 1
+0.0.Property.0.Name: Thickness
+0.0.Property.0.Type: Random
+0.0.Property.0.Value: N`200`70`R20`-
+0.0.Property.1.Name: Density
+0.0.Property.1.Type: PDF
+0.0.Property.1.Value: 100040.2`0`Gram/cm3`x/1000
+0.0.Property.2.Name: Pwave velocity
+0.0.Property.2.Type: Value
+0.0.Property.2.Value: 3000
+0.0.Property.3.Name: Acoustic Impedance
+0.0.Property.3.Type: Math
+0.0.Property.3.Value: Density*Pwave velocity` ` ` 
+0.1.Multi: No
+0.1.Unit: Cretaceous.Chalk.Ommenlanden.shale
+0.1.Presence: 1
+0.1.Property.0.Name: Thickness
+0.1.Property.0.Type: Range
+0.1.Property.0.Value: 0`100
+0.1.Property.1.Name: Density
+0.1.Property.1.Type: Math
+0.1.Property.1.Value: 2400+Thickness*10`Gram/cm3` 
+0.1.Property.2.Name: Pwave velocity
+0.1.Property.2.Type: Random
+0.1.Property.2.Value: N`3200`1500`S3000`-
+0.1.Property.3.Name: Acoustic Impedance
+0.1.Property.3.Type: Math
+0.1.Property.3.Value: Density*Pwave velocity` ` ` 
+0.2.Multi: No
+0.2.Unit: Cretaceous.Chalk.Ommenlanden.limestone
+0.2.Presence: 1
+0.2.Property.0.Name: Thickness
+0.2.Property.0.Type: Value
+0.2.Property.0.Value: 10
+0.2.Property.1.Name: Density
+0.2.Property.1.Type: Value
+0.2.Property.1.Value: 2700
+0.2.Property.2.Name: Pwave velocity
+0.2.Property.2.Type: Value
+0.2.Property.2.Value: 3800
+0.2.Property.3.Name: Acoustic Impedance
+0.2.Property.3.Type: Math
+0.2.Property.3.Value: Density*Pwave velocity` ` ` 
+1.Multi: Yes
+1.Unit: Cretaceous.Chalk.Texel
+1.Presence: 1
+1.Nr to draw: -1
+1.Nr children: 2
+1.Property.0.Name: Thickness
+1.Property.0.Type: Value
+1.Property.0.Value: 50
+1.0.Multi: No
+1.0.Unit: Cretaceous.Chalk.Texel.shale
+1.0.Presence: 1
+1.0.Property.0.Name: Thickness
+1.0.Property.0.Type: Random
+1.0.Property.0.Value: U`50`25`S0`-
+1.0.Property.1.Name: Density
+1.0.Property.1.Type: Value
+1.0.Property.1.Value: 2300
+1.0.Property.2.Name: Pwave velocity
+1.0.Property.2.Type: Value
+1.0.Property.2.Value: 3300
+1.0.Property.3.Name: Acoustic Impedance
+1.0.Property.3.Type: Math
+1.0.Property.3.Value: Density*Pwave velocity` ` ` 
+1.1.Multi: No
+1.1.Unit: Cretaceous.Chalk.Texel.limestone
+1.1.Presence: 1
+1.1.Property.0.Name: Thickness
+1.1.Property.0.Type: Value
+1.1.Property.0.Value: 30
+1.1.Property.1.Name: Density
+1.1.Property.1.Type: Value
+1.1.Property.1.Value: 2500
+1.1.Property.2.Name: Pwave velocity
+1.1.Property.2.Type: Value
+1.1.Property.2.Value: 3400
+1.1.Property.3.Name: Acoustic Impedance
+1.1.Property.3.Type: Math
+1.1.Property.3.Value: Density*Pwave velocity` ` ` 
+!
+Type: Extended
+Multi: No
+Unit: Jurassic.Altena.Posidonia.shale
+Presence: 1
+Property.0.Name: Thickness
+Property.0.Type: Range
+Property.0.Value: 150`30
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2600
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 3100
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Math
+Property.3.Value: Density*Pwave velocity` ` ` 
+!
+Type: Extended
+Multi: No
+Unit: Triassic.Lower_Germanic.Main_Buntsandstein.sand
+Presence: 1
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 50
+Property.1.Name: Density
+Property.1.Type: Value
+Property.1.Value: 2700
+Property.2.Name: Pwave velocity
+Property.2.Type: Value
+Property.2.Value: 4000
+Property.3.Name: Acoustic Impedance
+Property.3.Type: Math
+Property.3.Value: Density*Pwave velocity` ` ` 
+!
