@@ -2,7 +2,7 @@ dTect V4.7
 Object Management file
 Fri 04 Oct 2013, 14:42:51
 !
-ID: 100070`4
+ID: 100070`46
 !
 Misc: 1
 Miscellaneous directory: dGB`Stream
@@ -23,4 +23,16 @@ Mute Definition: dGB`Stream
 $Extension: mute
 $Name: Mute_30deg_adv.mute
 #User: arnaud
+!
+Top Mute: 41
+Mute Definition: dGB`Stream
+$Name: Top_Mute.mute
+!
+Top Mute 4.4: 44
+Mute Definition: dGB`Stream
+$Name: Top_Mute_4.4.mute
+!
+Top Mute 4.6: 46
+Mute Definition: dGB`Stream
+$Name: Top_Mute_4.6.mute
 !
