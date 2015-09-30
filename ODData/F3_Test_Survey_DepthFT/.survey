@@ -6,7 +6,7 @@ Name: F3_Test_Survey_DepthFT
 Survey Data Type: Only 3D
 In-line range: 200`650`2
 Cross-line range: 700`1200`2
-Z range: 1200`3915`15`F
+Z range: 1200`3930`15`F
 Coord-X-BinID: 598408.2423`-0.6980172415`24.99025371
 Coord-Y-BinID: 6070847.887`24.98965517`0.6984323432
 Set Point.1: 100/300`(605835.516689,6073556.38222)
