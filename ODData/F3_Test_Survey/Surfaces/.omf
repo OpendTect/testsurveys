@@ -1,0 +1,24 @@
+dTect V6.1
+Object Management file
+Tue 16 Feb 2016, 14:10:38
+!
+ID: 100020`54
+!
+Surfaces: 1
+Surfaces directory: dGB`Stream
+$Name: Surfaces directory
+!
+Demo 6 --> FS8: 3
+Horizon: dGB`Stream
+$Name: fs8.hor
+!
+SSIS-Grid-Faultsticks: 33
+FaultStickSet: dGB`Stream
+$Name: SSIS-Grid-Faultsticks.fss
+#Type: FaultStickSet
+!
+Slumps-2b: 53
+Body: od`Stream
+$Name: Slumps-2b.body
+#Type: MC
+!

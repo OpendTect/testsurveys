@@ -1,18 +1,19 @@
-> Report for horizon file: C:\surveys\F3_Demo_EAGE_2011\Rawdata\Surface_data\F3-Horizon-FS4.xyt <
+> Report for horizon file: /tmp/fs8.txt <
 
 
 * Geometry *
 
- Total number of positions : 592541
-Number of unique positions : 592541
-        X-Coordinate range : 605466.686851 - 629523.485137 (d=24056.798286)
-        Y-Coordinate range : 6073657.737705 - 6090411.792631 (d=16754.054926)
-                   Inlines : 104 - 748 [step=1]
-                Crosslines : 302 - 1248 [step=1]
+ Total number of positions : 56726
+Number of unique positions : 56726
+        X-Coordinate range : 615447.70869003 - 628256.9433037 (d=12809.23461367)
+        Y-Coordinate range : 6076334.72067424 - 6087929.28167234 (d=11594.5609981)
+                   Inlines : 200 - 650 [step=2]
+                Crosslines : 700 - 1200 [step=2]
            Gaps in inlines : No
-        Gaps in crosslines : Yes
+        Gaps in crosslines : No
        Duplicate positions : None
-            Time range (s) : 0.574454`1.12609
+            Time range (s) : 0.47876188`0.63670963
 
   - No attribute data values
+
 
