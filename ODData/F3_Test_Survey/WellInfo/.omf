@@ -1,10 +1,22 @@
-dTect V1.0
+dTect V4.3
 Object Management file
-Wed Oct 22 14:04:43 2003
+Thu 21 Jun 2012, 12:31:06
 !
-ID: 100050
+ID: 100050`4
 !
 WellInfo: 1
 Well Info directory: dGB`Stream
 $Name: WellInfo
+!
+F03-4: 2
+Well: dGB`Stream
+$Name: F03-4.well
+!
+Well A: 3
+Well: dGB`Stream
+$Name: Well_A.well
+!
+F06-1: 4
+Well: dGB`Stream
+$Name: F06-1.well
 !
