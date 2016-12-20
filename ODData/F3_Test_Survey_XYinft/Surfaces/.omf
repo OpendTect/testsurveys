@@ -2,7 +2,7 @@ dTect V4.2
 Object Management file
 do 03 nov 2011, 18:12:18
 !
-ID: 100020`3
+ID: 100020`4
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -15,4 +15,10 @@ $Name: 1-Top.hor
 2-Base: 3
 Horizon: dGB`Stream
 $Name: 2-Base.hor
+!
+Flat at 1000ms: 4
+Horizon: dGB`Stream
+$Name: Flat_at_1000ms.hor
+#Created.At: Tue 20 Dec 2016, 11:09:20
+#Created.By: User
 !

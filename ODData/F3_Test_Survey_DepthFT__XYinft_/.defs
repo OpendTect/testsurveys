@@ -1,8 +1,8 @@
-dTect V4.6
+dTect V6.0
 Survey defaults
-Fri 08 Nov 2013, 12:20:14
+Tue 20 Dec 2016, 11:48:31
 !
-Survey defaults
+Survey defaults: 
 Show depth in feet: Yes
 Z Stretch: 14.99685
 Default.Cube: 100010.2
@@ -19,4 +19,5 @@ Home position.Focal Distance: 5
 SEG-Y Rev. 1 policy: 3
 3DAttrset.Auto ID: 100080.2
 Default.Cube.Velocity: 100010.8
+Default.PickSet Group: 100030.3
 !

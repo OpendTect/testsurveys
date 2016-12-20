@@ -2,7 +2,7 @@ dTect V6.1
 Object Management file
 Tue 16 Feb 2016, 14:10:38
 !
-ID: 100020`54
+ID: 100020`53
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -11,6 +11,12 @@ $Name: Surfaces directory
 Demo 6 --> FS8: 3
 Horizon: dGB`Stream
 $Name: fs8.hor
+!
+Flat at 1000ms: 4
+Horizon: dGB`Stream
+$Name: Flat_at_1000ms.hor
+#Created.At: Tue 20 Dec 2016, 11:11:56
+#Created.By: User
 !
 SSIS-Grid-Faultsticks: 33
 FaultStickSet: dGB`Stream

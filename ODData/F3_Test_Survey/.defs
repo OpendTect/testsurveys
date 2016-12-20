@@ -1,6 +1,6 @@
-dTect V6.1
+dTect V6.0
 Survey defaults
-Tue 16 Feb 2016, 14:13:07
+Tue 20 Dec 2016, 11:47:54
 !
 Survey defaults: 
 Show depth in feet: No
@@ -20,4 +20,5 @@ SEG-Y Rev. 1 policy: 3
 3DAttrset.Auto ID: 100080.2
 Default.Cube.Velocity: 100010.8
 UOM.Time: Milliseconds
+Default.PickSet Group: 100030.3
 !
