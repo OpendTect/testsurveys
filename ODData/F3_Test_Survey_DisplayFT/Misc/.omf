@@ -1,0 +1,54 @@
+dTect V6.1
+Object Management file
+Fri 26 Aug 2016, 14:06:05
+!
+ID: 100070`49
+!
+Misc: 1
+Miscellaneous directory: dGB`Stream
+$Name: Misc
+!
+Start: 2
+Session setup: dGB`Stream
+$Name: Start.sess
+!
+Mute 30deg: 3
+Mute Definition: dGB`Stream
+$Name: Mute_30deg.mute
+#User: arnaud
+!
+Mute 30deg adv: 4
+Mute Definition: dGB`Stream
+$Name: Mute_30deg_adv.mute
+#User: arnaud
+!
+Top Mute: 41
+Mute Definition: dGB`Stream
+$Name: Top_Mute.mute
+!
+Top Mute 4.4: 44
+Mute Definition: dGB`Stream
+$Name: Top_Mute_4.4.mute
+!
+Top Mute 4.6: 46
+Mute Definition: dGB`Stream
+$Name: Top_Mute_4.6.mute
+!
+Steer-FFT-426-950: 47
+Volume Processing Setup: dGB`Stream
+$Name: Steer-FFT-426-950.vpsetup
+#Created.At: Fri 26 Aug 2016, 14:03:21
+#Created.By: nanne
+!
+Steer-FFT-426-940_960: 48
+Volume Processing Setup: dGB`Stream
+$Name: Steer-FFT-426-940_960.vpsetup
+#Created.At: Fri 26 Aug 2016, 14:04:21
+#Created.By: nanne
+!
+Steer-FFT: 49
+Volume Processing Setup: dGB`Stream
+$Name: Steer-FFT.vpsetup
+#Created.At: Fri 26 Aug 2016, 14:06:05
+#Created.By: nanne
+!

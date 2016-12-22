@@ -1,0 +1,19 @@
+> Report for horizon file: /tmp/fs8.txt <
+
+
+* Geometry *
+
+ Total number of positions : 56726
+Number of unique positions : 56726
+        X-Coordinate range : 615447.70869003 - 628256.9433037 (d=12809.23461367)
+        Y-Coordinate range : 6076334.72067424 - 6087929.28167234 (d=11594.5609981)
+                   Inlines : 200 - 650 [step=2]
+                Crosslines : 700 - 1200 [step=2]
+           Gaps in inlines : No
+        Gaps in crosslines : No
+       Duplicate positions : None
+            Time range (s) : 0.47876188`0.63670963
+
+  - No attribute data values
+
+

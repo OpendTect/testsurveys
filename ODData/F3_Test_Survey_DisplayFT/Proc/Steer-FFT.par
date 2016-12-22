@@ -1,0 +1,26 @@
+dTect V6.1
+Parameters
+Fri 26 Aug 2016, 14:06:05
+!
+Output.Type: Cube
+NeedsFullVol: No
+Chain ID: 100070.49
+Output.0.Seismic.ID: 100010.11
+Output.Subsel.Nr Geometries: 1
+Output.Subsel.0.First In-line: 400
+Output.Subsel.0.First Cross-line: 920
+Output.Subsel.0.Last In-line: 450
+Output.Subsel.0.Last Cross-line: 980
+Output.Subsel.0.Step In-line: 2
+Output.Subsel.0.Step Cross-line: 2
+Output.Subsel.0.Survey ID: -1
+Output.Subsel.0.Z range: 0.4`1.1`0.004
+Log file: /dsk/d100/nanne/dev-svn/ODData/F3_Test_Survey/Proc/Steer-FFT_log.txt
+Program.Name: od_process_volume
+Program.Args: 
+ExecPars.Monitor: Yes` 
+ExecPars.ProgramType: BG` 
+ExecPars.PriorityLevel: -1
+Survey: F3_Test_Survey
+Data Root: /dsk/d100/nanne/dev-svn/ODData
+!

@@ -1,0 +1,37 @@
+dTect V6.1
+Object Management file
+Wed 21 Dec 2016, 11:37:51
+!
+ID: 100030`3
+!
+Locations: 1
+Locations directory: dGB`Stream
+$Name: Locations
+!
+Locations: 1
+Locations directory: dGB`Stream
+$Name: Locations
+!
+Line through wells: 2
+RandomLine Geometry: dGB`Stream
+$Name: Line_through_wells.rdl
+!
+Area 25km2: 3
+PickSet Group: dGB`Stream
+$Name: Area_25km2.pck
+#Created.At: Tue 20 Dec 2016, 11:11:39
+#Created.By: User
+#Type: Polygon
+!
+In-line425: 1000000`42724
+Probe Group: dGB`Stream
+$Name: In-line425.prb
+#Created.At: Wed 21 Dec 2016, 11:10:52
+#Created.By: nanne
+!
+In-line424: 1000001`42724
+Probe Group: dGB`Stream
+$Name: In-line424.prb
+#Created.At: Wed 21 Dec 2016, 11:37:51
+#Created.By: nanne
+!

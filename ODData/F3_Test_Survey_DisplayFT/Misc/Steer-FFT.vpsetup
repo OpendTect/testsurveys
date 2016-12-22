@@ -1,0 +1,22 @@
+dTect V6.1
+Volume Processing Setup
+Fri 26 Aug 2016, 14:06:05
+!
+Nr Steps: 2
+0.Type: VolumeReader
+0.ID: 0
+0.Volume ID: 100010.2
+1.Type: Dip
+1.ID: 1
+1.Steering Type: 1
+1.Stepout In-line: 3
+1.Stepout Cross-line: 3
+1.Nr sample vertical span: 3
+1.Maximum Dip: 1e30
+1.Use Normal algo: Yes
+1.Use perfect if failed: No
+1.Nr Faults: 0
+Nr Connections: 1
+Connection 0: 0`0`1`0
+Output: 1`0
+!
