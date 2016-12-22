@@ -1,6 +1,6 @@
-dTect V4.6
+dTect V6.0
 Survey Info
-Fri 08 Nov 2013, 13:25:39
+Thu 22 Dec 2016, 14:06:08
 !
 Name: F3_Test_Survey_DepthM
 Survey Data Type: Only 3D
@@ -16,7 +16,7 @@ Lat/Long anchor: (617460.875,6082095)=[54.872108,4.83051]
 XY in feet: No
 Seismic Reference Datum: 0
 !
-Depth test survey in METERS, with XY in meters
-Thus the velocity model is in m/s and all depths should be displayed in m
-Well depths are in meters in the database
-
+Depth Test Survey
+XY: m  -  Z: m  -  Z display: m
+Velocity model: m/s
+Well depths: m

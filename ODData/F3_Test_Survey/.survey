@@ -1,6 +1,6 @@
-dTect V4.3
+dTect V6.0
 Survey Info
-Sat 30 Jun 2012, 20:53:15
+Thu 22 Dec 2016, 14:05:44
 !
 Name: F3 Test Survey
 Survey Data Type: Only 3D
@@ -14,7 +14,9 @@ Set Point.2: 750/1250`(629122.546506,6090463.168806)
 Set Point.3: 100/1250`(629576.257713,6074219.892946)
 Lat/Long anchor: (617460.875,6082095)=[54.872108,4.83051]
 XY in feet: No
+Seismic Reference Datum: 0
 !
-F3-block, offshore the Netherlands.
-Licensed under Creative Commons BY-SA 3.0. For more information, please refer to http://www.opendtect.org/osr
-
+Time Test Survey
+XY: m  -  Z: s  -  Z display: m
+Velocity model: m/s
+Well depths: m

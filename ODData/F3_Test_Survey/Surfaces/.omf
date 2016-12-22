@@ -1,8 +1,8 @@
-dTect V6.1
+dTect V6.0
 Object Management file
-Tue 16 Feb 2016, 14:10:38
+Thu 22 Dec 2016, 16:11:03
 !
-ID: 100020`6
+ID: 100020`8
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -30,5 +30,18 @@ $Name: SSIS-Grid-Faultsticks.fss
 Slumps-2b: 6
 Body: od`Stream
 $Name: Slumps-2b.body
+#Type: MC
+!
+Flat at 1100ms: 7
+Horizon: dGB`Stream
+$Name: Flat_at_1100ms.hor
+#Created.At: Thu 22 Dec 2016, 14:01:26
+#Created.By: nanne
+!
+VolumeEstimation: 8
+Body: od`Stream
+$Name: VolumeEstimation.body
+#Created.At: Thu 22 Dec 2016, 14:02:35
+#Created.By: nanne
 #Type: MC
 !

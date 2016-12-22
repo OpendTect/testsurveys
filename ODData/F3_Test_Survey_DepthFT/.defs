@@ -1,6 +1,6 @@
 dTect V6.0
 Survey defaults
-Tue 20 Dec 2016, 11:48:21
+Thu 22 Dec 2016, 14:05:32
 !
 Survey defaults: 
 Show depth in feet: Yes
@@ -17,7 +17,6 @@ Home position.Near Distance: 1
 Home position.Far Distance: -2147483648
 Home position.Focal Distance: 5
 SEG-Y Rev. 1 policy: 3
-3DAttrset.Auto ID: 100080.2
 Default.Cube.Velocity: 100010.8
 Default.PickSet Group: 100030.3
 !

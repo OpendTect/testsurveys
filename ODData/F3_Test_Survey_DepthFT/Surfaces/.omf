@@ -1,8 +1,8 @@
-dTect V4.6
+dTect V6.0
 Object Management file
-Fri 08 Nov 2013, 12:14:44
+Thu 22 Dec 2016, 16:13:05
 !
-ID: 100020`3
+ID: 100020`6
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -16,10 +16,22 @@ $Name: 1-Top.hor
 Horizon: dGB`Stream
 $Name: 2-Base.hor
 !
-Flat at 2000ft: 3
+Flat at 2000ft: 4
 Horizon: dGB`Stream
 $Name: Flat_at_2000ft.hor
 #Created.At: Tue 20 Dec 2016, 11:05:22
 #Created.By: User
 !
-
+Flat at 2565ft: 5
+Horizon: dGB`Stream
+$Name: Flat_at_2565ft.hor
+#Created.At: Thu 22 Dec 2016, 14:07:10
+#Created.By: nanne
+!
+VolumeEstimation: 6
+Body: od`Stream
+$Name: VolumeEstimation.body
+#Created.At: Thu 22 Dec 2016, 14:23:17
+#Created.By: nanne
+#Type: MC
+!
