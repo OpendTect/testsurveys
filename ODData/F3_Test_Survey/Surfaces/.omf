@@ -16,21 +16,21 @@ $Name: 1-Top.hor
 Horizon: dGB`Stream
 $Name: 2-Base.hor
 !
-Flat at 1000ms: 4
-Horizon: dGB`Stream
-$Name: Flat_at_1000ms.hor
-#Created.At: Tue 20 Dec 2016, 11:11:56
-#Created.By: User
+Slumps-2b: 4
+Body: od`Stream
+$Name: Slumps-2b.body
+#Type: MC
 !
 SSIS-Grid-Faultsticks: 5
 FaultStickSet: dGB`Stream
 $Name: SSIS-Grid-Faultsticks.fss
 #Type: FaultStickSet
 !
-Slumps-2b: 6
-Body: od`Stream
-$Name: Slumps-2b.body
-#Type: MC
+Flat at 1000ms: 6
+Horizon: dGB`Stream
+$Name: Flat_at_1000ms.hor
+#Created.At: Tue 20 Dec 2016, 11:11:56
+#Created.By: User
 !
 Flat at 1100ms: 7
 Horizon: dGB`Stream
