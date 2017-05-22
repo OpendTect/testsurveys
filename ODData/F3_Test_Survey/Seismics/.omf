@@ -1,6 +1,6 @@
-dTect V6.1
+dTect V6.3
 Object Management file
-Wed 12 Apr 2017, 17:28:48
+Mon 22 May 2017, 11:22:29
 !
 ID: 100010`24
 !
@@ -66,9 +66,9 @@ $Name: Seismic_with_300-310_Inlines_missing.cbvs
 #Created.By: mahant
 #Created.From: /d15/mahant/surveys/testsurveys.git/trunk/ODData/F3_Test_Survey/Seismic.dat
 !
-Seismic_with_300-310_Inlines_missing: 21
+Seis_line_with_missing_traces: 21
 2D Seismic Data: CBVS`Stream
-$Name: Seismic_with_300-310_Inlines_missing
+$Name: Seis_line_with_missing_traces
 #Created.At: Mon 10 Apr 2017, 13:06:46
 #Created.By: mahant
 !
