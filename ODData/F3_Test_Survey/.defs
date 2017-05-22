@@ -1,8 +1,8 @@
-dTect V6.0
+dTect V6.2
 Survey defaults
-Thu 22 Dec 2016, 14:05:44
+Thu 20 Apr 2017, 14:22:19
 !
-Survey defaults: 
+Survey defaults
 Show depth in feet: No
 Z Stretch: 14.996848
 Default.Cube: 100010.2
@@ -21,4 +21,5 @@ SEG-Y Rev. 1 policy: 3
 Default.Cube.Velocity: 100010.8
 UOM.Time: Milliseconds
 Default.PickSet Group: 100030.3
+Z Scale.TWT: 21.37962151
 !

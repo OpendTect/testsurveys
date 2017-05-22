@@ -1,8 +1,8 @@
-dTect V4.5
+dTect V6.1
 Object Management file
-Tue 23 Apr 2013, 10:20:34
+Wed 12 Apr 2017, 17:28:48
 !
-ID: 100010`8
+ID: 100010`24
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -43,4 +43,32 @@ $Name: Velocity_model_INT_INL426.cbvs
 #Bottom Vavg: 2098.873`2144.4773
 #Velocity Type: Vint
 #Is Velocity: Yes
+!
+Steering BG Fast (Median Filter): 9
+Seismic Data: CBVS`Stream
+$Name: Steering_BG_Fast__Median_Filter_.cbvs
+#Created.At: Thu 06 Apr 2017, 10:20:31
+#Created.By: mahant
+#Type: Steering
+#Data storage: 3 - 16 bit signed
+!
+Seis: 13
+2D Seismic Data: CBVS`Stream
+$Name: Seis
+#Created.At: Fri 07 Apr 2017, 15:19:58
+#Created.By: mahant
+#Created.From: /d15/mahant/surveys/testsurveys.git/trunk/ODData/F3_Test_Survey/Seis_Dip2.dat
+!
+Seismic_with_300-310_Inlines_missing: 14
+Seismic Data: CBVS`Stream
+$Name: Seismic_with_300-310_Inlines_missing.cbvs
+#Created.At: Fri 07 Apr 2017, 14:15:28
+#Created.By: mahant
+#Created.From: /d15/mahant/surveys/testsurveys.git/trunk/ODData/F3_Test_Survey/Seismic.dat
+!
+Seismic_with_300-310_Inlines_missing: 21
+2D Seismic Data: CBVS`Stream
+$Name: Seismic_with_300-310_Inlines_missing
+#Created.At: Mon 10 Apr 2017, 13:06:46
+#Created.By: mahant
 !

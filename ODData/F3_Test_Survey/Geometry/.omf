@@ -1,10 +1,94 @@
-dTect V5.0
+dTect V6.2
 Object Management file
-Wed Dec 19 14:03:56 2012
+Mon 10 Apr 2017, 13:06:46
 !
-ID: 100100
+ID: 100100`17
 !
 Geometry: 1
 Survey Geometry Directory: dGB`Stream
 $Name: Geometry
+!
+SSIS-Grid-Dip1_Seis: 2
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Dip1_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:32:30
+#Created.By: mahant
+!
+SSIS-Grid-Dip2_Seis: 3
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Dip2_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:32:44
+#Created.By: mahant
+!
+SSIS-Grid-Dip3_Seis: 4
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Dip3_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:32:55
+#Created.By: mahant
+!
+SSIS-Grid-Dip4_Seis: 5
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Dip4_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:33:06
+#Created.By: mahant
+!
+SSIS-Grid-Strike1_Seis: 6
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Strike1_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:33:20
+#Created.By: mahant
+!
+SSIS-Grid-Strike2_Seis: 7
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Strike2_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:33:35
+#Created.By: mahant
+!
+SSIS-Grid-Strike3_Seis: 8
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Strike3_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:33:44
+#Created.By: mahant
+!
+SSIS-Grid-Strike4_Seis: 9
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Strike4_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:33:54
+#Created.By: mahant
+!
+SSIS-Grid-Strike5_Seis: 10
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Strike5_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:34:03
+#Created.By: mahant
+!
+SSIS-Grid-Strike6_Seis: 11
+Geometry: 2D Geometry`Stream
+$Name: SSIS-Grid-Strike6_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:34:11
+#Created.By: mahant
+!
+Well correlation-Line_Seis: 12
+Geometry: 2D Geometry`Stream
+$Name: Well_correlation-Line_Seis.geom
+#Created.At: Thu 06 Apr 2017, 16:34:20
+#Created.By: mahant
+!
+Dip2: 15
+Geometry: 2D Geometry`Stream
+$Name: Dip2.geom
+#Created.At: Mon 10 Apr 2017, 12:27:22
+#Created.By: mahant
+!
+Dip1_Strike1_Merged: 16
+Geometry: 2D Geometry`Stream
+$Name: Dip1_Strike1_Merged.geom
+#Created.At: Mon 10 Apr 2017, 12:40:09
+#Created.By: mahant
+!
+Crossline 950: 17
+Geometry: 2D Geometry`Stream
+$Name: Crossline_950.geom
+#Created.At: Mon 10 Apr 2017, 13:06:46
+#Created.By: mahant
 !
