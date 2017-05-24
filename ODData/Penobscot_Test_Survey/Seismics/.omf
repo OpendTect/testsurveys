@@ -1,0 +1,63 @@
+dTect V6.0
+Object Management file
+Wed 24 May 2017, 11:45:55
+!
+ID: 100010`17
+!
+Seismics: 1
+Seismic directory: dGB`Stream
+$Name: Seismics
+!
+3D gathers pstm nmo 1300-1301: 5
+Pre-Stack Seismics: CBVS`Stream
+$Name: 3D_gathers_pstm_nmo_1300-1301
+#Created.At: Tue 18 Apr 2017, 11:04:06
+#Created.By: mahant
+#=Cube.ID: 100010.6
+#Created.From: /d15/mahant/surveys/Penobscot/3D gathers pstm nmo 1300-1301.sgy
+!
+{3D gathers pstm nmo 1300-1301}: 6
+Seismic Data: PS Cube`X-Group
+$ID: 100010.5
+!
+pstm stack raw: 9
+2D Seismic Data: CBVS`Stream
+$Name: pstm_stack_raw
+#Created.At: Wed 19 Apr 2017, 16:25:47
+#Created.By: mahant
+#Created.From: /d15/mahant/surveys/Penobscot/pstm stack raw Line 45.sgy
+!
+/dsk/d15/mahant/surveys/testsurveys.git/trunk/ODData/Penobscot_Test_Survey/2D gathers pstm nmo 400-1000.sgy: 999999
+Seismic Data: SEG-Y`Stream
+$Name: /dsk/d15/mahant/surveys/testsurveys.git/trunk/ODData/Penobscot_Test_Survey/2D gathers pstm nmo 400-1000.sgy
+#File name: /dsk/d15/mahant/surveys/testsurveys.git/trunk/ODData/Penobscot_Test_Survey/2D gathers pstm nmo 400-1000.sgy
+#Nr samples overrule: 1751
+#Number format: 1 - Floating point
+#Byte swapping: 0
+#IC -> XY: -1
+#X-coord byte: 72
+#Nr bytes for X-coord byte: 4
+#Y-coord byte: 76
+#Nr bytes for Y-coord byte: 4
+#Trace number byte: 4
+#Nr bytes for Trace number byte: 4
+#Reference number byte: 196
+#Nr bytes for Reference number byte: 4
+#Start time overrule: 0
+#Sample rate overrule: 0.004
+#Offset source: 0
+#Offset byte: 36
+#Nr bytes for Offset byte: 4
+#Revision: 1
+#Force Rev0: No
+#Is Zero-offset VSP: No
+#Z in feet: No
+#Geometry: Line 2D Pre-Stack
+!
+2D gathers pstm nmo: 17
+2D Pre-Stack Seismics: CBVS`Stream
+$Name: 2D_gathers_pstm_nmo
+#Created.At: Wed 24 May 2017, 11:38:28
+#Created.By: mahant
+#Created.From: /dsk/d15/mahant/surveys/testsurveys.git/trunk/ODData/Penobscot_Test_Survey/2D gathers pstm nmo 400-1000.sgy
+!
