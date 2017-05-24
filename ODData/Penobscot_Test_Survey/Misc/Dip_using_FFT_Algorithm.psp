@@ -1,0 +1,12 @@
+dTect V6.3
+Prestack Processor
+Tue 18 Apr 2017, 13:46:17
+!
+Nr processors: 1
+0.Name: Dip
+0.Steering Type: 1
+0.Stepout In-line: 0
+0.Stepout Cross-line: 0
+0.Nr sample vertical span: 0
+0.Maximum Dip: 1e30
+!

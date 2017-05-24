@@ -1,0 +1,20 @@
+dTect V6.1
+Survey Info
+Thu 06 Apr 2017, 12:35:24
+!
+Name: Penobscot_Test_Survey
+Survey Data Type: Both 2D and 3D
+In-line range: 2109876543`2109876543`1
+Cross-line range: 2109876543`2109876543`1
+Z range: 0`0`1`T
+Coord-X-BinID: 0`1`0
+Coord-Y-BinID: 0`0`1
+Set Point.1: <undef>`(2.1098765e12,2.1098765e12)
+Set Point.2: <undef>`(2.1098765e12,2.1098765e12)
+Set Point.3: 0/2109876543`(2.1098765e12,2.1098765e12)
+Coordinate system.System name: Unlocated XY
+Coordinate system.XY in Feet: No
+Coordinate system.Reference Lat/Long: 0`0
+Coordinate system.Reference Coordinate: 0`0
+Seismic Reference Datum: 0
+!

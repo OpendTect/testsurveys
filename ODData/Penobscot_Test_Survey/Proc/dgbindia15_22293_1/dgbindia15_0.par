@@ -1,0 +1,26 @@
+dTect V6.2
+Parameters
+Tue 18 Apr 2017, 13:49:23
+!
+Input: 100010.5
+Type: None
+Output: 100010.7
+Processing Setup: 100070.2
+Geometry: Pre-Stack Volume
+Program.Name: od_process_prestack
+Program.Args: 
+ExecPars.Monitor: Yes`
+ExecPars.ProgramType: BG`
+ExecPars.PriorityLevel: -1
+Survey: Penobscot_Test_Survey
+Data Root: /d15/mahant/surveys/testsurveys.git/trunk/ODData
+File name: /d15/mahant/surveys/testsurveys.git/trunk/ODData/Penobscot_Test_Survey/Proc/Dip_using_FFT_Algorithm_1300-1301.par
+Output.Subsel.Type: Range
+Output.Subsel.First In-line: 1300
+Output.Subsel.Last In-line: 1300
+Output.Subsel.First Cross-line: 1000
+Output.Subsel.Last Cross-line: 1481
+Output.Subsel.Step Cross-line: 1
+Output.Subsel.Z range: 0`6`0.004
+Log file: /d15/mahant/surveys/testsurveys.git/trunk/ODData/Penobscot_Test_Survey/Proc/dgbindia15_22293_1/dgbindia15_0.log
+!

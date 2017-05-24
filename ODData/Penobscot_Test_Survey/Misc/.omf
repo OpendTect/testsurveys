@@ -1,0 +1,16 @@
+dTect V6.3
+Object Management file
+Tue 18 Apr 2017, 13:46:17
+!
+ID: 100070`2
+!
+Misc: 1
+Miscellaneous directory: dGB`Stream
+$Name: Misc
+!
+Dip using FFT Algorithm: 2
+Prestack Processor: dGB`Stream
+$Name: Dip_using_FFT_Algorithm.psp
+#Created.At: Tue 18 Apr 2017, 13:46:17
+#Created.By: mahant
+!

@@ -1,0 +1,18 @@
+dTect V6.2
+Parameters
+Tue 18 Apr 2017, 13:51:02
+!
+Input: 100010.5
+Type: None
+Output: 100010.7
+Processing Setup: 100070.2
+Geometry: Pre-Stack Volume
+Log file: /d15/mahant/surveys/testsurveys.git/trunk/ODData/Penobscot_Test_Survey/Proc/Dip_using_FFT_Algorithm_1300-1301_log.txt
+Program.Name: od_process_prestack
+Program.Args: 
+ExecPars.Monitor: Yes` 
+ExecPars.ProgramType: BG` 
+ExecPars.PriorityLevel: -1
+Survey: Penobscot_Test_Survey
+Data Root: /d15/mahant/surveys/testsurveys.git/trunk/ODData
+!
