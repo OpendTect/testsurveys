@@ -1,8 +1,8 @@
-dTect V4.6
+dTect V6.0
 Object Management file
-Fri 08 Nov 2013, 11:46:50
+Fri 29 Sep 2017, 12:41:03
 !
-ID: 100010`8
+ID: 100010`9
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -37,7 +37,7 @@ $ID: 100010.6
 !
 Velocity_model_INT_INL426: 8
 Seismic Data: CBVS`Stream
-$Name: Velocity_model_INT_INL426.cbvs
+$Name: ../../F3_Test_Survey_DepthFT/Seismics/Velocity_model_INT_INL426.cbvs
 #User: raman
 #Data storage: 0 - auto
 #Top Vavg: 1959.9659`1960.0133

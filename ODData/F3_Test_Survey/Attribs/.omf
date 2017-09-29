@@ -1,8 +1,8 @@
-dTect V4.3
+dTect V6.0
 Object Management file
-Thu 21 Jun 2012, 13:12:43
+Wed 27 Sep 2017, 15:42:24
 !
-ID: 100080`2
+ID: 100080`3
 !
 Attribs: 1
 Atribute Definitions: dGB`Stream
@@ -11,5 +11,12 @@ $Name: Attribs
 Evaluate attributes: 2
 Attribute definitions: dGB`Stream
 $Name: Evaluate_attributes.attr
+#Type: 3D
+!
+Velocity function: 3
+Attribute definitions: dGB`Stream
+$Name: Velocity_function.attr
+#Created.At: Wed 27 Sep 2017, 15:36:55
+#Created.By: arnaud
 #Type: 3D
 !

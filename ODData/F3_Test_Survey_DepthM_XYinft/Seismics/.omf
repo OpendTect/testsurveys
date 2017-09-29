@@ -1,8 +1,8 @@
-dTect V4.6
+dTect V6.0
 Object Management file
-Fri 08 Nov 2013, 13:21:28
+Fri 29 Sep 2017, 12:16:41
 !
-ID: 100010`10
+ID: 100010`11
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -44,4 +44,7 @@ $Name: Velocity_model_INT_INL426.cbvs
 #Bottom Vavg: 2098.873`2144.4773
 #Velocity Type: Vint
 #Is Velocity: Yes
+#Created.From: /auto/d55/surveys/testsurveys/F3_Test_Survey_DepthM/Seismics/Velocity_model_INT_INL426.cbvs
+#Created.At: Fri 29 Sep 2017, 12:16:39
+#Created.By: arnaud
 !

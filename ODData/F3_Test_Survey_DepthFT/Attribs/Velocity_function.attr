@@ -1,0 +1,25 @@
+dTect V6.0
+Attribute definitions
+Fri 29 Sep 2017, 12:37:22
+!
+Attribute Descriptions: 
+1.Definition: Math expression="Z < 1842.354987 ? c0 : ( Z < 1850 ? c1 : ( Z < 2022.177822 ? c2 : (Z < 2030 ? c3 : ( Z < 3266.364173 ? c4 : ( Z < 3275 ? c5 : c6 ) ) ) ) )" constant0=6430.446194 constant1=6544.522042 constant2=7135.826772 constant3=7186.68159 constant4=7414.698163 constant5=7521.04061 constant6=7874.015748  output=0
+1.UserRef: Velocity function
+1.Hidden: No
+1.DataType: Other
+1.Index: 0
+3.Definition: Storage id=100010.8 output=0
+3.UserRef: Velocity_model_INT_INL426
+3.Hidden: No
+3.DataType: Other
+3.Index: 1
+4.Definition: Math expression="INL == 426 && CRL == 800 ? velfunc : velstor" output=0
+4.UserRef: Merged velocity
+4.Hidden: No
+4.DataType: Other
+4.Index: 2
+4.Input.0: 1
+4.Input.1: 3
+MaxNrKeys: 4
+Type: 3D
+!

@@ -1,6 +1,6 @@
-dTect V6.3
+dTect V6.1
 Object Management file
-Mon 22 May 2017, 10:49:55
+Tue 03 Jan 2017, 15:09:20
 !
 ID: 100030`3
 !
@@ -18,22 +18,4 @@ $Name: Area_25km2.pck
 #Created.At: Tue 20 Dec 2016, 11:11:39
 #Created.By: User
 #Type: Polygon
-!
-Probe 1: 1000000`42876
-Probe Group: dGB`Stream
-$Name: Probe_1.prb
-#Created.At: Fri 19 May 2017, 16:44:45
-#Created.By: mahant
-!
-Probe 2: 1000001`42876
-Probe Group: dGB`Stream
-$Name: Probe_2.prb
-#Created.At: Fri 19 May 2017, 16:45:07
-#Created.By: mahant
-!
-Probe 3: 1000002`42876
-Probe Group: dGB`Stream
-$Name: Probe_3.prb
-#Created.At: Mon 22 May 2017, 10:49:55
-#Created.By: mahant
 !

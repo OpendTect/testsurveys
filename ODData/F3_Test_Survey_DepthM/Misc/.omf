@@ -1,6 +1,6 @@
-dTect V4.7
+dTect V6.0
 Object Management file
-Fri 04 Oct 2013, 14:42:51
+Tue 24 Jan 2017, 11:33:43
 !
 ID: 100070`4
 !
@@ -14,13 +14,11 @@ $Name: Start.sess
 !
 Mute 30deg: 3
 Mute Definition: dGB`Stream
-$Extension: mute
 $Name: Mute_30deg.mute
 #User: arnaud
 !
 Mute 30deg adv: 4
 Mute Definition: dGB`Stream
-$Extension: mute
 $Name: Mute_30deg_adv.mute
 #User: arnaud
 !
