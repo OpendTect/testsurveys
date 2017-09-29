@@ -1,4 +1,0 @@
-Starting program: /dsk/d15/mahant/dev/od6.2/bin/lux64/Debug/od_process_prestack /d15/mahant/surveys/testsurveys.git/trunk/ODData/Penobscot_Test_Survey/Proc/Dip_using_FFT_Algorithm_1300-1301.par
-Processing on: dgbindia15
-Process ID: 22333
-.
