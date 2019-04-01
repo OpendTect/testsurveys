@@ -411,15 +411,4 @@ Scene.0.Manipulator Distance: 11517.45280188
 3D.Stored.Attribs.0.Index: 0
 3D.Stored.Attribs.MaxNrKeys: 0
 3D.Stored.Attribs.Type: 3D
-Tracking.Nr Trackers: 0
-Tracking.First In-line: 2109876543
-Tracking.First Cross-line: 2109876543
-Tracking.Last In-line: 2109876543
-Tracking.Last Cross-line: 2109876543
-Tracking.Step In-line: 1
-Tracking.Step Cross-line: 1
-Tracking.Survey ID: 2109876543
-Tracking.Z range: 0`0`1
-Plugins.PS2DViewers.Nr Viewers: 0
-Plugins.Well Corr Panel.Nr Viewers: 0
 !
