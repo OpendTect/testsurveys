@@ -1,6 +1,6 @@
-dTect V6.1
+dTect V6.4
 Survey Info
-Thu 06 Apr 2017, 16:16:19
+Mon 01 Apr 2019, 13:51:34
 !
 Name: F3 Test Survey
 Survey Data Type: Both 2D and 3D
@@ -12,11 +12,10 @@ Coord-Y-BinID: 6070847.887`24.98965517`0.6984323432
 Set Point.1: 100/300`(605835.516689,6073556.38222)
 Set Point.2: 750/1250`(629122.546506,6090463.168806)
 Set Point.3: 100/1250`(629576.257713,6074219.892946)
-Coordinate system.System name: Unlocated XY
-Coordinate system.XY in Feet: No
-Coordinate system.Reference Lat/Long: 54.872108`4.83051
-Coordinate system.Reference Coordinate: 617460.875`6082095
-Seismic Reference Datum: 0
+Coordinate System.System name: ProjectionBased System
+Coordinate System.Projection.ID: EPSG`23031
+Coordinate System.Projection.Name: ED50 / UTM zone 31N
+XY in feet: No
 Seismic Reference Datum: 0
 !
 Time Test Survey

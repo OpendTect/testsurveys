@@ -2,7 +2,7 @@ dTect V6.0
 Object Management file
 Thu 22 Dec 2016, 16:11:03
 !
-ID: 100020`8
+ID: 100020`82
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -44,4 +44,50 @@ $Name: VolumeEstimation.body
 #Created.At: Thu 22 Dec 2016, 14:02:35
 #Created.By: nanne
 #Type: MC
+!
+2D Demo0 - FS4: 21
+2D Horizon: dGB`Stream
+$Name: 2D_Demo0_-_FS4.2dh
+!
+2D Demo1 - MFS4: 23
+2D Horizon: dGB`Stream
+$Name: 2D_Demo1_-_MFS4.2dh
+!
+2D Demo4 - Truncation: 24
+2D Horizon: dGB`Stream
+$Name: 2D_Demo4_-_Truncation.2dh
+!
+2D Demo6 - FS8: 25
+2D Horizon: dGB`Stream
+$Name: 2D_Demo6_-_FS8.2dh
+!
+2D Demo7 - FS11: 26
+2D Horizon: dGB`Stream
+$Name: 2D_Demo7_-_FS11.2dh
+!
+SSIS-Grid-Base: 31
+2D Horizon: dGB`Stream
+$Name: SSIS-Grid-Base.2dh
+#Created.At: Fri 07 Feb 2014, 09:26:28
+#Created.By: cases`arnaud6
+#Type: 2D Horizon
+!
+SSIS-Grid-Top: 32
+2D Horizon: dGB`Stream
+$Name: SSIS-Grid-Top.2dh
+#Created.At: Fri 07 Feb 2014, 09:26:57
+#Created.By: cases`arnaud6
+#Type: 2D Horizon
+!
+SSIS-Grid-Shallow: 80
+2D Horizon: dGB`Stream
+$Name: SSIS-Grid-Shallow.2dh
+#Created.At: Tue 22 Jul 2014, 11:21:01
+#Created.By: arnaud
+!
+SSIS-Grid-Deep: 82
+2D Horizon: dGB`Stream
+$Name: SSIS-Grid-Deep.2dh
+#Created.At: Tue 22 Jul 2014, 11:23:37
+#Created.By: cases`arnaud6
 !

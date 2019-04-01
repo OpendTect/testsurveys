@@ -1,0 +1,9 @@
+dTect V4.6
+File Name Table
+Tue 19 May 2015, 14:11:56
+!
+Line Sets
+Well correlation: Well_correlation`0
+SSIS Grid: SSIS_Grid`1
+Max ID: 1
+!

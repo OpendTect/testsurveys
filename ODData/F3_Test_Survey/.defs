@@ -1,6 +1,6 @@
-dTect V6.2
+dTect V6.4
 Survey defaults
-Mon 23 Jan 2017, 14:29:51
+Mon 01 Apr 2019, 13:52:56
 !
 Survey defaults
 Show depth in feet: No
@@ -22,4 +22,32 @@ Default.Cube.Velocity: 100010.8
 UOM.Time: Milliseconds
 Default.PickSet Group: 100030.3
 Z Scale.TWT: 21.37962151
+UOM.Area: Square meter
+UOM.Compressibility: 1/Pascal
+UOM.convert to\:: Fraction
+UOM.Density: Kg/m3
+UOM.Distance/Depth: Meter
+UOM.Elastic Ratio: Ratio
+UOM.Electrical Potential: mVolt
+UOM.Formula result is: Microseconds/meter
+UOM.Gamma Ray: API
+UOM.Impedance: Meter/second x Kg/m3
+UOM.Other: Seconds
+UOM.Output unit of measure: Meter/second
+UOM.Pressure: Pascal
+UOM.Pressure-Weight: Pascal.Kg/m3
+UOM.Resistivity: OhmMeter
+UOM.Sonic travel time: Seconds/meter
+UOM.Temperature: Degrees Celcius
+UOM.Velocity: Meter/second
+UOM.Volume: Cubic meters
+UOM.Volumetrics: Fraction
+Default.Stratigraphic Framework: -1
+Coordinate System.System name: ProjectionBased System
+Coordinate System.Projection.ID: EPSG`23031
+Coordinate System.Projection.Name: ED50 / UTM zone 31N
+Default.RandomLine Geometry: 100030.5
+Default.2D Cube: 100010.12
+Default.Geometry: 100100.2
+Default.2D Horizon: 100020.21
 !

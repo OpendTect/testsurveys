@@ -1,0 +1,12 @@
+dTect V4.2
+Parameters
+do 19 mei 2011, 11:22:15
+!
+Name: Seismics
+Type: Fixed
+Clip Rate: 0.025
+Sym Mid Value: 0
+Auto Sym: Yes
+Max Pts: 2560
+Start_Width: -4500`9000
+!

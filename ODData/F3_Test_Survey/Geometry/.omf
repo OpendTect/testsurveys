@@ -1,94 +1,76 @@
-dTect V6.2
+dTect V6.4
 Object Management file
-Mon 10 Apr 2017, 13:06:46
+Mon 01 Apr 2019, 13:13:30
 !
-ID: 100100`17
+ID: 100100`12
 !
 Geometry: 1
 Survey Geometry Directory: dGB`Stream
 $Name: Geometry
 !
-SSIS-Grid-Dip1_Seis: 2
+Line: 2
 Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Dip1_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:32:30
-#Created.By: mahant
-!
-SSIS-Grid-Dip2_Seis: 3
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Dip2_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:32:44
-#Created.By: mahant
-!
-SSIS-Grid-Dip3_Seis: 4
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Dip3_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:32:55
-#Created.By: mahant
-!
-SSIS-Grid-Dip4_Seis: 5
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Dip4_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:33:06
-#Created.By: mahant
-!
-SSIS-Grid-Strike1_Seis: 6
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Strike1_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:33:20
-#Created.By: mahant
-!
-SSIS-Grid-Strike2_Seis: 7
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Strike2_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:33:35
-#Created.By: mahant
-!
-SSIS-Grid-Strike3_Seis: 8
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Strike3_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:33:44
-#Created.By: mahant
-!
-SSIS-Grid-Strike4_Seis: 9
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Strike4_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:33:54
-#Created.By: mahant
-!
-SSIS-Grid-Strike5_Seis: 10
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Strike5_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:34:03
-#Created.By: mahant
-!
-SSIS-Grid-Strike6_Seis: 11
-Geometry: 2D Geometry`Stream
-$Name: SSIS-Grid-Strike6_Seis.geom
-#Created.At: Thu 06 Apr 2017, 16:34:11
-#Created.By: mahant
-!
-Well correlation-Line_Seis: 12
-Geometry: 2D Geometry`Stream
-$Name: Well_correlation-Line_Seis.geom
+$Name: Line.geom
 #Created.At: Thu 06 Apr 2017, 16:34:20
-#Created.By: mahant
+#Created.From: 0.0
 !
-Dip2: 15
+Dip1: 3
+Geometry: 2D Geometry`Stream
+$Name: Dip1.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
+!
+Dip2: 4
 Geometry: 2D Geometry`Stream
 $Name: Dip2.geom
-#Created.At: Mon 10 Apr 2017, 12:27:22
-#Created.By: mahant
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
 !
-Dip1_Strike1_Merged: 16
+Dip3: 5
 Geometry: 2D Geometry`Stream
-$Name: Dip1_Strike1_Merged.geom
-#Created.At: Mon 10 Apr 2017, 12:40:09
-#Created.By: mahant
+$Name: Dip3.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
 !
-Crossline 950: 17
+Dip4: 6
 Geometry: 2D Geometry`Stream
-$Name: Crossline_950.geom
-#Created.At: Mon 10 Apr 2017, 13:06:46
-#Created.By: mahant
+$Name: Dip4.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
+!
+Strike1: 7
+Geometry: 2D Geometry`Stream
+$Name: Strike1.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
+!
+Strike2: 8
+Geometry: 2D Geometry`Stream
+$Name: Strike2.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
+!
+Strike3: 9
+Geometry: 2D Geometry`Stream
+$Name: Strike3.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
+!
+Strike4: 10
+Geometry: 2D Geometry`Stream
+$Name: Strike4.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
+!
+Strike5: 11
+Geometry: 2D Geometry`Stream
+$Name: Strike5.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
+!
+Strike6: 12
+Geometry: 2D Geometry`Stream
+$Name: Strike6.geom
+#Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
 !

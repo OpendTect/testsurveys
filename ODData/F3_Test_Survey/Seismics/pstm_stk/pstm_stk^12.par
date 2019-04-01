@@ -1,0 +1,12 @@
+dTect V4.6
+Parameters
+Thu 26 Jun 2014, 14:34:39
+!
+Name: Grey scales
+Type: Fixed
+Clip Rate: 0.03`0.025
+Sym Mid Value: 0
+Auto Sym: Yes
+Range: -4500`4500
+Flip seq: No
+!
