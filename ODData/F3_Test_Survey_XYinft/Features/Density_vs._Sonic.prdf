@@ -1,16 +1,18 @@
-dTect V4.2
+dTect V7.0.2
 Probability Density Function
-do 03 nov 2011, 19:51:10
+2023-09-06T14:18:18Z
 !
-Type: Sampled2D
-Nr dimensions: 2
+Binary: No
 Name.0: Density
 Name.1: Sonic
-Size.0: 25
+Nr dimensions: 2
 Sampling.0: 2078`6
-Size.1: 25
 Sampling.1: 422`4
-Binary: No
+Size.0: 25
+Size.1: 25
+Type: Sampled2D
+Unit.0: kg/m3
+Unit.1: us/m
 !
 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.0625	0.15625	0.03125	0	0
 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.109375	0.40625	0.515625	0.15625	0.015625	0
