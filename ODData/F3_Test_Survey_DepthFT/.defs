@@ -1,6 +1,6 @@
 dTect V7.0.2
 Survey defaults
-2023-09-06T12:49:50Z
+2023-09-06T13:52:21Z
 !
 Survey defaults
 Default.Cube: 100010.2
@@ -20,5 +20,11 @@ Home position.Position: 2019185.375`19934482`-11.2476358413696
 SEG-Y Rev. 1 policy: 3
 Session.Auto ID: 100070.2
 Show depth in feet: Yes
+UOM.Density: kg/m3
+UOM.Gamma Ray: API
+UOM.Impedance: m/s x kg/m3
+UOM.Other: Fraction
+UOM.Sonic travel time: us/m
+UOM.Volumetrics: Fraction
 Z Stretch: 14.99685
 !
