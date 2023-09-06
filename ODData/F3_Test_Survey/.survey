@@ -1,21 +1,20 @@
-dTect V6.4
+dTect V7.0.2
 Survey Info
-Mon 01 Apr 2019, 13:51:34
+2023-09-06T14:50:41Z
 !
 Name: F3 Test Survey
 Survey Data Type: Both 2D and 3D
 In-line range: 200`650`2
 Cross-line range: 700`1200`2
 Z range: 0.4`1.1`0.004`T
-Coord-X-BinID: 598408.2423`-0.6980172415`24.99025371
-Coord-Y-BinID: 6070847.887`24.98965517`0.6984323432
-Set Point.1: 100/300`(605835.516689,6073556.38222)
-Set Point.2: 750/1250`(629122.546506,6090463.168806)
-Set Point.3: 100/1250`(629576.257713,6074219.892946)
-Coordinate System.System name: ProjectionBased System
+Coord-X-BinID: 598408.2457`-0.6980153846`24.99025263
+Coord-Y-BinID: 6070847.884`24.98966154`0.6984315789
+Set Point.1: 100/300`(605835.52,6073556.38)
+Set Point.2: 750/1250`(629122.55,6090463.17)
+Set Point.3: 100/1250`(629576.26,6074219.89)
 Coordinate System.Projection.ID: EPSG`23031
 Coordinate System.Projection.Name: ED50 / UTM zone 31N
-XY in feet: No
+Coordinate System.System name: ProjectionBased System
 Seismic Reference Datum: 0
 !
 Time Test Survey
