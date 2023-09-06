@@ -1,0 +1,12 @@
+dTect V6.6
+Parameters
+Wed 22 Sep 2021, 09:40:01
+!
+Name: Depth
+Type: Fixed
+Clip Rate: 0.03`0.025
+Sym Mid Value: 1e30
+Auto Sym: Yes
+Range: 1959.9760742`2400.085449
+Flip seq: No
+!

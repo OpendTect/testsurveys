@@ -1,22 +1,22 @@
-dTect V6.0
+dTect V7.1.0
 Survey defaults
-Thu 22 Dec 2016, 14:05:32
+2023-09-06T12:49:50Z
 !
-Survey defaults: 
-Show depth in feet: Yes
-Z Stretch: 14.99685
+Survey defaults
 Default.Cube: 100010.2
+Default.Cube.Velocity: 100010.8
 Default.Horizon: 100020.2
-Default.Well: 100050.2
-Session.Auto ID: 100070.2
+Default.PickSet Group: 100030.3
 Default.Wavelet: 100010.3
-Home position.Position: 2019185.375`19934482`-11.2476358413696
-Home position.Orientation: 1`-0`0`1.570796
+Default.Well: 100050.2
 Home position.Aspect ratio: 1
-Home position.Near Distance: 1
 Home position.Far Distance: -2147483648
 Home position.Focal Distance: 5
+Home position.Near Distance: 1
+Home position.Orientation: 1`-0`0`1.570796
+Home position.Position: 2019185.375`19934482`-11.2476358413696
 SEG-Y Rev. 1 policy: 3
-Default.Cube.Velocity: 100010.8
-Default.PickSet Group: 100030.3
+Session.Auto ID: 100070.2
+Show depth in feet: Yes
+Z Stretch: 14.99685
 !

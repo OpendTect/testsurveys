@@ -1,8 +1,8 @@
-dTect V6.0
+dTect V6.6
 Object Management file
-Mon 23 Jan 2017, 14:22:40
+Wed 02 Nov 2022, 16:56:55
 !
-ID: 100070`49
+ID: 100070`50
 !
 Misc: 1
 Miscellaneous directory: dGB`Stream
@@ -51,4 +51,11 @@ Volume Processing Setup: dGB`Stream
 $Name: Steering_FFT.vpsetup
 #Created.At: Thu 06 Apr 2017, 10:26:00
 #Created.By: mahant
+!
+Mute 20deg adv: 50
+Mute Definition: dGB`Stream
+$Name: Mute_20deg_adv.mute
+#Version: 6.6.9rc6
+#Created.At: Wed 02 Nov 2022, 16:56:55
+#Created.By: cases`arnaud6
 !
