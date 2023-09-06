@@ -1,16 +1,19 @@
-dTect V4.3
+dTect V6.6
 Stratigraphic Tree
-do 03 nov 2011, 19:44:49
+Mon 03 Aug 2020, 17:23:58
 !
-General
-Lithology: sand`0`P`#dc3232
-Lithology: shale`1`N`#3232dc
-Lithology: limestone`2`P`#32c832
-Lithology: dolomite`3`P`#32c8c8
-Lithology: halite`4`N`#ffd200
-Lithology: anhydrite`5`N`#dc00dc
+General: 
+Lithology: sand`0`P`#ffd700
+Lithology: shale`1`N`#8b4500
+Lithology: limestone`2`P`#00aaff
+Lithology: dolomite`3`P`#0000ff
+Lithology: halite`4`N`#ff00ff
+Lithology: anhydrite`5`N`#9be8e8
+Contents: Oil`Gas
+Contents.Oil.Appearance: 1`4`#008000
+Contents.Gas.Appearance: 1`4`#ff0000
 !
-Units
+Units: 
 Quaternary:  
 Quaternary.Pleistocene:  
 Quaternary.Pleistocene.S6-S13: -1` 
@@ -176,15 +179,15 @@ Properties for Quaternary.Pleistocene.S6-S13.shale
 Color: 255`255`255
 !
 Properties for Tertiary
-Color: 220`50`50
+Color: 143`188`143
 Time: 3`66
 !
 Properties for Tertiary.Upper_North_Sea
-Color: 255`0`0
+Color: 192`192`192
 Time: 3`23
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout
-Color: 220`0`220
+Color: 144`238`144
 Time: 3`6
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S5
@@ -198,7 +201,7 @@ Properties for Tertiary.Upper_North_Sea.Oosterhout.S5.shale
 Color: 255`255`255
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S4
-Color: 204`133`61
+Color: 220`220`220
 Time: 3.6`4.2
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S4.sand
@@ -208,14 +211,14 @@ Properties for Tertiary.Upper_North_Sea.Oosterhout.S4.shale
 Color: 255`255`255
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S3
-Color: 220`50`50
+Color: 102`205`170
 Time: 4.2`4.8
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S3.sand
 Color: 255`255`255
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S2
-Color: 220`0`220
+Color: 60`179`113
 Time: 4.8`5.4
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S2.sand
@@ -225,7 +228,7 @@ Properties for Tertiary.Upper_North_Sea.Oosterhout.S2.shale
 Color: 255`255`255
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S1
-Color: 50`50`220
+Color: 0`100`0
 Time: 5.4`6
 !
 Properties for Tertiary.Upper_North_Sea.Oosterhout.S1.sand

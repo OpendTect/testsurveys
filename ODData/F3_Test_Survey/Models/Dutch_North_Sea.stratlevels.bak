@@ -1,30 +1,26 @@
-dTect V4.3
+dTect V6.6
 Stratigraphic Levels
-do 03 nov 2011, 19:44:49
+Mon 03 Aug 2020, 17:23:58
 !
 ID: 1
-Name: base North Sea Group
+Name: Base North Sea Group
 Color: 220`50`50
 !
 ID: 2
-Name: top Chalk
+Name: Top Chalk
 Color: 0`170`0
 !
 ID: 3
-Name: top Zechstein
+Name: Top Zechstein
 Color: 0`85`255
 !
 ID: 4
-Name: top Rotliegend
+Name: Top Rotliegend
 Color: 255`0`0
 !
 ID: 5
-Name: base Miocene Unconformity
+Name: Base Miocene Unconformity
 Color: 255`210`0
-!
-ID: 21
-Name: MFS11
-Color: 50`50`220
 !
 ID: 22
 Name: FS11

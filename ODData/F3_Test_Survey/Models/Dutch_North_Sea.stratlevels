@@ -1,0 +1,60 @@
+dTect V7.0.2
+Stratigraphic Levels
+2023-09-06T13:23:30Z
+!
+Color: 220`50`50
+ID: 1
+Name: Base North Sea Group
+!
+Color: 0`170`0
+ID: 2
+Name: Top Chalk
+!
+Color: 0`85`255
+ID: 3
+Name: Top Zechstein
+!
+Color: 255`0`0
+ID: 4
+Name: Top Rotliegend
+!
+Color: 255`210`0
+ID: 5
+Name: Base Miocene Unconformity
+!
+Color: 50`200`50
+ID: 22
+Name: FS11
+!
+Color: 50`200`200
+ID: 23
+Name: MFS10
+!
+Color: 0`255`0
+ID: 41
+Name: FS8
+!
+Color: 50`50`220
+ID: 42
+Name: FS7
+!
+Color: 170`85`255
+ID: 43
+Name: Truncation
+!
+Color: 255`0`0
+ID: 44
+Name: Top Foresets
+!
+Color: 255`170`0
+ID: 45
+Name: FS6
+!
+Color: 0`85`255
+ID: 46
+Name: MFS4
+!
+Color: 50`200`50
+ID: 47
+Name: FS4
+!

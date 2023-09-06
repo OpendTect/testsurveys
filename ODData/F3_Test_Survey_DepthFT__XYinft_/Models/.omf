@@ -1,19 +1,26 @@
-dTect V4.3
+dTect V7.0.2
 Object Management file
-do 03 nov 2011, 19:19:17
+2023-09-06T13:00:16Z
 !
-ID: 100090`3
+ID: 100090`4
 !
 Models: 1
 Earth Models directory: dGB`Stream
 $Name: Models
 !
-A test: 2
+Dutch North Sea: 2
+Stratigraphic Tree: od`Stream
+$Name: Dutch_North_Sea.sfw
+#Created.At: 2023-09-06T13:00:16Z
+#Version: 7.0.2
+#Created.By: arnaud
+!
+A test: 3
 Layer Sequence Generator Description: od`Stream
 $Name: A_test.sgd
 #Type: Basic
 !
-Stoch simple w Bunt: 3
+Stoch simple w Bunt: 4
 Layer Sequence Generator Description: od`Stream
 $Name: Stoch_simple_w_Bunt.sgd
 #Type: Stochastic [dGB]

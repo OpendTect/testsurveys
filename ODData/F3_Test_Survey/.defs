@@ -1,6 +1,6 @@
-dTect V7.1.0
+dTect V7.0.2
 Survey defaults
-2023-09-06T12:48:59Z
+2023-09-06T13:07:58Z
 !
 Survey defaults
 3DAttrset.Auto ID: 100080.2
@@ -16,7 +16,8 @@ Default.Horizon: 100020.2
 Default.PickSet Group: 100030.3
 Default.RandomLine Geometry: 100030.5
 Default.Session setup: 100070.2
-Default.Stratigraphic Framework: -1
+Default.Stratigraphic Framework: 100090.2
+Default.Stratigraphic Tree: 100090.2
 Default.Wavelet: 100010.3
 Default.Well: 100050.2
 Home position.Aspect ratio: 1
@@ -28,27 +29,6 @@ Home position.Position: 615447.6875`6075334.5`-11.247636
 SEG-Y Rev. 1 policy: 3
 Session.Auto ID: 100070.2
 Show depth in feet: No
-UOM.Area: Square meter
-UOM.Compressibility: 1/Pascal
-UOM.Density: Kg/m3
-UOM.Distance/Depth: Meter
-UOM.Elastic Ratio: Ratio
-UOM.Electrical Potential: mVolt
-UOM.Formula result is: Microseconds/meter
-UOM.Gamma Ray: API
-UOM.Impedance: Meter/second x Kg/m3
-UOM.Other: Seconds
-UOM.Output unit of measure: Meter/second
-UOM.Pressure: Pascal
-UOM.Pressure-Weight: Pascal.Kg/m3
-UOM.Resistivity: OhmMeter
-UOM.Sonic travel time: Seconds/meter
-UOM.Temperature: Degrees Celcius
-UOM.Time: Milliseconds
-UOM.Velocity: Meter/second
-UOM.Volume: Cubic meters
-UOM.Volumetrics: Fraction
-UOM.convert to\:: Fraction
 Z Scale.TWT: 21.37962151
 Z Stretch: 14.996848
 !
