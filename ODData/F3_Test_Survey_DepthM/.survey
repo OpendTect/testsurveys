@@ -1,6 +1,6 @@
-dTect V7.0.2
+dTect V7.1.0
 Survey Info
-2023-09-06T14:53:45Z
+2023-09-15T11:41:58Z
 !
 Name: F3_Test_Survey_DepthM
 Survey Data Type: Only 3D
@@ -12,11 +12,10 @@ Coord-Y-BinID: 6070847.884`24.98966154`0.6984315789
 Set Point.1: 100/300`(605835.52,6073556.38)
 Set Point.2: 750/1250`(629122.55,6090463.17)
 Set Point.3: 100/1250`(629576.26,6074219.89)
-Coordinate System.Projection.ID: EPSG`23031
-Coordinate System.Projection.Name: ED50 / UTM zone 31N
 Coordinate System.System name: ProjectionBased System
+Coordinate System.Projection.Name: ED50 / UTM zone 31N
+Coordinate System.Projection.ID: EPSG`23031
 Seismic Reference Datum: 0
-Lat/Long anchor: (617460.875,6082095)=[54.872108,4.83051]
 !
 Depth Test Survey
 XY: m  -  Z: m  -  Z display: m

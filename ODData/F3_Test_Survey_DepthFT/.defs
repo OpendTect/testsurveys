@@ -1,6 +1,6 @@
-dTect V7.0.2
+dTect V7.1.0
 Survey defaults
-2023-09-06T14:45:22Z
+2023-09-15T15:08:54Z
 !
 Survey defaults
 Default.Cube: 100010.2
@@ -20,5 +20,6 @@ Home position.Position: 2019185.375`19934482`-11.2476358413696
 SEG-Y Rev. 1 policy: 3
 Session.Auto ID: 100070.2
 Show depth in feet: Yes
-Z Stretch: 14.99685
+UOM.Velocity: m/s
+Z Scale.Depth: 10
 !

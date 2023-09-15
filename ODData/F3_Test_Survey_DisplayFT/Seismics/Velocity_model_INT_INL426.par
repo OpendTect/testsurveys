@@ -1,9 +1,9 @@
 dTect V7.1.0
 Parameters
-2023-09-12T12:34:58Z
+2023-09-12T12:32:11Z
 !
 Auto Sym: Yes
-Clip Rate: 0.03`0.025
+Clip Rate: 0.005`0.005
 Flip seq: Yes
 Name: Brown 4grades
 Range: 1500`2400

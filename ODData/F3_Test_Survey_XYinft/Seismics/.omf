@@ -1,8 +1,8 @@
-dTect V6.0
+dTect V7.1.0
 Object Management file
-Fri 29 Sep 2017, 09:57:27
+2023-09-15T13:47:27Z
 !
-ID: 100010`8
+ID: 100010`11
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -36,12 +36,41 @@ $ID: 100010.6
 !
 Velocity_model_INT_INL426: 8
 Seismic Data: CBVS`Stream
-$Name: Velocity_model_INT_INL426.cbvs
-#User: demo
-#Type: Attribute
-#Data storage: 0 - auto
-#Top Vavg: 6430.305`6430.532
-#Bottom Vavg: 6857.841`7147.671
-#Velocity Type: Vint
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model_INT_INL426.cbvs
 #Is Velocity: Yes
+#Velocity Type: Vint
+#Velocity Unit: m/s
+#Bottom Vavg: 2098.8730469`2144.4772949`m/s
+#Top Vavg: 1959.9659424`1960.0133057`m/s
+!
+Velocity_model_INT_INL426 ftsec: 9
+Seismic Data: CBVS`Stream
+$Name: Velocity_model_INT_INL426_ftsec.cbvs
+#Is Velocity: Yes
+#Velocity Type: Vint
+#Velocity Unit: ft/s
+#Top Vavg: 6430.3344727`6430.4902344`ft/s
+#Bottom Vavg: 6886.0668945`7035.6870117`ft/s
+!
+Velocity model INT INL426 in Depth-M: 10
+Seismic Data: CBVS`Stream
+$Name: ../../F3_Test_Survey_DepthM/Seismics/Velocity_model_INT_INL426.cbvs
+#ZDomain: Depth
+#Depth-Unit: m
+#Is Velocity: Yes
+#Velocity Type: Vint
+#Velocity Unit: m/s
+#Top Vavg: 1959.9666748`1960.0352783`m/s
+#Bottom Vavg: 2106.9111328`2145.7988281`m/s
+!
+Velocity model INT INL426 in Depth-FT: 11
+Seismic Data: CBVS`Stream
+$Name: ../../F3_Test_Survey_DepthFT/Seismics/Velocity_model_INT_INL426.cbvs
+#ZDomain: Depth
+#Depth-Unit: ft
+#Is Velocity: Yes
+#Velocity Type: Vint
+#Velocity Unit: ft/s
+#Top Vavg: 6430.3925781`6430.5981445`ft/s
+#Bottom Vavg: 6915.5610352`7044.6113281`ft/s
 !

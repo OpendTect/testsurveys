@@ -1,8 +1,8 @@
-dTect V7.0.2
+dTect V7.1.0
 Object Management file
-2023-09-06T14:34:25Z
+2023-09-11T10:22:45Z
 !
-ID: 100090`5
+ID: 100090`6
 !
 Models: 1
 Earth Models directory: dGB`Stream
@@ -28,8 +28,15 @@ $Name: Stoch_simple_w_Bunt.sgd
 Single 100ft layer starting at 200ft depth: 5
 Layer Sequence Generator Description: od`Stream
 $Name: Single_100ft_layer_starting_at_200ft_depth.sgd
+#Type: Stochastic [dGB]
 #Version: 7.0.2
 #Created.By: arnaud
 #Created.At: 2023-09-06T14:34:25Z
-#Type: Stochastic [dGB]
+!
+Simple two-layers model: 6
+Simple Time-Depth Model: od`Stream
+$Name: Simple_two-layers_model.tdm
+#Version: 7.1.0 (development)
+#Created.By: arnaud
+#Created.At: 2023-09-11T10:22:45Z
 !
