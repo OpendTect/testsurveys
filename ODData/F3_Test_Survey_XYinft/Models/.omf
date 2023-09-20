@@ -2,7 +2,7 @@ dTect V7.1.0
 Object Management file
 2023-09-12T10:26:43Z
 !
-ID: 100090`6
+ID: 100090`7
 !
 Models: 1
 Earth Models directory: dGB`Stream
@@ -31,10 +31,17 @@ $Name: Slanted_F3-04.sgd
 #Type: Profile [dGB]
 #User: cases`arnaud7
 !
-Simple two-layers model: 6
+Simple two-layers model in Meter: 6
 Simple Time-Depth Model: od`Stream
-$Name: Simple_two-layers_model.tdm
-#Created.By: arnaud
-#Created.At: 2023-09-12T10:26:43Z
+$Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Meter.tdm
 #Version: 7.1.0 (development)
+#Created.By: arnaud
+#Created.At: 2023-09-11T10:16:03Z
+!
+Simple two-layers model in Feet: 7
+Simple Time-Depth Model: od`Stream
+$Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Feet.tdm
+#Version: 7.1.0 (development)
+#Created.By: arnaud
+#Created.At: 2023-09-11T10:16:03Z
 !

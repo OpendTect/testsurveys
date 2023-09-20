@@ -52,7 +52,7 @@ Velocity model INT INL426 in Depth-M: 10
 Seismic Data: CBVS`Stream
 $Name: ../../F3_Test_Survey_DepthM/Seismics/Velocity_model_INT_INL426.cbvs
 #ZDomain: Depth
-#Depth-Unit: m
+#ZDomain.Unit: m
 #Is Velocity: Yes
 #Velocity Type: Vint
 #Velocity Unit: m/s
@@ -63,7 +63,7 @@ Velocity model INT INL426 in Depth-FT: 11
 Seismic Data: CBVS`Stream
 $Name: ../../F3_Test_Survey_DepthFT/Seismics/Velocity_model_INT_INL426.cbvs
 #ZDomain: Depth
-#Depth-Unit: ft
+#ZDomain.Unit: ft
 #Is Velocity: Yes
 #Velocity Type: Vint
 #Velocity Unit: ft/s

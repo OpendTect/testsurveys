@@ -2,7 +2,7 @@ dTect V7.1.0
 Object Management file
 2023-09-12T10:32:50Z
 !
-ID: 100090`5
+ID: 100090`7
 !
 Models: 1
 Earth Models directory: dGB`Stream
@@ -25,10 +25,17 @@ Layer Sequence Generator Description: od`Stream
 $Name: Stoch_simple_w_Bunt.sgd
 #Type: Stochastic [dGB]
 !
-Simple two-layers model: 5
+Simple two-layers model in Meter: 6
 Simple Time-Depth Model: od`Stream
-$Name: Simple_two-layers_model.tdm
-#Created.By: arnaud
-#Created.At: 2023-09-12T10:32:50Z
+$Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Meter.tdm
 #Version: 7.1.0 (development)
+#Created.By: arnaud
+#Created.At: 2023-09-11T10:16:03Z
+!
+Simple two-layers model in Feet: 7
+Simple Time-Depth Model: od`Stream
+$Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Feet.tdm
+#Version: 7.1.0 (development)
+#Created.By: arnaud
+#Created.At: 2023-09-11T10:16:03Z
 !

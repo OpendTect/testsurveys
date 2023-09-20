@@ -2,7 +2,7 @@ dTect V7.1.0
 Object Management file
 2023-09-11T10:31:50Z
 !
-ID: 100090`6
+ID: 100090`7
 !
 Models: 1
 Earth Models directory: dGB`Stream
@@ -33,10 +33,17 @@ $Name: Single_100ft_layer_starting_at_200ft_depth.sgd
 #Created.By: arnaud
 #Created.At: 2023-09-06T14:42:25Z
 !
-Simple two-layers model: 6
+Simple two-layers model in Meter: 6
 Simple Time-Depth Model: od`Stream
-$Name: Simple_two-layers_model.tdm
+$Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Meter.tdm
 #Version: 7.1.0 (development)
 #Created.By: arnaud
-#Created.At: 2023-09-11T10:31:50Z
+#Created.At: 2023-09-11T10:16:03Z
+!
+Simple two-layers model in Feet: 7
+Simple Time-Depth Model: od`Stream
+$Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Feet.tdm
+#Version: 7.1.0 (development)
+#Created.By: arnaud
+#Created.At: 2023-09-11T10:16:03Z
 !
