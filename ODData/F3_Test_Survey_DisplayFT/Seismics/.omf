@@ -1,6 +1,6 @@
 dTect V7.1.0
 Object Management file
-2023-09-15T13:56:19Z
+2023-09-21T07:37:25Z
 !
 ID: 100010`11
 !
@@ -37,7 +37,9 @@ $ID: 100010.6
 Velocity_model_INT_INL426: 8
 Seismic Data: CBVS`Stream
 $Name: ../../F3_Test_Survey/Seismics/Velocity_model_INT_INL426.cbvs
+#Optimized direction: 
 #Is Velocity: Yes
+#Data storage: 7 - 32 bit floating point
 #Velocity Type: Vint
 #Velocity Unit: m/s
 #Top Vavg: 1959.9659424`1960.0134277`m/s
@@ -46,7 +48,9 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model_INT_INL426.cbvs
 Velocity_model_INT_INL426 ftsec: 9
 Seismic Data: CBVS`Stream
 $Name: ../../F3_Test_Survey_XYinft/Seismics/Velocity_model_INT_INL426_ftsec.cbvs
+#Optimized direction: 
 #Is Velocity: Yes
+#Data storage: 7 - 32 bit floating point
 #Velocity Type: Vint
 #Velocity Unit: ft/s
 #Bottom Vavg: 6886.0668945`7035.6870117`ft/s
@@ -55,22 +59,26 @@ $Name: ../../F3_Test_Survey_XYinft/Seismics/Velocity_model_INT_INL426_ftsec.cbvs
 Velocity model INT INL426 in Depth-M: 10
 Seismic Data: CBVS`Stream
 $Name: ../../F3_Test_Survey_DepthM/Seismics/Velocity_model_INT_INL426.cbvs
-#ZDomain: Depth
-#ZDomain.Unit: m
+#Optimized direction: 
 #Is Velocity: Yes
+#Data storage: 7 - 32 bit floating point
+#ZDomain: Depth
 #Velocity Type: Vint
 #Velocity Unit: m/s
+#ZDomain.Unit: m
 #Top Vavg: 1959.9666748`1960.0352783`m/s
 #Bottom Vavg: 2106.9111328`2145.7988281`m/s
 !
 Velocity model INT INL426 in Depth-FT: 11
 Seismic Data: CBVS`Stream
 $Name: ../../F3_Test_Survey_DepthFT/Seismics/Velocity_model_INT_INL426.cbvs
-#ZDomain: Depth
-#ZDomain.Unit: ft
+#Optimized direction: 
 #Is Velocity: Yes
+#Data storage: 7 - 32 bit floating point
+#ZDomain: Depth
 #Velocity Type: Vint
 #Velocity Unit: ft/s
+#ZDomain.Unit: ft
 #Top Vavg: 6430.3925781`6430.5981445`ft/s
 #Bottom Vavg: 6915.5610352`7044.6113281`ft/s
 !
