@@ -1,6 +1,6 @@
-dTect V7.1.0
+dTect V7.0.3rc3
 Object Management file
-2023-09-21T10:01:47Z
+2023-09-27T10:40:47Z
 !
 ID: 100010`24
 !
@@ -30,76 +30,140 @@ $Name: Prestack_seismic.sgydef
 Seismic Data: PS Cube`X-Group
 $ID: 100010.6
 !
-Velocity_model_INT_INL426: 8
+Velocity model (INT) time-s (m/s): 8
 Seismic Data: CBVS`Stream
-$Name: Velocity_model_INT_INL426.cbvs
-#Optimized direction: 
+$Name: Velocity_model__INT__time-s__m_s_.cbvs
 #Velocity Unit: m/s
+#Is Velocity: Yes
+#Top Vavg: 1959.9659424`1960.0133057`m/s
 #Velocity Type: Vint
+#ZDomain: TWT
 #Bottom Vavg: 2098.8730469`2144.4772949`m/s
 #Data storage: 7 - 32 bit floating point
-#Top Vavg: 1959.9659424`1960.0133057`m/s
-#Is Velocity: Yes
 !
-Velocity_model_INT_INL426 ftsec: 9
+Velocity model (INT) time-s (ft/s): 9
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey_XYinft/Seismics/Velocity_model_INT_INL426_ftsec.cbvs
-#Optimized direction: 
+$Name: Velocity_model__INT__time-s__ft_s_.cbvs
 #Velocity Unit: ft/s
+#Is Velocity: Yes
+#Top Vavg: 6430.3344727`6430.4902344`ft/s
 #Velocity Type: Vint
+#ZDomain: TWT
 #Bottom Vavg: 6886.0668945`7035.6870117`ft/s
 #Data storage: 7 - 32 bit floating point
-#Top Vavg: 6430.3344727`6430.4902344`ft/s
-#Is Velocity: Yes
 !
-Velocity model INT INL426 in Depth-M: 10
+Velocity model (INT) depth-m (m/s): 10
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey_DepthM/Seismics/Velocity_model_INT_INL426.cbvs
+$Name: Velocity_model__INT__depth-m__m_s_.cbvs
 #Velocity Unit: m/s
-#Velocity Type: Vint
-#Bottom Vavg: 2106.9111328`2145.7988281`m/s
-#ZDomain: Depth
-#Data storage: 7 - 32 bit floating point
-#Top Vavg: 1959.9666748`1960.0352783`m/s
 #Is Velocity: Yes
 #ZDomain.Unit: m
-!
-Velocity model INT INL426 in Depth-FT: 11
-Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey_DepthFT/Seismics/Velocity_model_INT_INL426.cbvs
-#Velocity Unit: ft/s
+#Top Vavg: 1959.9666748`1960.0352783`m/s
 #Velocity Type: Vint
-#Bottom Vavg: 6915.5610352`7044.6113281`ft/s
 #ZDomain: Depth
+#Bottom Vavg: 2106.9111328`2145.7988281`m/s
 #Data storage: 7 - 32 bit floating point
-#Top Vavg: 6430.3925781`6430.5981445`ft/s
+!
+Velocity model (INT) depth-m (ft/s): 11
+Seismic Data: CBVS`Stream
+$Name: Velocity_model__INT__depth-m__ft_s_.cbvs
+#Velocity Unit: ft/s
+#Is Velocity: Yes
+#ZDomain.Unit: m
+#Top Vavg: 1959.9666748`1960.0352783`m/s
+#Velocity Type: Vint
+#ZDomain: Depth
+#Bottom Vavg: 2106.9111328`2145.7988281`m/s
+#Data storage: 7 - 32 bit floating point
+!
+Velocity model (INT) depth-ft (ft/s): 12
+Seismic Data: CBVS`Stream
+$Name: Velocity_model__INT__depth-ft__ft_s_.cbvs
+#Velocity Unit: ft/s
 #Is Velocity: Yes
 #ZDomain.Unit: ft
+#Top Vavg: 6430.3925781`6430.5981445`ft/s
+#Velocity Type: Vint
+#ZDomain: Depth
+#Bottom Vavg: 6915.5610352`7044.6113281`ft/s
+#Data storage: 7 - 32 bit floating point
+!
+Velocity model (INT) depth-ft (m/s): 13
+Seismic Data: CBVS`Stream
+$Name: Velocity_model__INT__depth-ft__m_s_.cbvs
+#Velocity Unit: m/s
+#Is Velocity: Yes
+#ZDomain.Unit: ft
+#Top Vavg: 6430.3925781`6430.5981445`ft/s
+#Velocity Type: Vint
+#ZDomain: Depth
+#Bottom Vavg: 6915.5610352`7044.6113281`ft/s
+#Data storage: 7 - 32 bit floating point
+!
+Velocity model (INT) with SRD 50ft depth-m (m/s): 14
+Seismic Data: CBVS`Stream
+$Name: Velocity_model__INT__with_SRD_50ft_depth-m__m_s_.cbvs
+#Velocity Unit: m/s
+#Is Velocity: Yes
+#ZDomain.Unit: m
+#Velocity Type: Vint
+#ZDomain: Depth
+#Data storage: 7 - 32 bit floating point
+!
+Velocity model (INT) with SRD 50ft depth-m (ft/s): 15
+Seismic Data: CBVS`Stream
+$Name: Velocity_model__INT__with_SRD_50ft_depth-m__ft_s_.cbvs
+#Velocity Unit: ft/s
+#Is Velocity: Yes
+#ZDomain.Unit: m
+#Velocity Type: Vint
+#ZDomain: Depth
+#Data storage: 7 - 32 bit floating point
+!
+Velocity model (INT) with SRD 50ft depth-ft (ft/s): 16
+Seismic Data: CBVS`Stream
+$Name: Velocity_model__INT__with_SRD_50ft_depth-ft__ft_s_.cbvs
+#Velocity Unit: ft/s
+#Is Velocity: Yes
+#ZDomain.Unit: ft
+#Velocity Type: Vint
+#ZDomain: Depth
+#Data storage: 7 - 32 bit floating point
+!
+Velocity model (INT) with SRD 50ft depth-ft (m/s): 17
+Seismic Data: CBVS`Stream
+$Name: Velocity_model__INT__with_SRD_50ft_depth-ft__m_s_.cbvs
+#Velocity Unit: m/s
+#Is Velocity: Yes
+#ZDomain.Unit: ft
+#Velocity Type: Vint
+#ZDomain: Depth
+#Data storage: 7 - 32 bit floating point
 !
 Steering BG Fast (Median Filter): 19
 Seismic Data: CBVS`Stream
 $Name: Steering_BG_Fast__Median_Filter_.cbvs
-#Data storage: 3 - 16 bit signed
+#Created.At: Thu 06 Apr 2017, 10:20:31
 #Created.By: mahant
 #Type: Steering
-#Created.At: Thu 06 Apr 2017, 10:20:31
+#Data storage: 3 - 16 bit signed
 !
 Seis: 22
 2D Seismic Data: CBVS`Stream
 $Name: Seis
-#Created.By: cases`arnaud6
 #Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
 !
 pstm stk: 23
 2D Seismic Data: CBVS`Stream
 $Name: pstm_stk
-#Created.By: cases`arnaud6
 #Created.At: Mon 01 Apr 2019, 13:13:30
+#Created.By: cases`arnaud6
 !
 Seismic_with_300-310_Inlines_missing: 24
 Seismic Data: CBVS`Stream
 $Name: Seismic_with_300-310_Inlines_missing.cbvs
-#Created.From: /d15/mahant/surveys/testsurveys.git/trunk/ODData/F3_Test_Survey/Seismic.dat
-#Created.By: mahant
 #Created.At: Fri 07 Apr 2017, 14:15:28
+#Created.By: mahant
+#Created.From: /d15/mahant/surveys/testsurveys.git/trunk/ODData/F3_Test_Survey/Seismic.dat
 !

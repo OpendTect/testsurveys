@@ -1,6 +1,6 @@
-dTect V6.0
+dTect V7.0.2
 Object Management file
-Thu 22 Dec 2016, 16:15:37
+Wed 27 Sep 2023 01:31:00 PM CEST
 !
 ID: 100020`8
 !
@@ -10,38 +10,37 @@ $Name: Surfaces directory
 !
 1-Top: 2
 Horizon: dGB`Stream
-$Name: 1-Top.hor
+$Name: ../../F3_Test_Survey/Surfaces/1-Top.hor
+#ZDomain: TWT
 !
 2-Base: 3
 Horizon: dGB`Stream
-$Name: 2-Base.hor
+$Name: ../../F3_Test_Survey/Surfaces/2-Base.hor
+#ZDomain: TWT
 !
 Slumps-2b: 4
 Body: od`Stream
-$Name: Slumps-2b.body
+$Name: ../../F3_Test_Survey/Surfaces/Slumps-2b.body
 #Type: MC
 !
 SSIS-Grid-Faultsticks: 5
 FaultStickSet: dGB`Stream
-$Name: SSIS-Grid-Faultsticks.fss
+$Name: ../../F3_Test_Survey/Surfaces/SSIS-Grid-Faultsticks.fss
 #Type: FaultStickSet
+#ZDomain: TWT
 !
 Flat at 1000ms: 6
 Horizon: dGB`Stream
-$Name: Flat_at_1000ms.hor
-#Created.At: Tue 20 Dec 2016, 11:11:56
-#Created.By: User
+$Name: ../../F3_Test_Survey/Surfaces/Flat_at_1000ms.hor
+#ZDomain: TWT
 !
-Flat at 1050ms: 7
+Flat at 1100ms: 7
 Horizon: dGB`Stream
-$Name: Flat_at_1050ms.hor
-#Created.At: Thu 22 Dec 2016, 16:14:15
-#Created.By: nanne
+$Name: ../../F3_Test_Survey/Surfaces/Flat_at_1100ms.hor
+#ZDomain: TWT
 !
 VolumeEstimation: 8
 Body: od`Stream
 $Name: VolumeEstimation.body
-#Created.At: Thu 22 Dec 2016, 16:15:37
-#Created.By: nanne
 #Type: MC
 !

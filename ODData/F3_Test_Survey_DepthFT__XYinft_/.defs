@@ -1,6 +1,6 @@
-dTect V7.1.0
+dTect V7.0.3rc3
 Survey defaults
-2023-09-15T15:09:06Z
+2023-09-27T11:54:19Z
 !
 Survey defaults
 3DAttrset.Auto ID: 100080.2
@@ -21,7 +21,5 @@ Home position.Position: 2019185.375`19934482`-11.2476358413696
 SEG-Y Rev. 1 policy: 3
 Session.Auto ID: 100070.2
 Show depth in feet: Yes
-UOM.Distance/Depth: ft
-UOM.Velocity: ft/s
 Z Scale.Depth: 10
 !
