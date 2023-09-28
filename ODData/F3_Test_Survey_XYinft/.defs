@@ -1,11 +1,11 @@
 dTect V7.0.3rc3
 Survey defaults
-2023-09-27T11:51:16Z
+2023-09-28T11:39:57Z
 !
 Survey defaults
 3DAttrset.Auto ID: 100080.2
 Default.Cube: 100010.2
-Default.Cube.Velocity: 100010.8
+Default.Cube.Velocity: 100010.9
 Default.Horizon: 100020.2
 Default.PickSet Group: 100030.3
 Default.Stratigraphic Framework: 100090.2

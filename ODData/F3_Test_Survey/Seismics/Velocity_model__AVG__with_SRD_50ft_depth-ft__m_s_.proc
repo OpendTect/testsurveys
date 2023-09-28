@@ -1,0 +1,44 @@
+dTect V7.0.3rc3
+Parameters
+2023-09-28T13:28:55Z
+!
+Attributes.2.DataType: Other
+Attributes.2.Definition: Math expression="vel * c0" constant0=0.3048  output=0
+Attributes.2.Hidden: No
+Attributes.2.Index: 0
+Attributes.2.Input.0: 3
+Attributes.2.UserRef: Velocity model (AVG) with SRD 50ft depth-ft (m/s)
+Attributes.3.DataType: Other
+Attributes.3.Definition: Storage id=100010.20 output=0
+Attributes.3.Hidden: No
+Attributes.3.Index: 1
+Attributes.3.UserRef: Velocity model (AVG) with SRD 50ft depth-ft (ft/s)
+Attributes.MaxNrKeys: 3
+Attributes.Type: 3D
+Data Root: C:\Surveys\testsurveys\ODData
+ExecPars.Monitor: Yes`
+ExecPars.PriorityLevel: -1
+ExecPars.ProgramType: Batch`
+Log file: C:\Surveys\testsurveys\ODData\F3_Test_Survey_DepthFT\Proc\Velocity_model__AVG__with_SRD_50ft_depth-ft__m_s__log.txt
+Output.0.Attributes.0: 2
+Output.0.Attributes.MaxNrKeys: 1
+Output.0.Extend Traces To Survey Z Range: No
+Output.0.Seismic.ID: 100010.21
+Output.Subsel.Estimated MBs: 0
+Output.Subsel.First Cross-line: 700
+Output.Subsel.First In-line: 426
+Output.Subsel.GeomID: -1
+Output.Subsel.Last Cross-line: 1200
+Output.Subsel.Last In-line: 426
+Output.Subsel.Random: No
+Output.Subsel.Step Cross-line: 2
+Output.Subsel.Step In-line: 2
+Output.Subsel.Survey ID: -1
+Output.Subsel.Type: Range
+Output.Subsel.Z range: 1200`3930`15
+Output.Type: Cube
+Program.Args: 
+Program.Name: od_process_attrib
+Survey: F3_Test_Survey_DepthFT
+Target: Velocity model (AVG) with SRD 50ft depth-ft (m/s)
+!
