@@ -1,8 +1,8 @@
-dTect V6.0
+dTect V7.0.2
 Object Management file
-Mon 23 Jan 2017, 14:30:51
+Thu 28 Sep 2023 11:32:47 AM CEST
 !
-ID: 100070`4
+ID: 100070`5
 !
 Misc: 1
 Miscellaneous directory: dGB`Stream
@@ -15,10 +15,12 @@ $Name: Start.sess
 Mute 30deg: 3
 Mute Definition: dGB`Stream
 $Name: Mute_30deg.mute
-#User: arnaud
 !
 Mute 30deg adv: 4
 Mute Definition: dGB`Stream
 $Name: Mute_30deg_adv.mute
-#User: arnaud
+!
+Mute output: 5
+Mute Definition: dGB`Stream
+$Name: Mute_output.mute
 !

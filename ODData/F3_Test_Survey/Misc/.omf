@@ -1,8 +1,8 @@
-dTect V6.6
+dTect V7.0.2
 Object Management file
-Wed 02 Nov 2022, 16:56:55
+Thu 28 Sep 2023 11:34:16 AM CEST
 !
-ID: 100070`50
+ID: 100070`49
 !
 Misc: 1
 Miscellaneous directory: dGB`Stream
@@ -15,12 +15,14 @@ $Name: Start.sess
 Mute 30deg: 3
 Mute Definition: dGB`Stream
 $Name: Mute_30deg.mute
-#User: arnaud
 !
 Mute 30deg adv: 4
 Mute Definition: dGB`Stream
 $Name: Mute_30deg_adv.mute
-#User: arnaud
+!
+Mute output: 5
+Mute Definition: dGB`Stream
+$Name: Mute_output.mute
 !
 Top Mute: 41
 Mute Definition: dGB`Stream
@@ -51,11 +53,4 @@ Volume Processing Setup: dGB`Stream
 $Name: Steering_FFT.vpsetup
 #Created.At: Thu 06 Apr 2017, 10:26:00
 #Created.By: mahant
-!
-Mute 20deg adv: 50
-Mute Definition: dGB`Stream
-$Name: Mute_20deg_adv.mute
-#Version: 6.6.9rc6
-#Created.At: Wed 02 Nov 2022, 16:56:55
-#Created.By: cases`arnaud6
 !
