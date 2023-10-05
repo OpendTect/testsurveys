@@ -37,7 +37,7 @@ $ID: 100010.6
 !
 Velocity model (INT) time-s (m/s): 8
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__time-s__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__time-s__m_s_.cbvs
 #ZDomain: TWT
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -48,7 +48,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__time-s__m_s_.cbvs
 !
 Velocity model (INT) time-s (ft/s): 9
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__time-s__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__time-s__ft_s_.cbvs
 #ZDomain: TWT
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -59,7 +59,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__time-s__ft_s_.cbvs
 !
 Velocity model (INT) depth-m (m/s): 10
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__depth-m__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-m__m_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -71,7 +71,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__depth-m__m_s_.cbvs
 !
 Velocity model (INT) depth-m (ft/s): 11
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__depth-m__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-m__ft_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -83,7 +83,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__depth-m__ft_s_.cbvs
 !
 Velocity model (INT) depth-ft (ft/s): 12
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__depth-ft__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-ft__ft_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -95,7 +95,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__depth-ft__ft_s_.cbvs
 !
 Velocity model (INT) depth-ft (m/s): 13
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__depth-ft__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-ft__m_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -107,7 +107,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__depth-ft__m_s_.cbvs
 !
 Velocity model (INT) with SRD 50ft depth-m (m/s): 14
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__with_SRD_50ft_depth-m__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-m__m_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -117,7 +117,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__with_SRD_50ft_depth-m_
 !
 Velocity model (INT) with SRD 50ft depth-m (ft/s): 15
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__with_SRD_50ft_depth-m__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-m__ft_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -127,7 +127,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__with_SRD_50ft_depth-m_
 !
 Velocity model (INT) with SRD 50ft depth-ft (ft/s): 16
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__with_SRD_50ft_depth-ft__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-ft__ft_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -137,7 +137,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__with_SRD_50ft_depth-ft
 !
 Velocity model (INT) with SRD 50ft depth-ft (m/s): 17
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__with_SRD_50ft_depth-ft__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-ft__m_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vint
 #Is Velocity: Yes
@@ -147,7 +147,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__INT__with_SRD_50ft_depth-ft
 !
 Velocity model (AVG) time-s (m/s): 18
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__time-s__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__time-s__m_s_.cbvs
 #ZDomain: TWT
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -155,7 +155,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__time-s__m_s_.cbvs
 !
 Velocity model (AVG) time-s (ft/s): 19
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__time-s__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__time-s__ft_s_.cbvs
 #ZDomain: TWT
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -163,7 +163,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__time-s__ft_s_.cbvs
 !
 Velocity model (RMS) time-s (m/s): 20
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__RMS__time-s__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__RMS__time-s__m_s_.cbvs
 #ZDomain: TWT
 #Velocity Type: Vrms
 #Is Velocity: Yes
@@ -171,7 +171,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__RMS__time-s__m_s_.cbvs
 !
 Velocity model (RMS) time-s (ft/s): 21
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__RMS__time-s__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__RMS__time-s__ft_s_.cbvs
 #ZDomain: TWT
 #Velocity Type: Vrms
 #Is Velocity: Yes
@@ -179,7 +179,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__RMS__time-s__ft_s_.cbvs
 !
 Velocity model (AVG) depth-m (m/s): 22
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__depth-m__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-m__m_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -188,7 +188,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__depth-m__m_s_.cbvs
 !
 Velocity model (AVG) depth-m (ft/s): 23
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__depth-m__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-m__ft_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -197,7 +197,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__depth-m__ft_s_.cbvs
 !
 Velocity model (AVG) depth-ft (ft/s): 24
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__depth-ft__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-ft__ft_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -206,7 +206,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__depth-ft__ft_s_.cbvs
 !
 Velocity model (AVG) depth-ft (m/s): 25
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__depth-ft__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-ft__m_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -215,7 +215,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__depth-ft__m_s_.cbvs
 !
 Velocity model (AVG) with SRD 50ft depth-m (m/s): 26
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__with_SRD_50ft_depth-m__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-m__m_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -224,7 +224,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__with_SRD_50ft_depth-m_
 !
 Velocity model (AVG) with SRD 50ft depth-m (ft/s): 27
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__with_SRD_50ft_depth-m__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-m__ft_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -233,7 +233,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__with_SRD_50ft_depth-m_
 !
 Velocity model (AVG) with SRD 50ft depth-ft (ft/s): 28
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__with_SRD_50ft_depth-ft__ft_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-ft__ft_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vavg
 #Is Velocity: Yes
@@ -242,7 +242,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__with_SRD_50ft_depth-ft
 !
 Velocity model (AVG) with SRD 50ft depth-ft (m/s): 29
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_Model__AVG__with_SRD_50ft_depth-ft__m_s_.cbvs
+$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-ft__m_s_.cbvs
 #ZDomain: Depth
 #Velocity Type: Vavg
 #Is Velocity: Yes
