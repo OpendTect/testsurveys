@@ -1,0 +1,20 @@
+dTect V7.1.0
+Parameters
+2023-10-31T11:57:30Z
+!
+Data Root: /auto/d26/surveys/testsurveys/ODData
+ExecPars.Monitor: Yes` 
+ExecPars.PriorityLevel: -1
+ExecPars.ProgramType: Batch` 
+Input volume: 100010.19
+Log file: /auto/d26/surveys/testsurveys/ODData/F3_Test_Survey/Proc/Velocity_model__AVG__depth-m__ft_s__log.txt
+Output volume: 100010.23
+Program.Args: 
+Program.Name: od_process_time2depth
+Survey: F3_Test_Survey
+Time to depth: Yes
+Type: None
+Z range: 400`1200`5
+ZTrans.Name: VelocityT2D
+ZTrans.Velocity volume: 100010.19
+!

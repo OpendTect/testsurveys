@@ -1,0 +1,25 @@
+Starting program: /dsk/d26/arnaud/dev/od/bin/lux64/Debug/od_process_time2depth '/auto/d26/surveys/testsurveys/ODData/F3_Test_Survey_DisplayFT/Proc/Velocity_model__INT__depth-ft__ft_s_.par'
+Processing on: dgb26
+Process ID: 21588
+Full command: /dsk/d26/arnaud/dev/od/bin/lux64/Debug/od_process_time2depth /auto/d26/surveys/testsurveys/ODData/F3_Test_Survey_DisplayFT/Proc/Velocity_model__INT__depth-ft__ft_s_.par --odserver odservice:20976 --priority -1
+
+Detected that the stretching will be done on velocities.
+Will stretch in z-domain and convert back to velocities.
+Process: 'Time to depth conversion'
+Started: Tue 31 Oct 2023, 13:52:04
+
+	Stretching data
+.........:.........:.........:.........:.........: 20% (574.713/s) (0s)
+:::::::::=:::::::::= 100%
+Process: 'Time to depth conversion'
+Finished: Tue 31 Oct 2023, 13:52:04
+Started: Tue 31 Oct 2023, 13:52:04
+
+	Velocity cube scanning 
+.........:.........:.........:.........:.........: 0% (2941.176/s) (19s)
+:::::::::=:::::::::= 100%
+
+Finished: Tue 31 Oct 2023, 13:52:04
+
+Finished batch processing.
+

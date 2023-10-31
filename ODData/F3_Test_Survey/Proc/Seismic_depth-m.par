@@ -1,0 +1,28 @@
+dTect V7.1.0
+Parameters
+2023-10-31T13:14:50Z
+!
+Data Root: /auto/d26/surveys/testsurveys/ODData
+ExecPars.Monitor: Yes` 
+ExecPars.PriorityLevel: -1
+ExecPars.ProgramType: Batch` 
+First Cross-line: 700
+First In-line: 426
+GeomID: -1
+Input volume: 100010.2
+Last Cross-line: 1200
+Last In-line: 426
+Log file: /auto/d26/surveys/testsurveys/ODData/F3_Test_Survey/Proc/Seismic_depth-m_log.txt
+Output volume: 100010.30
+Program.Args: 
+Program.Name: od_process_time2depth
+Step Cross-line: 2
+Step In-line: 2
+Survey: F3_Test_Survey
+Survey ID: -1
+Time to depth: Yes
+Type: Range
+Z range: 400`1200`5
+ZTrans.Name: VelocityT2D
+ZTrans.Velocity volume: 100010.8
+!

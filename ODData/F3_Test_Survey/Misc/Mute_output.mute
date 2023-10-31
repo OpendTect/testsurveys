@@ -1,10 +1,11 @@
 dTect V7.1.0
 Mute Definition
-2023-10-04T15:39:22Z
+2023-10-31T13:31:59Z
 !
 Offset-Unit: Meter
 Reference Horizon: 
-Z-Unit: Seconds
+ZDomain: TWT
+ZDomain.Unit: Seconds
 !
 Position: 426/800
 PBMF setup: LY
