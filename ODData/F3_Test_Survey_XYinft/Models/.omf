@@ -2,7 +2,7 @@ dTect V7.1.0
 Object Management file
 2023-09-12T10:26:43Z
 !
-ID: 100090`7
+ID: 100090`8
 !
 Models: 1
 Earth Models directory: dGB`Stream
@@ -25,11 +25,13 @@ Layer Sequence Generator Description: od`Stream
 $Name: Stoch_simple_w_Bunt.sgd
 #Type: Stochastic [dGB]
 !
-Slanted F3-04: 5
+Single 100ft layer starting at 200ft depth: 5
 Layer Sequence Generator Description: od`Stream
-$Name: Slanted_F3-04.sgd
-#Type: Profile [dGB]
-#User: cases`arnaud7
+$Name: ../../F3_Test_Survey_DisplayFT/Models/Single_100ft_layer_starting_at_200ft_depth.sgd
+#Type: Stochastic [dGB]
+#Version: 7.0.2
+#Created.By: arnaud
+#Created.At: 2023-09-06T14:34:25Z
 !
 Simple two-layers model in Meter: 6
 Simple Time-Depth Model: od`Stream
@@ -44,4 +46,10 @@ $Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Feet.tdm
 #Version: 7.1.0 (development)
 #Created.By: arnaud
 #Created.At: 2023-09-11T10:16:03Z
+!
+Slanted F3-04: 8
+Layer Sequence Generator Description: od`Stream
+$Name: Slanted_F3-04.sgd
+#Type: Profile [dGB]
+#User: cases`arnaud7
 !

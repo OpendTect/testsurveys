@@ -55,7 +55,7 @@ Property.0.Type: Value
 Property.0.Value: 100`ft
 Property.1.Name: Acoustic Impedance
 Property.1.Type: Math
-Property.1.Value: Formula: +## [Input.0.Mnemonic] ## [PVEL] ##.+## [Input.0.Def] ## [Pwave velocity] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.1.Def] ## [Density] ##.+## [Input.0.Value.Unit] ## [m/s] ##.+## [Output.Value.Unit] ## [m/s x g/cc] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Expression] ## [velp * den] ##.+## [Input.1.Value.Unit] ## [g/cc] ##.
+Property.1.Value: Formula: +## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Input.0.Def] ## [Pwave velocity] ##.+## [Input.1.Def] ## [Density] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.0.Value.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Expression] ## [velp * den] ##.+## [Output.Value.Unit] ## [m/s x g/cc] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.1.Value.Unit] ## [g/cc] ##.
 Property.2.Name: Density
 Property.2.Type: Value
 Property.2.Value: 2.5`g/cc

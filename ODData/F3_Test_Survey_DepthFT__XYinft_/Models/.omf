@@ -25,6 +25,14 @@ Layer Sequence Generator Description: od`Stream
 $Name: Stoch_simple_w_Bunt.sgd
 #Type: Stochastic [dGB]
 !
+Single 100ft layer starting at 200ft depth: 5
+Layer Sequence Generator Description: od`Stream
+$Name: ../../F3_Test_Survey_DisplayFT/Models/Single_100ft_layer_starting_at_200ft_depth.sgd
+#Type: Stochastic [dGB]
+#Version: 7.0.2
+#Created.By: arnaud
+#Created.At: 2023-09-06T14:45:01Z
+!
 Simple two-layers model in Meter: 6
 Simple Time-Depth Model: od`Stream
 $Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Meter.tdm

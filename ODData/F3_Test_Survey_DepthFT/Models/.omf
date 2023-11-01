@@ -27,7 +27,7 @@ $Name: Stoch_simple_w_Bunt.sgd
 !
 Single 100ft layer starting at 200ft depth: 5
 Layer Sequence Generator Description: od`Stream
-$Name: Single_100ft_layer_starting_at_200ft_depth.sgd
+$Name: ../../F3_Test_Survey_DisplayFT/Models/Single_100ft_layer_starting_at_200ft_depth.sgd
 #Type: Stochastic [dGB]
 #Version: 7.0.2
 #Created.By: arnaud
