@@ -1,6 +1,6 @@
-dTect V7.0.3rc3
+dTect V7.0.0
 Survey defaults
-2023-09-27T11:59:29Z
+2023-11-08T15:36:11Z
 !
 Survey defaults
 3DAttrset.Auto ID: 100080.2
@@ -16,6 +16,7 @@ Default.Horizon: 100020.2
 Default.PickSet Group: 100030.3
 Default.RandomLine Geometry: 100030.5
 Default.Session setup: 100070.2
+Default.Simple Time-Depth Model: 100090.6
 Default.Stratigraphic Framework: 100090.2
 Default.Stratigraphic Tree: 100090.2
 Default.Wavelet: 100010.3
