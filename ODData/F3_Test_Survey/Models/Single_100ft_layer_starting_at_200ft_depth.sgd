@@ -1,0 +1,67 @@
+dTect V7.0.2
+Layer Sequence Generator Description
+2023-09-06T14:32:36Z
+!
+Top depth: 60.96`m
+WB.Allow zoom: Yes
+WB.Decimation: 5
+WB.Display flattened: No
+WB.Display lithology: Yes
+WB.Displayed property: Acoustic Impedance
+WB.Elastic Properties.Elastic.0.Mathematic Expression: 
+WB.Elastic Properties.Elastic.0.Name: Density
+WB.Elastic Properties.Elastic.0.Name of formula: Density
+WB.Elastic Properties.Elastic.0.Selected properties: Density
+WB.Elastic Properties.Elastic.0.Type: Density
+WB.Elastic Properties.Elastic.0.Units: 
+WB.Elastic Properties.Elastic.1.Mathematic Expression: 
+WB.Elastic Properties.Elastic.1.Name: PWave
+WB.Elastic Properties.Elastic.1.Name of formula: PWave
+WB.Elastic Properties.Elastic.1.Selected properties: Pwave velocity
+WB.Elastic Properties.Elastic.1.Type: PWave
+WB.Elastic Properties.Elastic.1.Units: 
+WB.Elastic Properties.Nr of Elastic Properties: 2
+WB.Nr models: 100
+WB.Selected content: ---
+WB.Selected level: Base North Sea Group
+WB.Synthetics.Nr of Synthetics: 1
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Auto Sym: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Clip Rate: 0.025`0.025
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Color Table: Seismics
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Flip seq: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Range: 1e30`1e30
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Sym Mid Value: 0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Type: Auto
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Auto Sym: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Clip Rate: 0`0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Flip seq: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Overlap: 2
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Range: 1e30`1e30
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Sym Mid Value: 0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Type: Auto
+WB.Synthetics.Synthetics Nr.0.Name: stat 120 Zero-Offset
+WB.Synthetics.Synthetics Nr.0.Refl Parameter.Angle Range: 0
+WB.Synthetics.Synthetics Nr.0.Refl Parameter.Angles in Degrees: Yes
+WB.Synthetics.Synthetics Nr.0.Refl Parameter.Type: AICalc
+WB.Synthetics.Synthetics Nr.0.Synth Parameter.Type: dGBSynthGenerator
+WB.Synthetics.Synthetics Nr.0.Synth Parameter.Wavelet ID: 100010.3
+WB.Synthetics.Synthetics Nr.0.Synthetic Type: Zero Offset Stack
+WB.Synthetics.Synthetics Nr.0.Wavelet Name: stat 120
+!
+Multi: No
+Presence: 1
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 30.48`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Input.0.Def] ## [Pwave velocity] ##.+## [Input.1.Def] ## [Density] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.0.Value.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Expression] ## [velp * den] ##.+## [Output.Value.Unit] ## [m/s x g/cc] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.1.Value.Unit] ## [g/cc] ##.
+Property.2.Name: Density
+Property.2.Type: Value
+Property.2.Value: 2.5`g/cc
+Property.3.Name: Pwave velocity
+Property.3.Type: Value
+Property.3.Value: 3000`m/s
+Type: Extended
+Unit: Cretaceous.Chalk.Ommenlanden.sand
+!

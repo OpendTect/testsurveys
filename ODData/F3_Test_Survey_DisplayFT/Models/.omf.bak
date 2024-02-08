@@ -1,0 +1,35 @@
+dTect V7.0.2
+Object Management file
+2023-09-06T14:34:25Z
+!
+ID: 100090`5
+!
+Models: 1
+Earth Models directory: dGB`Stream
+$Name: Models
+!
+Dutch North Sea: 2
+Stratigraphic Tree: od`Stream
+$Name: Dutch_North_Sea.sfw
+#Version: 7.0.2
+#Created.By: arnaud
+#Created.At: 2023-09-06T13:00:16Z
+!
+A test: 3
+Layer Sequence Generator Description: od`Stream
+$Name: A_test.sgd
+#Type: Basic
+!
+Stoch simple w Bunt: 4
+Layer Sequence Generator Description: od`Stream
+$Name: Stoch_simple_w_Bunt.sgd
+#Type: Stochastic [dGB]
+!
+Single 100ft layer starting at 200ft depth: 5
+Layer Sequence Generator Description: od`Stream
+$Name: Single_100ft_layer_starting_at_200ft_depth.sgd
+#Version: 7.0.2
+#Created.By: arnaud
+#Created.At: 2023-09-06T14:34:25Z
+#Type: Stochastic [dGB]
+!

@@ -1,0 +1,11 @@
+dTect V7.1.0
+Simple Time-Depth Model
+2023-09-11T10:16:06Z
+!
+Depth-Unit: m
+Nr Values: 3
+Time-Unit: s
+!
+0	-15.24
+1	1000
+2	3000

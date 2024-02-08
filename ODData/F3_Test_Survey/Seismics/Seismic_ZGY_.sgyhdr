@@ -1,0 +1,40 @@
+C01   SEG-Y exported from OpendTect 7.1.0 (development) at Thu 08 Feb 2024,     
+C02   Survey:       F3 Test Survey                                              
+C03   Data name:    Seismic                                                     
+C04  ----------------------------------------------------------------------     
+C05   Corner 1:  X: 615761.82  Y: 6076334.83  IL: 200  XL: 700                  
+C06   Corner 2:  X: 628256.95  Y: 6076684.05  IL: 200  XL: 1200                 
+C07   Corner 3:  X: 627942.84  Y: 6087929.40  IL: 650  XL: 1200                 
+C08   Corner 4:  X: 615447.72  Y: 6087580.18  IL: 650  XL: 700                  
+C09   Bin size:  25.00 x 25.00 (m)                                              
+C10   Projection: [EPSG:23031] ED50 / UTM zone 31N                              
+C11  ----------------------------------------------------------------------     
+C12   In-line:      200-210     inc: 2                                          
+C13   Cross-line:   700-710     inc: 2                                          
+C14   Z (ms):       400-1100    inc: 4                                          
+C15  ----------------------------------------------------------------------     
+C16   In-line byte:          189-192                                            
+C17   Cross-line byte:       193-196                                            
+C18   X-Coord byte:          181-184                                            
+C19   Y-Coord byte:          185-188                                            
+C20  ----------------------------------------------------------------------     
+C21                                                                             
+C22                                                                             
+C23                                                                             
+C24                                                                             
+C25                                                                             
+C26                                                                             
+C27                                                                             
+C28                                                                             
+C29                                                                             
+C30                                                                             
+C31                                                                             
+C32                                                                             
+C33                                                                             
+C34                                                                             
+C35                                                                             
+C36                                                                             
+C37                                                                             
+C38                                                                             
+C39   SEG-Y REV1                                                                
+C40   END TEXTUAL HEADER                                                        

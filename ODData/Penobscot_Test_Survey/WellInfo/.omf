@@ -1,11 +1,17 @@
-dTect V1.0
+dTect V7.0.2
 Object Management file
-Wed Oct 22 14:04:43 2003
+2023-09-06T13:55:09Z
 !
-ID: 100050
+ID: 100050`2
 !
 WellInfo: 1
 Well Info directory: dGB`Stream
 $Name: WellInfo
 !
-
+wtwsautosave: 2
+Well Table Work State: dGB`Stream
+$Name: wtwsautosave.wtws
+#Created.At: 2023-09-06T13:55:09Z
+#Created.By: arnaud
+#Version: 7.0.2
+!

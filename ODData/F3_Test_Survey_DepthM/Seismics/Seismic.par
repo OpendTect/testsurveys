@@ -1,0 +1,12 @@
+dTect V7.1.0
+Parameters
+2023-09-11T10:32:24Z
+!
+Auto Sym: Yes
+Clip Rate: 0.005`0.005
+Flip seq: No
+Name: OD Seismic 1
+Range: -8000`8000
+Sym Mid Value: 1e30
+Type: Fixed
+!

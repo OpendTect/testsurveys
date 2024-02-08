@@ -1,54 +1,34 @@
-dTect V6.4
+dTect V7.0.0
 Survey defaults
-Mon 01 Apr 2019, 13:52:56
+2023-11-08T15:36:11Z
 !
 Survey defaults
-Show depth in feet: No
-Z Stretch: 14.996848
-Default.Cube: 100010.2
-Default.Horizon: 100020.2
-Default.Well: 100050.2
-Session.Auto ID: 100070.2
-Default.Wavelet: 100010.3
-Home position.Position: 615447.6875`6075334.5`-11.247636
-Home position.Orientation: 1`-0`0`1.570796
-Home position.Aspect ratio: 1
-Home position.Near Distance: 1
-Home position.Far Distance: -2147483648
-Home position.Focal Distance: 5
-SEG-Y Rev. 1 policy: 3
 3DAttrset.Auto ID: 100080.2
-Default.Cube.Velocity: 100010.8
-UOM.Time: Milliseconds
-Default.PickSet Group: 100030.3
-Z Scale.TWT: 21.37962151
-UOM.Area: Square meter
-UOM.Compressibility: 1/Pascal
-UOM.convert to\:: Fraction
-UOM.Density: Kg/m3
-UOM.Distance/Depth: Meter
-UOM.Elastic Ratio: Ratio
-UOM.Electrical Potential: mVolt
-UOM.Formula result is: Microseconds/meter
-UOM.Gamma Ray: API
-UOM.Impedance: Meter/second x Kg/m3
-UOM.Other: Seconds
-UOM.Output unit of measure: Meter/second
-UOM.Pressure: Pascal
-UOM.Pressure-Weight: Pascal.Kg/m3
-UOM.Resistivity: OhmMeter
-UOM.Sonic travel time: Seconds/meter
-UOM.Temperature: Degrees Celcius
-UOM.Velocity: Meter/second
-UOM.Volume: Cubic meters
-UOM.Volumetrics: Fraction
-Default.Stratigraphic Framework: -1
-Coordinate System.System name: ProjectionBased System
 Coordinate System.Projection.ID: EPSG`23031
 Coordinate System.Projection.Name: ED50 / UTM zone 31N
-Default.RandomLine Geometry: 100030.5
+Coordinate System.System name: ProjectionBased System
 Default.2D Cube: 100010.12
-Default.Geometry: 100100.2
 Default.2D Horizon: 100020.21
+Default.Cube: 100010.2
+Default.Cube.Velocity: 100010.8
+Default.Geometry: 100100.2
+Default.Horizon: 100020.2
+Default.PickSet Group: 100030.3
+Default.RandomLine Geometry: 100030.5
 Default.Session setup: 100070.2
+Default.Simple Time-Depth Model: 100090.6
+Default.Stratigraphic Framework: 100090.2
+Default.Stratigraphic Tree: 100090.2
+Default.Wavelet: 100010.3
+Default.Well: 100050.2
+Home position.Aspect ratio: 1
+Home position.Far Distance: -2147483648
+Home position.Focal Distance: 5
+Home position.Near Distance: 1
+Home position.Orientation: 1`-0`0`1.570796
+Home position.Position: 615447.6875`6075334.5`-11.247636
+SEG-Y Rev. 1 policy: 3
+Session.Auto ID: 100070.2
+Show depth in feet: No
+Z Scale.TWT: 19.998619
 !

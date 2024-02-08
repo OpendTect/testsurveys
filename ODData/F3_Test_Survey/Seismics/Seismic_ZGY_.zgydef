@@ -1,0 +1,17 @@
+dTect V7.1.0
+ZGY Direct Definition
+2024-02-08T11:59:52Z
+!
+File name: Seismics\Seismic_ZGY_.zgy
+First Cross-line: 700
+First In-line: 200
+GeomID: -1
+Last Cross-line: 1200
+Last In-line: 650
+Read as is: Yes
+Step Cross-line: 2
+Step In-line: 2
+Survey ID: -1
+Unit: s
+Z range: 0.4`1.1`0.004
+!

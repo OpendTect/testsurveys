@@ -1,154 +1,185 @@
-dTect V4.3
+dTect V7.0.2
 Layer Sequence Generator Description
-do 03 nov 2011, 19:01:37
+2023-09-06T14:14:15Z
 !
-Type: Single layer
-Unit: Tertiary.Upper_North_Sea.Breda.S1a-S1b.sand
+Top depth: 0
+WB.Allow zoom: Yes
+WB.Decimation: 5
+WB.Display flattened: No
+WB.Display lithology: Yes
+WB.Displayed property: Acoustic Impedance
+WB.Elastic Properties.Elastic.0.Mathematic Expression: 
+WB.Elastic Properties.Elastic.0.Name: Density
+WB.Elastic Properties.Elastic.0.Name of formula: Density
+WB.Elastic Properties.Elastic.0.Selected properties: Density
+WB.Elastic Properties.Elastic.0.Type: Density
+WB.Elastic Properties.Elastic.0.Units: 
+WB.Elastic Properties.Elastic.1.Mathematic Expression: 
+WB.Elastic Properties.Elastic.1.Name: PWave
+WB.Elastic Properties.Elastic.1.Name of formula: PWave
+WB.Elastic Properties.Elastic.1.Selected properties: Pwave velocity
+WB.Elastic Properties.Elastic.1.Type: PWave
+WB.Elastic Properties.Elastic.1.Units: 
+WB.Elastic Properties.Nr of Elastic Properties: 2
+WB.Nr models: 100
+WB.Selected content: ---
+WB.Selected level: Base North Sea Group
+WB.Synthetics.Nr of Synthetics: 1
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Auto Sym: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Clip Rate: 0.025`0.025
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Color Table: Seismics
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Flip seq: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Range: 1e30`1e30
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Sym Mid Value: 0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.VD.Type: Auto
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Auto Sym: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Clip Rate: 0`0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Flip seq: No
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Overlap: 2
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Range: 1e30`1e30
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Sym Mid Value: 0
+WB.Synthetics.Synthetics Nr.0.Display Parameter.WVA.Type: Auto
+WB.Synthetics.Synthetics Nr.0.Name: stat 120 Zero-Offset
+WB.Synthetics.Synthetics Nr.0.Refl Parameter.Angle Range: 0
+WB.Synthetics.Synthetics Nr.0.Refl Parameter.Angles in Degrees: Yes
+WB.Synthetics.Synthetics Nr.0.Refl Parameter.Type: AICalc
+WB.Synthetics.Synthetics Nr.0.Synth Parameter.Type: dGBSynthGenerator
+WB.Synthetics.Synthetics Nr.0.Synth Parameter.Wavelet ID: 100010.3
+WB.Synthetics.Synthetics Nr.0.Synthetic Type: Zero Offset Stack
+WB.Synthetics.Synthetics Nr.0.Wavelet Name: stat 120
+!
 Property.0.Name: Thickness
 Property.0.Type: Value
-Property.0.Value: 200
-Property.1.Name: Density
-Property.1.Type: Value
-Property.1.Value: 2050
-Property.2.Name: Pwave velocity
+Property.0.Value: 200`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.1.Value.Unit] ## [g/cc] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Output.Value.Unit] ## [m/s x g/cc] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.0.Value.Unit] ## [m/s] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
 Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
+Property.2.Value: 2.1`g/cc
+Property.3.Name: Pwave velocity
 Property.3.Type: Value
-Property.3.Value: 6150000
-!
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Tertiary.Upper_North_Sea.Breda.S1a-S1b.shale
-Property.0.Name: Thickness
-Property.0.Type: Value
-Property.0.Value: 200
-Property.1.Name: Density
-Property.1.Type: Value
-Property.1.Value: 2100
-Property.2.Name: Pwave velocity
-Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
-Property.3.Type: Value
-Property.3.Value: 6300000
 !
+Property.0.Name: Thickness
+Property.0.Type: Range
+Property.0.Value: 150`50`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.1.Value.Unit] ## [g/cc] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Output.Value.Unit] ## [m/s x g/cc] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.0.Value.Unit] ## [m/s] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
+Property.2.Type: Value
+Property.2.Value: 2.3`g/cc
+Property.3.Name: Pwave velocity
+Property.3.Type: Value
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Tertiary.Lower_North_Sea.Landen.shale
-Property.0.Name: Thickness
-Property.0.Type: Range
-Property.0.Value: 150`50
-Property.1.Name: Density
-Property.1.Type: Value
-Property.1.Value: 2300
-Property.2.Name: Pwave velocity
-Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
-Property.3.Type: Value
-Property.3.Value: 6900000
 !
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 100`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.1.Value.Unit] ## [g/cc] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Output.Value.Unit] ## [m/s x g/cc] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.0.Value.Unit] ## [m/s] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
+Property.2.Type: Value
+Property.2.Value: 2.4`g/cc
+Property.3.Name: Pwave velocity
+Property.3.Type: Value
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Cretaceous.Chalk.Ommenlanden.limestone
-Property.0.Name: Thickness
-Property.0.Type: Value
-Property.0.Value: 100
-Property.1.Name: Density
-Property.1.Type: Value
-Property.1.Value: 2400
-Property.2.Name: Pwave velocity
-Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
-Property.3.Type: Value
-Property.3.Value: 7200000
 !
+Property.0.Name: Thickness
+Property.0.Type: Range
+Property.0.Value: -50`200`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.1.Value.Unit] ## [g/cc] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Output.Value.Unit] ## [m/s x g/cc] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.0.Value.Unit] ## [m/s] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
+Property.2.Type: Range
+Property.2.Value: 2.3`2.6`g/cc
+Property.3.Name: Pwave velocity
+Property.3.Type: Value
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Cretaceous.Rijnland.Holland.sand
+!
 Property.0.Name: Thickness
 Property.0.Type: Range
-Property.0.Value: -50`200
-Property.1.Name: Density
-Property.1.Type: Range
-Property.1.Value: 2300`2600
-Property.2.Name: Pwave velocity
-Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
-Property.3.Type: Range
-Property.3.Value: 6900000`7800000
-!
+Property.0.Value: 200`-200`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
+Property.2.Type: Range
+Property.2.Value: 2.5`2.3`g/cc
+Property.3.Name: Pwave velocity
+Property.3.Type: Value
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Cretaceous.Rijnland.Vlieland.shale
+!
 Property.0.Name: Thickness
 Property.0.Type: Range
-Property.0.Value: 200`-200
-Property.1.Name: Density
-Property.1.Type: Range
-Property.1.Value: 2500`2300
-Property.2.Name: Pwave velocity
+Property.0.Value: 100`200`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
 Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
-Property.3.Type: Range
-Property.3.Value: 7500000`9000000
-!
+Property.2.Value: 2.6`g/cc
+Property.3.Name: Pwave velocity
+Property.3.Type: Value
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Jurassic.Altena.Posidonia.shale
-Property.0.Name: Thickness
-Property.0.Type: Range
-Property.0.Value: 100`200
-Property.1.Name: Density
-Property.1.Type: Value
-Property.1.Value: 2600
-Property.2.Name: Pwave velocity
-Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
-Property.3.Type: Value
-Property.3.Value: 7800000
 !
+Property.0.Name: Thickness
+Property.0.Type: Value
+Property.0.Value: 25`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
+Property.2.Type: Value
+Property.2.Value: 2.2`g/cc
+Property.3.Name: Pwave velocity
+Property.3.Type: Value
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Triassic.Upper_Germanic.Muschelkalk.anhydrite
+!
 Property.0.Name: Thickness
 Property.0.Type: Value
-Property.0.Value: 25
-Property.1.Name: Density
-Property.1.Type: Value
-Property.1.Value: 2200
-Property.2.Name: Pwave velocity
+Property.0.Value: 50`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
 Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
+Property.2.Value: 2.5`g/cc
+Property.3.Name: Pwave velocity
 Property.3.Type: Value
-Property.3.Value: 6600000
-!
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Triassic.Lower_Germanic.Main_Buntsandstein.sand
+!
 Property.0.Name: Thickness
 Property.0.Type: Value
-Property.0.Value: 50
-Property.1.Name: Density
-Property.1.Type: Value
-Property.1.Value: 2500
-Property.2.Name: Pwave velocity
+Property.0.Value: 150`m
+Property.1.Name: Acoustic Impedance
+Property.1.Type: Math
+Property.1.Value: Formula: +## [Input.0.Def] ## [Pwave velocity] ##.+## [Description] ## [Compute acoustic impedance from P-wave velocity and density] ##.+## [Expression] ## [velp * den] ##.+## [Input.0.Unit] ## [m/s] ##.+## [Input.1.Unit] ## [kg/m3] ##.+## [Output.Unit] ## [m/s x kg/m3] ##.+## [Input.0.Mnemonic] ## [PVEL] ##.+## [Name] ## [Acoustic Impedance from P-wave velocity] ##.+## [Input.1.Mnemonic] ## [RHOB] ##.+## [Output.Mnemonic] ## [AI] ##.+## [Input.1.Def] ## [Density] ##.
+Property.2.Name: Density
 Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
+Property.2.Value: 2.6`g/cc
+Property.3.Name: Pwave velocity
 Property.3.Type: Value
-Property.3.Value: 7500000
-!
+Property.3.Value: 3000`m/s
 Type: Single layer
 Unit: Triassic.Lower_Germanic.Lower_Buntsandtein.shale
-Property.0.Name: Thickness
-Property.0.Type: Value
-Property.0.Value: 150
-Property.1.Name: Density
-Property.1.Type: Value
-Property.1.Value: 2600
-Property.2.Name: Pwave velocity
-Property.2.Type: Value
-Property.2.Value: 3000
-Property.3.Name: Acoustic Impedance
-Property.3.Type: Value
-Property.3.Value: 7800000
 !

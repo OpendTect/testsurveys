@@ -1,6 +1,6 @@
-dTect V6.0
+dTect V7.0.2
 Object Management file
-Thu 22 Dec 2016, 16:08:41
+Wed 27 Sep 2023 01:26:45 PM CEST
 !
 ID: 100020`6
 !
@@ -10,23 +10,23 @@ $Name: Surfaces directory
 !
 1-Top: 2
 Horizon: dGB`Stream
-$Name: 1-Top.hor
+$Name: ../../F3_Test_Survey_DepthM/Surfaces/1-Top.hor
+#ZDomain: Depth
 !
 2-Base: 3
 Horizon: dGB`Stream
-$Name: 2-Base.hor
+$Name: ../../F3_Test_Survey_DepthM/Surfaces/2-Base.hor
+#ZDomain: Depth
 !
 Flat at 1000m: 4
 Horizon: dGB`Stream
-$Name: Flat_at_1000m.hor
-#Created.At: Tue 20 Dec 2016, 11:00:12
-#Created.By: User
+$Name: ../../F3_Test_Survey_DepthM/Surfaces/Flat_at_1000m.hor
+#ZDomain: Depth
 !
 Flat at 1050m: 5
 Horizon: dGB`Stream
-$Name: Flat_at_1050m.hor
-#Created.At: Thu 22 Dec 2016, 16:07:32
-#Created.By: nanne
+$Name: ../../F3_Test_Survey_DepthM/Surfaces/Flat_at_1050m.hor
+#ZDomain: Depth
 !
 VolumeEstimation: 6
 Body: od`Stream
@@ -34,4 +34,14 @@ $Name: VolumeEstimation.body
 #Created.At: Thu 22 Dec 2016, 16:08:40
 #Created.By: nanne
 #Type: MC
+!
+1-Top with SRD 50ft: 7
+Horizon: dGB`Stream
+$Name: ../../F3_Test_Survey_DepthM/Surfaces/1-Top_with_SRD_50ft.hor
+#ZDomain: Depth
+!
+2-Base with SRD 50ft: 8
+Horizon: dGB`Stream
+$Name: ../../F3_Test_Survey_DepthM/Surfaces/2-Base_with_SRD_50ft.hor
+#ZDomain: Depth
 !

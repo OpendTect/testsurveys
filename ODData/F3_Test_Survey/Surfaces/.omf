@@ -1,6 +1,6 @@
-dTect V6.0
+dTect V7.0.2
 Object Management file
-Thu 22 Dec 2016, 16:11:03
+Wed 27 Sep 2023 01:28:42 PM CEST
 !
 ID: 100020`82
 !
@@ -11,10 +11,12 @@ $Name: Surfaces directory
 1-Top: 2
 Horizon: dGB`Stream
 $Name: 1-Top.hor
+#ZDomain: TWT
 !
 2-Base: 3
 Horizon: dGB`Stream
 $Name: 2-Base.hor
+#ZDomain: TWT
 !
 Slumps-2b: 4
 Body: od`Stream
@@ -29,65 +31,62 @@ $Name: SSIS-Grid-Faultsticks.fss
 Flat at 1000ms: 6
 Horizon: dGB`Stream
 $Name: Flat_at_1000ms.hor
-#Created.At: Tue 20 Dec 2016, 11:11:56
-#Created.By: User
+#ZDomain: TWT
 !
 Flat at 1100ms: 7
 Horizon: dGB`Stream
 $Name: Flat_at_1100ms.hor
-#Created.At: Thu 22 Dec 2016, 14:01:26
-#Created.By: nanne
+#ZDomain: TWT
 !
 VolumeEstimation: 8
 Body: od`Stream
 $Name: VolumeEstimation.body
-#Created.At: Thu 22 Dec 2016, 14:02:35
-#Created.By: nanne
 #Type: MC
 !
 2D Demo0 - FS4: 21
 2D Horizon: dGB`Stream
 $Name: 2D_Demo0_-_FS4.2dh
+#ZDomain: TWT
 !
 2D Demo1 - MFS4: 23
 2D Horizon: dGB`Stream
 $Name: 2D_Demo1_-_MFS4.2dh
+#ZDomain: TWT
 !
 2D Demo4 - Truncation: 24
 2D Horizon: dGB`Stream
 $Name: 2D_Demo4_-_Truncation.2dh
+#ZDomain: TWT
 !
 2D Demo6 - FS8: 25
 2D Horizon: dGB`Stream
 $Name: 2D_Demo6_-_FS8.2dh
+#ZDomain: TWT
 !
 2D Demo7 - FS11: 26
 2D Horizon: dGB`Stream
 $Name: 2D_Demo7_-_FS11.2dh
+#ZDomain: TWT
 !
 SSIS-Grid-Base: 31
 2D Horizon: dGB`Stream
 $Name: SSIS-Grid-Base.2dh
-#Created.At: Fri 07 Feb 2014, 09:26:28
-#Created.By: cases`arnaud6
 #Type: 2D Horizon
+#ZDomain: TWT
 !
 SSIS-Grid-Top: 32
 2D Horizon: dGB`Stream
 $Name: SSIS-Grid-Top.2dh
-#Created.At: Fri 07 Feb 2014, 09:26:57
-#Created.By: cases`arnaud6
 #Type: 2D Horizon
+#ZDomain: TWT
 !
 SSIS-Grid-Shallow: 80
 2D Horizon: dGB`Stream
 $Name: SSIS-Grid-Shallow.2dh
-#Created.At: Tue 22 Jul 2014, 11:21:01
-#Created.By: arnaud
+#ZDomain: TWT
 !
 SSIS-Grid-Deep: 82
 2D Horizon: dGB`Stream
 $Name: SSIS-Grid-Deep.2dh
-#Created.At: Tue 22 Jul 2014, 11:23:37
-#Created.By: cases`arnaud6
+#ZDomain: TWT
 !

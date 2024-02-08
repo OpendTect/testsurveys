@@ -1,8 +1,8 @@
-dTect V6.0
+dTect V7.0.2
 Object Management file
-Thu 22 Dec 2016, 16:15:51
+Wed 27 Sep 2023 01:31:27 PM CEST
 !
-ID: 100020`6
+ID: 100020`8
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -10,28 +10,31 @@ $Name: Surfaces directory
 !
 1-Top: 2
 Horizon: dGB`Stream
-$Name: 1-Top.hor
+$Name: ../../F3_Test_Survey/Surfaces/1-Top.hor
+#ZDomain: TWT
 !
 2-Base: 3
 Horizon: dGB`Stream
-$Name: 2-Base.hor
+$Name: ../../F3_Test_Survey/Surfaces/2-Base.hor
+#ZDomain: TWT
 !
-Flat at 1000ms: 4
+Slumps-2b: 4
+Body: od`Stream
+$Name: ../../F3_Test_Survey/Surfaces/Slumps-2b.body
+#Type: MC
+!
+Flat at 1000ms: 6
 Horizon: dGB`Stream
-$Name: Flat_at_1000ms.hor
-#Created.At: Tue 20 Dec 2016, 11:09:20
-#Created.By: User
+$Name: ../../F3_Test_Survey/Surfaces/Flat_at_1000ms.hor
+#ZDomain: TWT
 !
-Flat at 1100ms: 5
+Flat at 1100ms: 7
 Horizon: dGB`Stream
-$Name: Flat_at_1100ms.hor
-#Created.At: Thu 22 Dec 2016, 14:26:52
-#Created.By: nanne
+$Name: ../../F3_Test_Survey/Surfaces/Flat_at_1100ms.hor
+#ZDomain: TWT
 !
-VolumeEstimation: 6
+VolumeEstimation: 8
 Body: od`Stream
 $Name: VolumeEstimation.body
-#Created.At: Thu 22 Dec 2016, 14:42:53
-#Created.By: nanne
 #Type: MC
 !

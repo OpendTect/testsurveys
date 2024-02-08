@@ -1,20 +1,49 @@
-dTect V4.3
+dTect V7.1.0
 Object Management file
-do 03 nov 2011, 19:19:17
+2023-09-12T10:32:50Z
 !
-ID: 100090`3
+ID: 100090`7
 !
 Models: 1
 Earth Models directory: dGB`Stream
 $Name: Models
 !
-A test: 2
+Dutch North Sea: 2
+Stratigraphic Tree: od`Stream
+$Name: Dutch_North_Sea.sfw
+#Created.By: arnaud
+#Created.At: 2023-09-06T13:00:16Z
+#Version: 7.0.2
+!
+A test: 3
 Layer Sequence Generator Description: od`Stream
 $Name: A_test.sgd
 #Type: Basic
 !
-Stoch simple w Bunt: 3
+Stoch simple w Bunt: 4
 Layer Sequence Generator Description: od`Stream
 $Name: Stoch_simple_w_Bunt.sgd
 #Type: Stochastic [dGB]
+!
+Single 100ft layer starting at 200ft depth: 5
+Layer Sequence Generator Description: od`Stream
+$Name: ../../F3_Test_Survey_DisplayFT/Models/Single_100ft_layer_starting_at_200ft_depth.sgd
+#Type: Stochastic [dGB]
+#Version: 7.0.2
+#Created.By: arnaud
+#Created.At: 2023-09-06T14:45:01Z
+!
+Simple two-layers model in Meter: 6
+Simple Time-Depth Model: od`Stream
+$Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Meter.tdm
+#Version: 7.1.0 (development)
+#Created.By: arnaud
+#Created.At: 2023-09-11T10:16:03Z
+!
+Simple two-layers model in Feet: 7
+Simple Time-Depth Model: od`Stream
+$Name: ../../F3_Test_Survey/Models/Simple_two-layers_model_in_Feet.tdm
+#Version: 7.1.0 (development)
+#Created.By: arnaud
+#Created.At: 2023-09-11T10:16:03Z
 !

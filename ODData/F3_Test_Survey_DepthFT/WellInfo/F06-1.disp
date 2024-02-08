@@ -1,115 +1,76 @@
-dTect V4.3
+dTect V7.0.2
 Display Properties
-Thu 21 Jun 2012, 12:31:29
+2023-09-06T13:52:16Z
 !
-2D Display.Track.Color: 255`255`255
-2D Display.Track.Size: 1
-2D Display.Track.Track Name Above: Yes
-2D Display.Track.Track Name Below: Yes
-2D Display.Track.Track Font: Helvetica`10`Bold`No
-2D Display.Markers.Color: 255`255`255
-2D Display.Markers.Size: 5
-2D Display.Markers.Single Marker Color: No
-2D Display.Markers.Marker Shape: 0
-2D Display.Markers.Cylinder Height: 1
-2D Display.Markers.Marker Name Font: Helvetica`10`Bold`No
-2D Display.Markers.Marker Name Color Same as Marker: Yes
-2D Display.Markers.Marker Name Color: 255`255`255
-2D Display.Markers.Selected Markers: 
-2D Display.Log.Left Log Color: 0`0`0
-2D Display.Log.Left Log Size: 1
-2D Display.Log.Left Log Name: Gamma Ray
-2D Display.Log.Left Log Range: 0`140
-2D Display.Log.Left Filled Log name: Gamma Ray
-2D Display.Log.Left Filled Log Range: 1.3392`129.177
-2D Display.Log.Left Fill Left Log: No
-2D Display.Log.Right Fill Left Log: Yes
-2D Display.Log.Left Revert Range Bool: No
+2D Display.Display Stratigraphy: No
 2D Display.Log.Left Cliprate: 0
-2D Display.Log.Left Log Style: Yes
-2D Display.Log.Left Single Fill Color: No
 2D Display.Log.Left Data Range Bool: Yes
+2D Display.Log.Left Fill Left Log: No
+2D Display.Log.Left Fill Right Log: Yes
+2D Display.Log.Left Filled Log Range: 1.3392`129.177002
+2D Display.Log.Left Filled Log name: Gamma Ray
+2D Display.Log.Left Log Color: 0`0`0
+2D Display.Log.Left Log Color Table Flipped: No
+2D Display.Log.Left Log Name: Gamma Ray
 2D Display.Log.Left Log Number: 1
 2D Display.Log.Left Log Overlapp: 0
+2D Display.Log.Left Log Range: 0`140
 2D Display.Log.Left Log Seismic Style Color: 0`0`255
-2D Display.Log.Left Sequence name: Rainbow
-2D Display.Log.Left Log Width: 15
+2D Display.Log.Left Log Size: 1
+2D Display.Log.Left Log Style: 0
+2D Display.Log.Left Log Width XY: 250
 2D Display.Log.Left Log scale: No
-2D Display.Log.Left Log Color Table Flipped: No
-2D Display.Log.Right Log Color: 0`0`0
-2D Display.Log.Right Log Size: 1
-2D Display.Log.Right Log Name: Gamma Ray
-2D Display.Log.Right Log Range: 0`140
-2D Display.Log.Right Filled Log name: Gamma Ray
-2D Display.Log.Right Filled Log Range: 1.3392`129.177
-2D Display.Log.Left Fill Right Log: Yes
-2D Display.Log.Right Fill Right Log: No
-2D Display.Log.Right Revert Range Bool: No
+2D Display.Log.Left Revert Range Bool: No
+2D Display.Log.Left Sequence name: Rainbow
+2D Display.Log.Left Single Fill Color: No
 2D Display.Log.Right Cliprate: 0
-2D Display.Log.Right Log Style: Yes
-2D Display.Log.Right Single Fill Color: No
 2D Display.Log.Right Data Range Bool: Yes
+2D Display.Log.Right Fill Left Log: Yes
+2D Display.Log.Right Fill Right Log: No
+2D Display.Log.Right Filled Log Range: 1.3392`129.177002
+2D Display.Log.Right Filled Log name: Gamma Ray
+2D Display.Log.Right Log Color: 0`0`0
+2D Display.Log.Right Log Color Table Flipped: No
+2D Display.Log.Right Log Name: Gamma Ray
 2D Display.Log.Right Log Number: 1
 2D Display.Log.Right Log Overlapp: 0
+2D Display.Log.Right Log Range: 0`140
 2D Display.Log.Right Log Seismic Style Color: 0`0`255
-2D Display.Log.Right Sequence name: Rainbow
-2D Display.Log.Right Log Width: 15
+2D Display.Log.Right Log Size: 1
+2D Display.Log.Right Log Style: 0
+2D Display.Log.Right Log Width XY: 250
 2D Display.Log.Right Log scale: No
-2D Display.Log.Right Log Color Table Flipped: No
-2D Display.2D Display.Display Stratigraphy: No
+2D Display.Log.Right Revert Range Bool: No
+2D Display.Log.Right Sequence name: Rainbow
+2D Display.Log.Right Single Fill Color: No
+2D Display.Markers.Cylinder Height: 1
+2D Display.Markers.Marker Dynamic Name Size: No
+2D Display.Markers.Marker Name Color Same as Marker: Yes
+2D Display.Markers.Marker Name Font: Helvetica`10`Bold`No`Regular
+2D Display.Markers.Marker Shape: 0
+2D Display.Markers.Selected Markers: 
+2D Display.Markers.Single Marker Color: No
+2D Display.Markers.Size: 5
+2D Display.Markers.Unselected Markers: 
+2D Display.Track.Color: 255`255`255
+2D Display.Track.Size: 1
+2D Display.Track.Track Dynamic Name Size: No
+2D Display.Track.Track Font: Helvetica`10`Bold`No`Regular
+2D Display.Track.Track Name Above: Yes
+2D Display.Track.Track Name Below: Yes
+3D Display.Markers.Cylinder Height: 2
+3D Display.Markers.Marker Dynamic Name Size: No
+3D Display.Markers.Marker Name Color Same as Marker: Yes
+3D Display.Markers.Marker Name Font: Helvetica`16`Bold`No`Regular
+3D Display.Markers.Marker Shape: 0
+3D Display.Markers.Selected Markers: FS11`MFS10`MFS9`MFS8`FS8`FS7`Truncation`Top Foresets`FS6`MFS4`FS4`FS3`FS2`MFS2`FS1`MMU
+3D Display.Markers.Single Marker Color: No
+3D Display.Markers.Size: 5
+3D Display.Markers.Unselected Markers: 
 3D Display.Track.Color: 255`0`0
 3D Display.Track.Size: 1
+3D Display.Track.Track Dynamic Name Size: No
+3D Display.Track.Track Font: Helvetica`20`Bold`No`Regular
 3D Display.Track.Track Name Above: Yes
 3D Display.Track.Track Name Below: Yes
-3D Display.Track.Track Font: Helvetica`22`Bold`No
-3D Display.Markers.Color: 255`255`255
-3D Display.Markers.Size: 5
-3D Display.Markers.Single Marker Color: No
-3D Display.Markers.Marker Shape: 0
-3D Display.Markers.Cylinder Height: 4
-3D Display.Markers.Marker Name Font: Helvetica`16`Bold`No
-3D Display.Markers.Marker Name Color Same as Marker: Yes
-3D Display.Markers.Marker Name Color: 255`255`255
-3D Display.Markers.Selected Markers: MFS11`FS11`MFS10`MFS9`MFS8`FS8`FS7`Truncation`Top Foresets`FS6`MFS4`FS4`FS3`FS2`MFS2`FS1`MMU
-3D Display.Log.Left Log Color: 0`0`255
-3D Display.Log.Left Log Size: 1
-3D Display.Log.Left Log Name: None
-3D Display.Log.Left Log Range: 0`0
-3D Display.Log.Left Filled Log name: Density
-3D Display.Log.Left Filled Log Range: 0`0
-3D Display.Log.Left Fill Left Log: No
-3D Display.Log.Right Fill Left Log: Yes
-3D Display.Log.Left Revert Range Bool: No
-3D Display.Log.Left Cliprate: 0
-3D Display.Log.Left Log Style: Yes
-3D Display.Log.Left Single Fill Color: No
-3D Display.Log.Left Data Range Bool: Yes
-3D Display.Log.Left Log Number: 1
-3D Display.Log.Left Log Overlapp: 0
-3D Display.Log.Left Log Seismic Style Color: 0`0`255
-3D Display.Log.Left Sequence name: Rainbow
-3D Display.Log.Left Log Width: 30
-3D Display.Log.Left Log scale: No
-3D Display.Log.Left Log Color Table Flipped: No
-3D Display.Log.Right Log Color: 0`0`255
-3D Display.Log.Right Log Size: 1
-3D Display.Log.Right Log Name: None
-3D Display.Log.Right Log Range: 0`0
-3D Display.Log.Right Filled Log name: Density
-3D Display.Log.Right Filled Log Range: 0`0
-3D Display.Log.Left Fill Right Log: Yes
-3D Display.Log.Right Fill Right Log: No
-3D Display.Log.Right Revert Range Bool: No
-3D Display.Log.Right Cliprate: 0
-3D Display.Log.Right Log Style: Yes
-3D Display.Log.Right Single Fill Color: No
-3D Display.Log.Right Data Range Bool: Yes
-3D Display.Log.Right Log Number: 1
-3D Display.Log.Right Log Overlapp: 0
-3D Display.Log.Right Log Seismic Style Color: 0`0`255
-3D Display.Log.Right Sequence name: Rainbow
-3D Display.Log.Right Log Width: 30
-3D Display.Log.Right Log scale: No
-3D Display.Log.Right Log Color Table Flipped: No
-3D Display.3D Display.Display Stratigraphy: No
 !

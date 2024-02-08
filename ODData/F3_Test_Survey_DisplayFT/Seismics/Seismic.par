@@ -1,12 +1,12 @@
-dTect V6.0
+dTect V7.1.0
 Parameters
-Tue 20 Dec 2016, 12:35:38
+2023-09-11T10:33:02Z
 !
-Name: Seismics
-Type: Fixed
-Clip Rate: 0.025`0.025
-Sym Mid Value: 1e30
 Auto Sym: No
-Range: -5000`5000
+Clip Rate: 0.005`0.005
 Flip seq: No
+Name: OD Seismic 1
+Range: -8000`8000
+Sym Mid Value: 0
+Type: Fixed
 !
