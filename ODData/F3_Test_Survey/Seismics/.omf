@@ -1,8 +1,8 @@
-dTect V7.0.0
+dTect V7.1.0
 Object Management file
-2023-11-09T14:54:45Z
+2024-03-01T07:46:43Z
 !
-ID: 100010`112
+ID: 100010`121
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -348,4 +348,45 @@ $Name: Seismic_with_300-310_Inlines_missing.cbvs
 #Created.At: Fri 07 Apr 2017, 14:15:28
 #Created.By: mahant
 #Created.From: /d15/mahant/surveys/testsurveys.git/trunk/ODData/F3_Test_Survey/Seismic.dat
+!
+Seismic (CBVS-optimized Z): 114
+Seismic Data: CBVS`Stream
+$Name: Seismic__CBVS-optimized_Z_.cbvs
+#Created.At: 2024-02-08T12:12:28Z
+#Created.By: khushnood`qkhushnood
+#Created.From: E:\testsurveys\ODData\F3_Test_Survey\Seismics\Seismic.cbvs
+#Data storage: 0 - auto
+#Optimized direction: Horizontal
+#Version: 7.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
+!
+Seismic(SEG-Y): 118
+Seismic Data: SEGYDirect`Stream
+$Name: Seismic_SEG-Y_.sgydef
+#Created.At: 2024-02-08T11:59:03Z
+#Created.By: khushnood`qkhushnood
+#Version: 7.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
+!
+Seismic(VDS): 119
+Seismic Data: VDSDirect`Stream
+$Name: Seismic_VDS_.vdsdef
+#Created.At: 2024-02-08T11:59:24Z
+#Created.By: khushnood`qkhushnood
+#Version: 7.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
+!
+Seismic(ZGY): 120
+Seismic Data: ZGYDirect`Stream
+$Name: Seismic_ZGY_.zgydef
+#Created.At: 2024-02-08T11:59:52Z
+#Created.By: khushnood`qkhushnood
+#Created.From: E:\testsurveys\ODData\F3_Test_Survey\Export\Seismic(SEG-Y).sgy
+#Created.Info: 
+#Version: 7.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
 !
