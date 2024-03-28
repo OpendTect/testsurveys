@@ -1,8 +1,8 @@
 dTect V7.0.0
 Object Management file
-2023-11-09T14:55:16Z
+2024-03-11T15:15:36Z
 !
-ID: 100010`31
+ID: 100010`37
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -10,7 +10,7 @@ $Name: Seismics
 !
 Seismic: 2
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey_DepthFT/Seismics/Seismic.cbvs
+$Name: ..\..\F3_Test_Survey_DepthFT\Seismics\Seismic.cbvs
 #Data storage: 0 - auto
 !
 stat 120: 3
@@ -36,7 +36,7 @@ $ID: 100010.6
 !
 Velocity model (INT) time-s (m/s): 8
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__time-s__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__time-s__m_s_.cbvs
 #Bottom Vavg: 2098.8730469`2144.4772949`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -48,7 +48,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__time-s__m_s_.cbvs
 !
 Velocity model (INT) time-s (ft/s): 9
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__time-s__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__time-s__ft_s_.cbvs
 #Bottom Vavg: 6886.0668945`7035.6870117`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -60,7 +60,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__time-s__ft_s_.cbvs
 !
 Velocity model (INT) depth-m (m/s): 10
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-m__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__depth-m__m_s_.cbvs
 #Bottom Vavg: 2108.9411621`2148.3989258`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -73,7 +73,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-m__m_s_.cbvs
 !
 Velocity model (INT) depth-m (ft/s): 11
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-m__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__depth-m__ft_s_.cbvs
 #Bottom Vavg: 6919.0844727`7048.5380859`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -86,7 +86,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-m__ft_s_.cbvs
 !
 Velocity model (INT) depth-ft (ft/s): 12
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-ft__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__depth-ft__ft_s_.cbvs
 #Bottom Vavg: 6917.5888672`7047.2177734`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -99,7 +99,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-ft__ft_s_.cbvs
 !
 Velocity model (INT) depth-ft (m/s): 13
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-ft__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__depth-ft__m_s_.cbvs
 #Bottom Vavg: 2108.4802246`2147.9936523`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -112,7 +112,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__depth-ft__m_s_.cbvs
 !
 Velocity model (INT) with SRD 50ft depth-m (m/s): 14
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-m__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__with_SRD_50ft_depth-m__m_s_.cbvs
 #Bottom Vavg: 2112.1530762`2151.227051`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -125,7 +125,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-m_
 !
 Velocity model (INT) with SRD 50ft depth-m (ft/s): 15
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-m__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__with_SRD_50ft_depth-m__ft_s_.cbvs
 #Bottom Vavg: 6929.6235352`7057.8178711`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -138,7 +138,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-m_
 !
 Velocity model (INT) with SRD 50ft depth-ft (ft/s): 16
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-ft__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__with_SRD_50ft_depth-ft__ft_s_.cbvs
 #Bottom Vavg: 6928.1601563`7056.5263672`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -151,7 +151,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-ft
 !
 Velocity model (INT) with SRD 50ft depth-ft (m/s): 17
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-ft__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__INT__with_SRD_50ft_depth-ft__m_s_.cbvs
 #Bottom Vavg: 2111.7021484`2150.830811`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -164,7 +164,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__INT__with_SRD_50ft_depth-ft
 !
 Velocity model (AVG) time-s (m/s): 18
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__time-s__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__time-s__m_s_.cbvs
 #Bottom Vavg: 2098.883301`2144.4848633`m/s
 #Is Velocity: Yes
 #Top Vavg: 1960`1960`m/s
@@ -175,7 +175,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__time-s__m_s_.cbvs
 !
 Velocity model (AVG) time-s (ft/s): 19
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__time-s__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__time-s__ft_s_.cbvs
 #Bottom Vavg: 6886.1`7035.7114258`ft/s
 #Is Velocity: Yes
 #Top Vavg: 6430.446289`6430.446289`ft/s
@@ -186,7 +186,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__time-s__ft_s_.cbvs
 !
 Velocity model (RMS) time-s (m/s): 20
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__RMS__time-s__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__RMS__time-s__m_s_.cbvs
 #Bottom Vavg: 2098.8830566`2144.486084`m/s
 #Is Velocity: Yes
 #Top Vavg: 1960`1960`m/s
@@ -197,7 +197,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__RMS__time-s__m_s_.cbvs
 !
 Velocity model (RMS) time-s (ft/s): 21
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__RMS__time-s__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__RMS__time-s__ft_s_.cbvs
 #Bottom Vavg: 6886.09375`7035.70752`ft/s
 #Is Velocity: Yes
 #Top Vavg: 6430.446289`6430.446289`ft/s
@@ -208,7 +208,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__RMS__time-s__ft_s_.cbvs
 !
 Velocity model (AVG) depth-m (m/s): 22
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-m__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__depth-m__m_s_.cbvs
 #Bottom Vavg: 2108.942627`2148.39917`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -221,7 +221,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-m__m_s_.cbvs
 !
 Velocity model (AVG) depth-m (ft/s): 23
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-m__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__depth-m__ft_s_.cbvs
 #Bottom Vavg: 6919.0976563`7048.54834`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -234,7 +234,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-m__ft_s_.cbvs
 !
 Velocity model (AVG) depth-ft (ft/s): 24
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-ft__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__depth-ft__ft_s_.cbvs
 #Bottom Vavg: 6917.60498`7047.2333984`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -247,7 +247,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-ft__ft_s_.cbvs
 !
 Velocity model (AVG) depth-ft (m/s): 25
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-ft__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__depth-ft__m_s_.cbvs
 #Bottom Vavg: 2108.4851074`2147.9953613`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -260,7 +260,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__depth-ft__m_s_.cbvs
 !
 Velocity model (AVG) with SRD 50ft depth-m (m/s): 26
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-m__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__with_SRD_50ft_depth-m__m_s_.cbvs
 #Bottom Vavg: 2112.1555176`2151.227539`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -273,7 +273,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-m_
 !
 Velocity model (AVG) with SRD 50ft depth-m (ft/s): 27
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-m__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__with_SRD_50ft_depth-m__ft_s_.cbvs
 #Bottom Vavg: 6929.6386719`7057.8276367`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -286,7 +286,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-m_
 !
 Velocity model (AVG) with SRD 50ft depth-ft (ft/s): 28
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-ft__ft_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__with_SRD_50ft_depth-ft__ft_s_.cbvs
 #Bottom Vavg: 6928.17627`7056.540039`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -299,7 +299,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-ft
 !
 Velocity model (AVG) with SRD 50ft depth-ft (m/s): 29
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-ft__m_s_.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Velocity_model__AVG__with_SRD_50ft_depth-ft__m_s_.cbvs
 #Bottom Vavg: 2111.7072754`2150.8330078`m/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
@@ -312,7 +312,7 @@ $Name: ../../F3_Test_Survey/Seismics/Velocity_model__AVG__with_SRD_50ft_depth-ft
 !
 Seismic depth-ft: 31
 Seismic Data: CBVS`Stream
-$Name: ../../F3_Test_Survey/Seismics/Seismic_depth-ft.cbvs
+$Name: ..\..\F3_Test_Survey\Seismics\Seismic_depth-ft.cbvs
 #ZDomain: Depth
 #ZDomain.Unit: Feet
 !
