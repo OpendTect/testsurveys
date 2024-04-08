@@ -1,392 +1,284 @@
-dTect V4.6
+dTect V7.0.0
 Session setup
-Fri 08 Nov 2013, 13:24:23
+2024-04-05T16:36:20Z
 !
 Session setup
-Vis.Work Area: 200`650`700`1200`400`1200
-Vis.1436.Type: visSurvey::Scene
-Vis.1436.Name: Scene 1
-Vis.1436.Polygon offset.Factor: 1
-Vis.1436.Polygon offset.Units: 200
-Vis.1436.Child 0: 1428
-Vis.1436.Child 1: 1435
-Vis.1436.Child 2: 1506
-Vis.1436.Child 3: 2036
-Vis.1436.Child 4: 2068
-Vis.1436.Child 5: 1472
-Vis.1436.Number of Children: 6
-Vis.1436.Show text: Yes
-Vis.1436.Show scale: Yes
-Vis.1436.Show grid: Yes
-Vis.1436.Show cube: Yes
-Vis.1436.ZStretch: 14.99685
-Vis.1436.Allow shading: Yes
-Vis.1436.Show ColTab: Yes
-Vis.1436.ZDomain: Depth
-Vis.1436.First In-line: 200
-Vis.1436.First Cross-line: 700
-Vis.1436.Last In-line: 650
-Vis.1436.Last Cross-line: 1200
-Vis.1436.Step In-line: 2
-Vis.1436.Step Cross-line: 2
-Vis.1436.Z range: 400`1200`5
-Vis.1436.Scale: 1
-Vis.1436.TopImage.ID: 1428
-Vis.1436.BotImage.ID: 1435
-Vis.1428.Type: visBase::TopBotImage
-Vis.1428.Name: TopImage
-Vis.1428.Material ID: 1422
-Vis.1428.Is on: No
-Vis.1428.TopLeft: 0`0`0
-Vis.1428.BotRight: 0`0`0
-Vis.1428.File name: 
-Vis.1435.Type: visBase::TopBotImage
-Vis.1435.Name: BottomImage
-Vis.1435.Material ID: 1429
-Vis.1435.Is on: No
-Vis.1435.TopLeft: 0`0`0
-Vis.1435.BotRight: 0`0`0
-Vis.1435.File name: 
-Vis.1506.Type: visSurvey::HorizonDisplay
-Vis.1506.Name: 1-Top
-Vis.1506.Material ID: 1503
-Vis.1506.Is on: Yes
-Vis.1506.EarthModel ID: 100020.2
-Vis.1506.Edit: No
-Vis.1506.Display only on sections: Yes
-Vis.1506.Color: 65280
-Vis.1506.Linestyle: Solid`2`0`0`0
-Vis.1506.Survey: F3_Test_Survey_DepthM
-Vis.1506.Locked: No
-Vis.1506.Attrib 0.Attrib Reference: Depth
-Vis.1506.Attrib 0.Attrib ID: -2
-Vis.1506.Attrib 0.DescSet only for stored data: Yes
-Vis.1506.Attrib 0.Is attrib NLA Model: No
-Vis.1506.Attrib 0.Object Reference: 
-Vis.1506.Attrib 0.Definition: 
-Vis.1506.Attrib 0.ZDomain: 
-Vis.1506.Attrib 0.Is 2D: No
-Vis.1506.Attrib 0.Mapper.Type: Auto
-Vis.1506.Attrib 0.Mapper.Clip Rate: 0.025`0.025
-Vis.1506.Attrib 0.Mapper.Sym Mid Value: 1e30
-Vis.1506.Attrib 0.Mapper.Auto Sym: Yes
-Vis.1506.Attrib 0.Mapper.Range: 496.2917`601.9427
-Vis.1506.Attrib 0.Mapper.Flip seq: No
-Vis.1506.Attrib 0.Trans: 0
-Vis.1506.Attrib 0.Is on: Yes
-Vis.1506.Nr Attribs: 1
-Vis.1506.Use texture: No
-Vis.1506.WireFrame on: No
-Vis.1506.Shift: 0
-Vis.1506.Resolution: 0
-Vis.1506.Attrib 0.Type: Auto
-Vis.1506.Attrib 0.Clip Rate: 0.025`0.025
-Vis.1506.Attrib 0.Sym Mid Value: 1e30
-Vis.1506.Attrib 0.Auto Sym: Yes
-Vis.1506.Attrib 0.Range: 496.2917`601.9427
-Vis.1506.Attrib 0.Flip seq: No
-Vis.1506.Attrib 0.Name: Seismics
-Vis.1506.Attrib 0.Marker color: 0`240`0`0
-Vis.1506.Attrib 0.Undef color: 150`200`150`0
-Vis.1506.Attrib 0.Nr segments: 0
-Vis.1506.Attrib 0.Value-Color.0: 0`170`0`0`0
-Vis.1506.Attrib 0.Value-Color.1: 0.070352`255`28`0`0
-Vis.1506.Attrib 0.Value-Color.2: 0.25`255`200`0`0
-Vis.1506.Attrib 0.Value-Color.3: 0.5`243`243`243`0
-Vis.1506.Attrib 0.Value-Color.4: 0.883249`56`70`127`0
-Vis.1506.Attrib 0.Value-Color.5: 1`0`0`0`0
-Vis.1506.Attrib 0.Transparency.0: 0`0
-Vis.1506.Attrib 0.Transparency.1: 1`0
-Vis.1506.Intsectline material id: 1505
-Vis.2036.Type: visSurvey::HorizonDisplay
-Vis.2036.Name: 2-Base
-Vis.2036.Material ID: 2033
-Vis.2036.Is on: Yes
-Vis.2036.EarthModel ID: 100020.3
-Vis.2036.Edit: No
-Vis.2036.Display only on sections: No
-Vis.2036.Color: 3328050
-Vis.2036.Linestyle: Solid`2`0`0`0
-Vis.2036.Survey: F3_Test_Survey_DepthM
-Vis.2036.Locked: No
-Vis.2036.Attrib 0.Attrib Reference: Depth
-Vis.2036.Attrib 0.Attrib ID: -2
-Vis.2036.Attrib 0.DescSet only for stored data: Yes
-Vis.2036.Attrib 0.Is attrib NLA Model: No
-Vis.2036.Attrib 0.Object Reference: 
-Vis.2036.Attrib 0.Definition: 
-Vis.2036.Attrib 0.ZDomain: 
-Vis.2036.Attrib 0.Is 2D: No
-Vis.2036.Attrib 0.Sequence.Name: Seismics
-Vis.2036.Attrib 0.Mapper.Type: Auto
-Vis.2036.Attrib 0.Mapper.Clip Rate: 0.025`0.025
-Vis.2036.Attrib 0.Mapper.Sym Mid Value: 1e30
-Vis.2036.Attrib 0.Mapper.Auto Sym: Yes
-Vis.2036.Attrib 0.Mapper.Range: 811.9714`1046.224
-Vis.2036.Attrib 0.Mapper.Flip seq: No
-Vis.2036.Attrib 0.Trans: 0
-Vis.2036.Attrib 0.Is on: Yes
-Vis.2036.Nr Attribs: 1
-Vis.2036.Use texture: Yes
-Vis.2036.WireFrame on: No
-Vis.2036.Shift: 0
-Vis.2036.Resolution: 0
-Vis.2036.Attrib 0.Type: Auto
-Vis.2036.Attrib 0.Clip Rate: 0.025`0.025
-Vis.2036.Attrib 0.Sym Mid Value: 1e30
-Vis.2036.Attrib 0.Auto Sym: Yes
-Vis.2036.Attrib 0.Range: 811.9714`1046.224
-Vis.2036.Attrib 0.Flip seq: No
-Vis.2036.Attrib 0.Name: Seismics
-Vis.2036.Attrib 0.Marker color: 0`240`0`0
-Vis.2036.Attrib 0.Undef color: 150`200`150`0
-Vis.2036.Attrib 0.Nr segments: 0
-Vis.2036.Attrib 0.Value-Color.0: 0`170`0`0`0
-Vis.2036.Attrib 0.Value-Color.1: 0.070352`255`28`0`0
-Vis.2036.Attrib 0.Value-Color.2: 0.25`255`200`0`0
-Vis.2036.Attrib 0.Value-Color.3: 0.5`243`243`243`0
-Vis.2036.Attrib 0.Value-Color.4: 0.883249`56`70`127`0
-Vis.2036.Attrib 0.Value-Color.5: 1`0`0`0`0
-Vis.2036.Attrib 0.Transparency.0: 0`0
-Vis.2036.Attrib 0.Transparency.1: 1`0
-Vis.2036.Intsectline material id: 2035
-Vis.2068.Type: visSurvey::WellDisplay
-Vis.2068.Name: F03-4
-Vis.2068.Material ID: -1
-Vis.2068.Is on: Yes
-Vis.2068.EarthModel ID: 100050.2
-Vis.2068.Well ID: 2067
-Vis.2068.3D Display.Track.Color: 255`0`0
-Vis.2068.3D Display.Track.Size: 1
-Vis.2068.3D Display.Track.Track Name Above: Yes
-Vis.2068.3D Display.Track.Track Name Below: Yes
-Vis.2068.3D Display.Track.Track Font: Helvetica`22`Bold`No
-Vis.2068.3D Display.Markers.Color: 255`255`255
-Vis.2068.3D Display.Markers.Size: 5
-Vis.2068.3D Display.Markers.Single Marker Color: No
-Vis.2068.3D Display.Markers.Marker Shape: 0
-Vis.2068.3D Display.Markers.Cylinder Height: 4
-Vis.2068.3D Display.Markers.Marker Name Font: Helvetica`16`Bold`No
-Vis.2068.3D Display.Markers.Marker Name Color Same as Marker: Yes
-Vis.2068.3D Display.Markers.Marker Name Color: 255`255`255
-Vis.2068.3D Display.Markers.Selected Markers: MFS11`FS11`MFS10`MFS9`MFS8`FS8`FS7`Truncation`Top Foresets`FS6`MFS4`FS4`FS3`FS2`MFS2`FS1`MMU`MFS11`FS11`MFS10`MFS9`MFS8`FS8`FS7`Truncation`Top Foresets`FS6`MFS4`FS4`FS3`FS2`MFS2`FS1`MMU
-Vis.2068.3D Display.Log.Left Log Color: 0`0`255
-Vis.2068.3D Display.Log.Left Log Size: 1
-Vis.2068.3D Display.Log.Left Log Name: None
-Vis.2068.3D Display.Log.Left Log Range: 0`0
-Vis.2068.3D Display.Log.Left Filled Log name: Density
-Vis.2068.3D Display.Log.Left Filled Log Range: 0`0
-Vis.2068.3D Display.Log.Left Fill Left Log: No
-Vis.2068.3D Display.Log.Right Fill Left Log: Yes
-Vis.2068.3D Display.Log.Left Revert Range Bool: No
-Vis.2068.3D Display.Log.Left Cliprate: 0
-Vis.2068.3D Display.Log.Left Log Style: Yes
-Vis.2068.3D Display.Log.Left Single Fill Color: No
-Vis.2068.3D Display.Log.Left Data Range Bool: Yes
-Vis.2068.3D Display.Log.Left Log Number: 1
-Vis.2068.3D Display.Log.Left Log Overlapp: 0
-Vis.2068.3D Display.Log.Left Log Seismic Style Color: 0`0`255
-Vis.2068.3D Display.Log.Left Sequence name: Rainbow
-Vis.2068.3D Display.Log.Left Log Width: 30
-Vis.2068.3D Display.Log.Left Log scale: No
-Vis.2068.3D Display.Log.Left Log Color Table Flipped: No
-Vis.2068.3D Display.Log.Right Log Color: 0`0`255
-Vis.2068.3D Display.Log.Right Log Size: 1
-Vis.2068.3D Display.Log.Right Log Name: None
-Vis.2068.3D Display.Log.Right Log Range: 0`0
-Vis.2068.3D Display.Log.Right Filled Log name: Density
-Vis.2068.3D Display.Log.Right Filled Log Range: 0`0
-Vis.2068.3D Display.Log.Left Fill Right Log: Yes
-Vis.2068.3D Display.Log.Right Fill Right Log: No
-Vis.2068.3D Display.Log.Right Revert Range Bool: No
-Vis.2068.3D Display.Log.Right Cliprate: 0
-Vis.2068.3D Display.Log.Right Log Style: Yes
-Vis.2068.3D Display.Log.Right Single Fill Color: No
-Vis.2068.3D Display.Log.Right Data Range Bool: Yes
-Vis.2068.3D Display.Log.Right Log Number: 1
-Vis.2068.3D Display.Log.Right Log Overlapp: 0
-Vis.2068.3D Display.Log.Right Log Seismic Style Color: 0`0`255
-Vis.2068.3D Display.Log.Right Sequence name: Rainbow
-Vis.2068.3D Display.Log.Right Log Width: 30
-Vis.2068.3D Display.Log.Right Log scale: No
-Vis.2068.3D Display.Log.Right Log Color Table Flipped: No
-Vis.2068.3D Display.3D Display.Display Stratigraphy: No
-Vis.2068.Survey: F3_Test_Survey_DepthM
-Vis.2068.Locked: No
-Vis.2068.Nr Attribs: 0
-Vis.1472.Type: visSurvey::PlaneDataDisplay
-Vis.1472.Material ID: 1453
-Vis.1472.Is on: Yes
-Vis.1472.Resolution: 0
-Vis.1472.Attrib 0.Attrib Reference: Seismic
-Vis.1472.Attrib 0.Attrib ID: 0
-Vis.1472.Attrib 0.DescSet only for stored data: Yes
-Vis.1472.Attrib 0.Is attrib NLA Model: No
-Vis.1472.Attrib 0.Object Reference: 
-Vis.1472.Attrib 0.Definition: Storage id=100010.2 output=0
-Vis.1472.Attrib 0.ZDomain: 
-Vis.1472.Attrib 0.Is 2D: No
-Vis.1472.Attrib 0.Sequence.Name: Seismics
-Vis.1472.Attrib 0.Mapper.Type: Auto
-Vis.1472.Attrib 0.Mapper.Clip Rate: 0.025`0.025
-Vis.1472.Attrib 0.Mapper.Sym Mid Value: 0
-Vis.1472.Attrib 0.Mapper.Auto Sym: Yes
-Vis.1472.Attrib 0.Mapper.Range: -5569.298`5569.298
-Vis.1472.Attrib 0.Mapper.Flip seq: No
-Vis.1472.Attrib 0.Trans: 0
-Vis.1472.Attrib 0.Is on: Yes
-Vis.1472.Nr Attribs: 1
-Vis.1472.Survey: F3_Test_Survey_DepthM
-Vis.1472.Locked: No
-Vis.1472.Orientation: Inline
-Vis.1472.First In-line: 426
-Vis.1472.First Cross-line: 700
-Vis.1472.Last In-line: 426
-Vis.1472.Last Cross-line: 1200
-Vis.1472.Step In-line: 2
-Vis.1472.Step Cross-line: 2
-Vis.1472.Z range: 400`1200`5
-Vis.1472.GridLines ID: 1465
-Vis.1422.Type: visBase::Material
-Vis.1422.Color: 179`179`179
-Vis.1422.Ambient Intensity: 0.8
-Vis.1422.Diffuse Intensity: 0.8
-Vis.1422.Specular Intensity: 0
-Vis.1422.Emmissive Intensity: 0
-Vis.1422.Shininess: 0
-Vis.1422.Transparency: 0
-Vis.1429.Type: visBase::Material
-Vis.1429.Color: 179`179`179
-Vis.1429.Ambient Intensity: 0.8
-Vis.1429.Diffuse Intensity: 0.8
-Vis.1429.Specular Intensity: 0
-Vis.1429.Emmissive Intensity: 0
-Vis.1429.Shininess: 0
-Vis.1429.Transparency: 0
-Vis.1503.Type: visBase::Material
-Vis.1503.Color: 0`255`0
-Vis.1503.Ambient Intensity: 0.3
-Vis.1503.Diffuse Intensity: 0.8
-Vis.1503.Specular Intensity: 0
-Vis.1503.Emmissive Intensity: 0
-Vis.1503.Shininess: 0
-Vis.1503.Transparency: 0
-Vis.1505.Type: visBase::Material
-Vis.1505.Color: 0`255`0
-Vis.1505.Ambient Intensity: 1
-Vis.1505.Diffuse Intensity: 1
-Vis.1505.Specular Intensity: 0
-Vis.1505.Emmissive Intensity: 0
-Vis.1505.Shininess: 0
-Vis.1505.Transparency: 0
-Vis.2033.Type: visBase::Material
-Vis.2033.Color: 255`255`255
-Vis.2033.Ambient Intensity: 0.3
-Vis.2033.Diffuse Intensity: 0.8
-Vis.2033.Specular Intensity: 0
-Vis.2033.Emmissive Intensity: 0
-Vis.2033.Shininess: 0
-Vis.2033.Transparency: 0
-Vis.2035.Type: visBase::Material
-Vis.2035.Color: 50`200`50
-Vis.2035.Ambient Intensity: 1
-Vis.2035.Diffuse Intensity: 1
-Vis.2035.Specular Intensity: 0
-Vis.2035.Emmissive Intensity: 0
-Vis.2035.Shininess: 0
-Vis.2035.Transparency: 0
-Vis.2067.Type: visBase::Well
-Vis.2067.Material ID: 2048
-Vis.2067.Is on: Yes
-Vis.2067.Line style: Solid`1`255`0`0
-Vis.2067.Show top name: Yes
-Vis.2067.Show bottom name: Yes
-Vis.2067.Show markers: Yes
-Vis.2067.Show markername: Yes
-Vis.2067.Show logs: No
-Vis.2067.Show logname: No
-Vis.2067.Marker size: 0
-Vis.2067.Screen width: 1
-Vis.1453.Type: visBase::Material
-Vis.1453.Color: 255`255`255
-Vis.1453.Ambient Intensity: 0.8
-Vis.1453.Diffuse Intensity: 0.2
-Vis.1453.Specular Intensity: 0
-Vis.1453.Emmissive Intensity: 0
-Vis.1453.Shininess: 0
-Vis.1453.Transparency: 0
-Vis.1465.Type: visBase::GridLines
-Vis.1465.Material ID: -1
-Vis.1465.Is on: Yes
-Vis.1465.Line style: Solid`1`0`0`0
-Vis.1465.First In-line: 2109876543
-Vis.1465.First Cross-line: 2109876543
-Vis.1465.Last In-line: 2109876543
-Vis.1465.Last Cross-line: 2109876543
-Vis.1465.Step In-line: 1
-Vis.1465.Step Cross-line: 1
-Vis.1465.Z range: 0`0`1
-Vis.1465.Inlines shown: No
-Vis.1465.Crosslines shown: No
-Vis.1465.Zlines shown: No
-Vis.2048.Type: visBase::Material
-Vis.2048.Color: 179`179`179
-Vis.2048.Ambient Intensity: 0.8
-Vis.2048.Diffuse Intensity: 0.8
-Vis.2048.Specular Intensity: 0
-Vis.2048.Emmissive Intensity: 0
-Vis.2048.Shininess: 0
-Vis.2048.Transparency: 0
-Vis.Free ID: 2069
-Scene.0.Scene ID: 1436
-Scene.0.Background color: 0
-Scene.0.Stereo viewing: None
-Scene.0.Stereo offset: 0.1
-Scene.0.Perspective camera: Yes
-Scene.0.Type: visBase::Camera
-Scene.0.Position: 5106.0771484375`-7408.416015625`-4666.8212890625
-Scene.0.Orientation: 0.99696`-0.055012`-0.0551835`1.413051
-Scene.0.Aspect ratio: 1
-Scene.0.Near Distance: 5834
-Scene.0.Far Distance: 22451
-Scene.0.Focal Distance: 15459.35
-Scene.0.Home position.Position: 615447.6875`6075334.5`-11.247636
-Scene.0.Home position.Orientation: 1`-0`0`1.570796
-Scene.0.Home position.Aspect ratio: 1
-Scene.0.Home position.Near Distance: 1
-Scene.0.Home position.Far Distance: -2147483648
-Scene.0.Home position.Focal Distance: 5
-3D.Attribs.0.Definition: Storage id=100010.2 output=0
-3D.Attribs.0.UserRef: Seismic
-3D.Attribs.0.Hidden: No
 3D.Attribs.0.DataType: Other
+3D.Attribs.0.Definition: Storage id=100010.2 output=0
+3D.Attribs.0.Hidden: No
 3D.Attribs.0.Index: 0
+3D.Attribs.0.UserRef: Seismic
 3D.Attribs.MaxNrKeys: 0
 3D.Attribs.Type: 3D
-3D.Stored.Attribs.0.Definition: Storage id=100010.2 output=0
-3D.Stored.Attribs.0.UserRef: Seismic
-3D.Stored.Attribs.0.Hidden: No
 3D.Stored.Attribs.0.DataType: Other
+3D.Stored.Attribs.0.Definition: Storage id=100010.2 output=0
+3D.Stored.Attribs.0.Hidden: No
 3D.Stored.Attribs.0.Index: 0
+3D.Stored.Attribs.0.UserRef: Seismic
 3D.Stored.Attribs.MaxNrKeys: 0
 3D.Stored.Attribs.Type: 3D
-Tracking.Nr Trackers: 0
-Tracking.First In-line: 368
-Tracking.First Cross-line: 886
-Tracking.Last In-line: 480
-Tracking.Last Cross-line: 1012
-Tracking.Step In-line: 2
-Tracking.Step Cross-line: 2
-Tracking.Z range: 700`900`5
-Tracking.Track Plane.First In-line: 424
-Tracking.Track Plane.First Cross-line: 886
-Tracking.Track Plane.Last In-line: 424
-Tracking.Track Plane.Last Cross-line: 1012
-Tracking.Track Plane.Step In-line: 2
-Tracking.Track Plane.Step Cross-line: 2
-Tracking.Track Plane.Z range: 700`900`5
-Tracking.Track Plane.Track Mode: None
-Plugins.PS2DViewers.Nr processors: 0
+Plugins.HorizonCube.Version: 2
 Plugins.PS2DViewers.Nr Viewers: 0
 Plugins.Well Corr Panel.Nr Viewers: 0
+Scene.0.Background color: 4671303
+Scene.0.Camera Rotation: 0.707106781186547`0`0`0.707106781186547
+Scene.0.Manipulator Center: 6090.509765625`5797.28173828125`0
+Scene.0.Manipulator Distance: 24271.531012893417937
+Scene.0.MapView: No
+Scene.0.Name: 5363656e652031
+Scene.0.Perspective camera: Yes
+Scene.0.Scene ID: 203
+Scene.0.Stereo offset: 0
+Scene.0.Stereo viewing: None
+Tracking.First Cross-line: 2109876543
+Tracking.First In-line: 2109876543
+Tracking.GeomID: -2
+Tracking.Last Cross-line: 2109876543
+Tracking.Last In-line: 2109876543
+Tracking.Nr Trackers: 0
+Tracking.Step Cross-line: 1
+Tracking.Step In-line: 1
+Tracking.Survey ID: -2
+Tracking.Z range: 0`0`1
+Vis.Free ID: 388
+Vis.Number of Scene: 1
+Vis.Scene0.Annotation color: 255`255`255
+Vis.Scene0.Child0.Attrib 0.Attrib ID: -2
+Vis.Scene0.Child0.Attrib 0.Attrib Reference: Z values
+Vis.Scene0.Child0.Attrib 0.Auto Sym: Yes
+Vis.Scene0.Child0.Attrib 0.Clip Rate: 0.005`0.005
+Vis.Scene0.Child0.Attrib 0.Definition: 
+Vis.Scene0.Child0.Attrib 0.DescSet only for stored data: Yes
+Vis.Scene0.Child0.Attrib 0.Flip seq: No
+Vis.Scene0.Child0.Attrib 0.Is 2D: No
+Vis.Scene0.Child0.Attrib 0.Is attrib NLA Model: No
+Vis.Scene0.Child0.Attrib 0.Is on: Yes
+Vis.Scene0.Child0.Attrib 0.Mapper.Auto Sym: Yes
+Vis.Scene0.Child0.Attrib 0.Mapper.Clip Rate: 0.005`0.005
+Vis.Scene0.Child0.Attrib 0.Mapper.Flip seq: No
+Vis.Scene0.Child0.Attrib 0.Mapper.Range: 484.8122559`618.6204224
+Vis.Scene0.Child0.Attrib 0.Mapper.Sym Mid Value: 1e30
+Vis.Scene0.Child0.Attrib 0.Mapper.Type: Auto
+Vis.Scene0.Child0.Attrib 0.Marker color: 0`240`0`0
+Vis.Scene0.Child0.Attrib 0.Name: OD Seismic 1
+Vis.Scene0.Child0.Attrib 0.Nr Versions: 1
+Vis.Scene0.Child0.Attrib 0.Nr segments: 0
+Vis.Scene0.Child0.Attrib 0.Object Reference: 
+Vis.Scene0.Child0.Attrib 0.Range: 484.8122559`618.6204224
+Vis.Scene0.Child0.Attrib 0.Sequence.Name: OD Seismic 1
+Vis.Scene0.Child0.Attrib 0.Sym Mid Value: 1e30
+Vis.Scene0.Child0.Attrib 0.Trans: 0
+Vis.Scene0.Child0.Attrib 0.Transparency.0: 0`0
+Vis.Scene0.Child0.Attrib 0.Transparency.1: 1`0
+Vis.Scene0.Child0.Attrib 0.Type: Auto
+Vis.Scene0.Child0.Attrib 0.Undef color: 150`200`150`255
+Vis.Scene0.Child0.Attrib 0.Value-Color.0: 0`85`255`255`0
+Vis.Scene0.Child0.Attrib 0.Value-Color.1: 0.2`9`49`112`0
+Vis.Scene0.Child0.Attrib 0.Value-Color.2: 0.35`89`112`73`0
+Vis.Scene0.Child0.Attrib 0.Value-Color.3: 0.5`255`255`255`0
+Vis.Scene0.Child0.Attrib 0.Value-Color.4: 0.65`249`236`86`0
+Vis.Scene0.Child0.Attrib 0.Value-Color.5: 0.8`131`98`52`0
+Vis.Scene0.Child0.Attrib 0.Value-Color.6: 1`255`0`0`0
+Vis.Scene0.Child0.Attrib 0.Version.0.Attrib ID: -2
+Vis.Scene0.Child0.Attrib 0.Version.0.Attrib Reference: Z values
+Vis.Scene0.Child0.Attrib 0.Version.0.Definition: 
+Vis.Scene0.Child0.Attrib 0.Version.0.DescSet only for stored data: Yes
+Vis.Scene0.Child0.Attrib 0.Version.0.Is 2D: No
+Vis.Scene0.Child0.Attrib 0.Version.0.Is attrib NLA Model: No
+Vis.Scene0.Child0.Attrib 0.Version.0.Object Reference: 
+Vis.Scene0.Child0.Attrib 0.Version.0.ZDomain: 
+Vis.Scene0.Child0.Attrib 0.Version.0.ZDomain.Unit: 
+Vis.Scene0.Child0.Attrib 0.ZDomain: 
+Vis.Scene0.Child0.Attrib 0.ZDomain.Unit: 
+Vis.Scene0.Child0.Color: 65280
+Vis.Scene0.Child0.Display only on sections: Yes
+Vis.Scene0.Child0.EarthModel ID: 100020.2
+Vis.Scene0.Child0.Edit: No
+Vis.Scene0.Child0.ID: 232
+Vis.Scene0.Child0.Is on: Yes
+Vis.Scene0.Child0.Linestyle: Solid`4`0`0`0
+Vis.Scene0.Child0.Locked: No
+Vis.Scene0.Child0.Material.Ambient Intensity: 0.8
+Vis.Scene0.Child0.Material.Color: 255`255`255
+Vis.Scene0.Child0.Material.Diffuse Intensity: 0.8
+Vis.Scene0.Child0.Material.Emmissive Intensity: 0
+Vis.Scene0.Child0.Material.Shininess: 0
+Vis.Scene0.Child0.Material.Specular Intensity: 0
+Vis.Scene0.Child0.Material.Transparency: 0
+Vis.Scene0.Child0.Nr Attribs: 1
+Vis.Scene0.Child0.Resolution: 0
+Vis.Scene0.Child0.Shift: 0
+Vis.Scene0.Child0.SurfaceGrid: No
+Vis.Scene0.Child0.Survey: F3 Test Survey DepthM
+Vis.Scene0.Child0.TC2RGBA: visBase::ColTabTextureChannel2RGBA
+Vis.Scene0.Child0.Type: HorizonDisplay
+Vis.Scene0.Child0.Use texture: Yes
+Vis.Scene0.Child1.Attrib 0.Attrib ID: -2
+Vis.Scene0.Child1.Attrib 0.Attrib Reference: Z values
+Vis.Scene0.Child1.Attrib 0.Auto Sym: Yes
+Vis.Scene0.Child1.Attrib 0.Clip Rate: 0.005`0.005
+Vis.Scene0.Child1.Attrib 0.Definition: 
+Vis.Scene0.Child1.Attrib 0.DescSet only for stored data: Yes
+Vis.Scene0.Child1.Attrib 0.Flip seq: No
+Vis.Scene0.Child1.Attrib 0.Is 2D: No
+Vis.Scene0.Child1.Attrib 0.Is attrib NLA Model: No
+Vis.Scene0.Child1.Attrib 0.Is on: Yes
+Vis.Scene0.Child1.Attrib 0.Mapper.Auto Sym: Yes
+Vis.Scene0.Child1.Attrib 0.Mapper.Clip Rate: 0.005`0.005
+Vis.Scene0.Child1.Attrib 0.Mapper.Flip seq: No
+Vis.Scene0.Child1.Attrib 0.Mapper.Range: 739.1376953`1065.953979
+Vis.Scene0.Child1.Attrib 0.Mapper.Sym Mid Value: 1e30
+Vis.Scene0.Child1.Attrib 0.Mapper.Type: Auto
+Vis.Scene0.Child1.Attrib 0.Marker color: 0`240`0`0
+Vis.Scene0.Child1.Attrib 0.Name: OD Seismic 1
+Vis.Scene0.Child1.Attrib 0.Nr Versions: 1
+Vis.Scene0.Child1.Attrib 0.Nr segments: 0
+Vis.Scene0.Child1.Attrib 0.Object Reference: 
+Vis.Scene0.Child1.Attrib 0.Range: 739.1376953`1065.953979
+Vis.Scene0.Child1.Attrib 0.Sequence.Name: OD Seismic 1
+Vis.Scene0.Child1.Attrib 0.Sym Mid Value: 1e30
+Vis.Scene0.Child1.Attrib 0.Trans: 0
+Vis.Scene0.Child1.Attrib 0.Transparency.0: 0`0
+Vis.Scene0.Child1.Attrib 0.Transparency.1: 1`0
+Vis.Scene0.Child1.Attrib 0.Type: Auto
+Vis.Scene0.Child1.Attrib 0.Undef color: 150`200`150`255
+Vis.Scene0.Child1.Attrib 0.Value-Color.0: 0`85`255`255`0
+Vis.Scene0.Child1.Attrib 0.Value-Color.1: 0.2`9`49`112`0
+Vis.Scene0.Child1.Attrib 0.Value-Color.2: 0.35`89`112`73`0
+Vis.Scene0.Child1.Attrib 0.Value-Color.3: 0.5`255`255`255`0
+Vis.Scene0.Child1.Attrib 0.Value-Color.4: 0.65`249`236`86`0
+Vis.Scene0.Child1.Attrib 0.Value-Color.5: 0.8`131`98`52`0
+Vis.Scene0.Child1.Attrib 0.Value-Color.6: 1`255`0`0`0
+Vis.Scene0.Child1.Attrib 0.Version.0.Attrib ID: -2
+Vis.Scene0.Child1.Attrib 0.Version.0.Attrib Reference: Z values
+Vis.Scene0.Child1.Attrib 0.Version.0.Definition: 
+Vis.Scene0.Child1.Attrib 0.Version.0.DescSet only for stored data: Yes
+Vis.Scene0.Child1.Attrib 0.Version.0.Is 2D: No
+Vis.Scene0.Child1.Attrib 0.Version.0.Is attrib NLA Model: No
+Vis.Scene0.Child1.Attrib 0.Version.0.Object Reference: 
+Vis.Scene0.Child1.Attrib 0.Version.0.ZDomain: 
+Vis.Scene0.Child1.Attrib 0.Version.0.ZDomain.Unit: 
+Vis.Scene0.Child1.Attrib 0.ZDomain: 
+Vis.Scene0.Child1.Attrib 0.ZDomain.Unit: 
+Vis.Scene0.Child1.Color: 3333170
+Vis.Scene0.Child1.Display only on sections: No
+Vis.Scene0.Child1.EarthModel ID: 100020.3
+Vis.Scene0.Child1.Edit: No
+Vis.Scene0.Child1.ID: 305
+Vis.Scene0.Child1.Is on: Yes
+Vis.Scene0.Child1.Linestyle: Solid`4`0`0`0
+Vis.Scene0.Child1.Locked: No
+Vis.Scene0.Child1.Material.Ambient Intensity: 0.8
+Vis.Scene0.Child1.Material.Color: 255`255`255
+Vis.Scene0.Child1.Material.Diffuse Intensity: 0.8
+Vis.Scene0.Child1.Material.Emmissive Intensity: 0
+Vis.Scene0.Child1.Material.Shininess: 0
+Vis.Scene0.Child1.Material.Specular Intensity: 0
+Vis.Scene0.Child1.Material.Transparency: 0
+Vis.Scene0.Child1.Nr Attribs: 1
+Vis.Scene0.Child1.Resolution: 0
+Vis.Scene0.Child1.Shift: 0
+Vis.Scene0.Child1.SurfaceGrid: No
+Vis.Scene0.Child1.Survey: F3 Test Survey DepthM
+Vis.Scene0.Child1.TC2RGBA: visBase::ColTabTextureChannel2RGBA
+Vis.Scene0.Child1.Type: HorizonDisplay
+Vis.Scene0.Child1.Use texture: Yes
+Vis.Scene0.Child2.3D Display.Markers.Cylinder Height: 2
+Vis.Scene0.Child2.3D Display.Markers.Marker Dynamic Name Size: No
+Vis.Scene0.Child2.3D Display.Markers.Marker Name Color Same as Marker: Yes
+Vis.Scene0.Child2.3D Display.Markers.Marker Name Font: Helvetica`16`Bold`No`Regular
+Vis.Scene0.Child2.3D Display.Markers.Marker Shape: 0
+Vis.Scene0.Child2.3D Display.Markers.Selected Markers: MFS11`FS11`MFS10`MFS9`MFS8`FS8`FS7`Truncation`Top Foresets`FS6`MFS4`FS4`FS3`FS2`MFS2`FS1`MMU
+Vis.Scene0.Child2.3D Display.Markers.Single Marker Color: No
+Vis.Scene0.Child2.3D Display.Markers.Size: 5
+Vis.Scene0.Child2.3D Display.Markers.Unselected Markers: 
+Vis.Scene0.Child2.3D Display.Track.Color: 255`0`0
+Vis.Scene0.Child2.3D Display.Track.Size: 1
+Vis.Scene0.Child2.3D Display.Track.Track Dynamic Name Size: No
+Vis.Scene0.Child2.3D Display.Track.Track Font: Helvetica`20`Bold`No`Regular
+Vis.Scene0.Child2.3D Display.Track.Track Name Above: Yes
+Vis.Scene0.Child2.3D Display.Track.Track Name Below: Yes
+Vis.Scene0.Child2.ID: 379
+Vis.Scene0.Child2.Is on: Yes
+Vis.Scene0.Child2.Locked: No
+Vis.Scene0.Child2.Nr Attribs: 0
+Vis.Scene0.Child2.Survey: F3 Test Survey DepthM
+Vis.Scene0.Child2.Type: WellDisplay
+Vis.Scene0.Child2.Well ID: 100050.2
+Vis.Scene0.Child3.Attrib 0.Attrib ID: 0
+Vis.Scene0.Child3.Attrib 0.Attrib Reference: Seismic
+Vis.Scene0.Child3.Attrib 0.Definition: Storage id=100010.2 output=0
+Vis.Scene0.Child3.Attrib 0.DescSet only for stored data: Yes
+Vis.Scene0.Child3.Attrib 0.Is 2D: No
+Vis.Scene0.Child3.Attrib 0.Is attrib NLA Model: No
+Vis.Scene0.Child3.Attrib 0.Is on: Yes
+Vis.Scene0.Child3.Attrib 0.Mapper.Auto Sym: Yes
+Vis.Scene0.Child3.Attrib 0.Mapper.Clip Rate: 0.005`0.005
+Vis.Scene0.Child3.Attrib 0.Mapper.Flip seq: No
+Vis.Scene0.Child3.Attrib 0.Mapper.Range: -8000`8000
+Vis.Scene0.Child3.Attrib 0.Mapper.Sym Mid Value: 1e30
+Vis.Scene0.Child3.Attrib 0.Mapper.Type: Fixed
+Vis.Scene0.Child3.Attrib 0.Nr Versions: 1
+Vis.Scene0.Child3.Attrib 0.Object Reference: 
+Vis.Scene0.Child3.Attrib 0.Sequence.Name: OD Seismic 1
+Vis.Scene0.Child3.Attrib 0.Trans: 0
+Vis.Scene0.Child3.Attrib 0.Version.0.Attrib ID: 0
+Vis.Scene0.Child3.Attrib 0.Version.0.Attrib Reference: Seismic
+Vis.Scene0.Child3.Attrib 0.Version.0.Definition: Storage id=100010.2 output=0
+Vis.Scene0.Child3.Attrib 0.Version.0.DescSet only for stored data: Yes
+Vis.Scene0.Child3.Attrib 0.Version.0.Is 2D: No
+Vis.Scene0.Child3.Attrib 0.Version.0.Is attrib NLA Model: No
+Vis.Scene0.Child3.Attrib 0.Version.0.Object Reference: 
+Vis.Scene0.Child3.Attrib 0.Version.0.ZDomain: 
+Vis.Scene0.Child3.Attrib 0.Version.0.ZDomain.Unit: 
+Vis.Scene0.Child3.Attrib 0.ZDomain: 
+Vis.Scene0.Child3.Attrib 0.ZDomain.Unit: 
+Vis.Scene0.Child3.First Cross-line: 700
+Vis.Scene0.Child3.First In-line: 426
+Vis.Scene0.Child3.GeomID: -1
+Vis.Scene0.Child3.ID: 226
+Vis.Scene0.Child3.Is on: Yes
+Vis.Scene0.Child3.Last Cross-line: 1200
+Vis.Scene0.Child3.Last In-line: 426
+Vis.Scene0.Child3.Locked: No
+Vis.Scene0.Child3.Material.Ambient Intensity: 0.8
+Vis.Scene0.Child3.Material.Color: 255`255`255
+Vis.Scene0.Child3.Material.Diffuse Intensity: 0.8
+Vis.Scene0.Child3.Material.Emmissive Intensity: 0
+Vis.Scene0.Child3.Material.Shininess: 0
+Vis.Scene0.Child3.Material.Specular Intensity: 0
+Vis.Scene0.Child3.Material.Transparency: 0
+Vis.Scene0.Child3.Nr Attribs: 1
+Vis.Scene0.Child3.Orientation: Inline
+Vis.Scene0.Child3.Resolution: 0
+Vis.Scene0.Child3.Step Cross-line: 2
+Vis.Scene0.Child3.Step In-line: 2
+Vis.Scene0.Child3.Survey: F3 Test Survey DepthM
+Vis.Scene0.Child3.Survey ID: -1
+Vis.Scene0.Child3.TC2RGBA: visBase::ColTabTextureChannel2RGBA
+Vis.Scene0.Child3.Type: PlaneDataDisplay
+Vis.Scene0.Child3.Z range: 400`1200`5
+Vis.Scene0.First Cross-line: 700
+Vis.Scene0.First In-line: 200
+Vis.Scene0.GeomID: -1
+Vis.Scene0.Last Cross-line: 1200
+Vis.Scene0.Last In-line: 650
+Vis.Scene0.Marker color: 255`255`255
+Vis.Scene0.Number of Child: 4
+Vis.Scene0.Scale: 1
+Vis.Scene0.Scene ID: 203
+Vis.Scene0.Show ColTab: No
+Vis.Scene0.Show cube: Yes
+Vis.Scene0.Show grid: Yes
+Vis.Scene0.Show scale: Yes
+Vis.Scene0.Show text: Yes
+Vis.Scene0.Step Cross-line: 2
+Vis.Scene0.Step In-line: 2
+Vis.Scene0.Survey ID: -1
+Vis.Scene0.Z Stretch: 10
+Vis.Scene0.Z range: 400`1200`5
+Vis.Scene0.ZDomain: Depth
+Vis.Scene0.ZDomain.ZDomain.Unit: Meter
+Vis.Slice Steps: 2`2`5
+Vis.Work Area: 200`650`700`1200`400`1200
 !
