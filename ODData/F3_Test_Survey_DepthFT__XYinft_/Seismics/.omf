@@ -12,6 +12,7 @@ Seismic: 2
 Seismic Data: CBVS`Stream
 $Name: ..\..\F3_Test_Survey_DepthFT\Seismics\Seismic.cbvs
 #Data storage: 0 - auto
+#DataSet.ID: {f0f4c7c0-7aa9-4d81-b4dd-533a1cb26998}
 !
 stat 120: 3
 Wavelet: dGB`Stream

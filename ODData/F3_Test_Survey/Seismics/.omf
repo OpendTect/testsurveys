@@ -1,6 +1,6 @@
-dTect V7.1.0
+dTect V8.1.0
 Object Management file
-2024-03-01T07:46:43Z
+2024-12-20T10:16:31Z
 !
 ID: 100010`121
 !
@@ -12,6 +12,7 @@ Seismic: 2
 Seismic Data: CBVS`Stream
 $Name: Seismic.cbvs
 #Data storage: 0 - auto
+#DataSet.ID: {f0f4c7c0-7aa9-4d81-b4dd-533a1cb26998}
 !
 stat 120: 3
 Wavelet: dGB`Stream
