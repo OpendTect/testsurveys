@@ -27,17 +27,3 @@ $Name: wtwsautosave.wtws
 #Created.By: arnaud
 #Version: 7.0.2
 !
-F03-4_copy: 59
-Well: dGB`Stream
-$Name: F03-4_copy.well
-#Created.At: 2024-12-20T10:16:31Z
-#Created.By: arnaud
-#Version: 8.1.0 (development)
-!
-Well A_copy: 60
-Well: dGB`Stream
-$Name: Well_A_copy.well
-#Created.At: 2024-12-20T10:16:31Z
-#Created.By: arnaud
-#Version: 8.1.0 (development)
-!
