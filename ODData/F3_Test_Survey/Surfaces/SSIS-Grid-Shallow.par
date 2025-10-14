@@ -1,9 +1,12 @@
-dTect V6.0
+dTect V2025.1rc37
 Display Parameters
-Thu 30 Jun 2016, 17:04:44
+2025-10-14T11:03:17Z
 !
 Color: 255`0`0
-Strat Level: -1
 Line Style: Solid`3`0`0`0
-Marker Style: None`2`255`255`255
+Lock Color: 0`0`255
+Marker Style: Cube`2`255`255`255
+Pos Attrib .Marker Style: Cube`2`255`0`255
+Selection Color: 255`170`0
+Strat Level: 2109876543
 !
