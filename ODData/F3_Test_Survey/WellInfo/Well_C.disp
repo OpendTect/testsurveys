@@ -1,0 +1,56 @@
+dTect V7.0.0
+Display Properties
+2025-11-14T14:25:38Z
+!
+2D Display.Display Stratigraphy: No
+2D Display.Log.Left Fill Right Log: Yes
+2D Display.Log.Right Cliprate: 0
+2D Display.Log.Right Data Range Bool: Yes
+2D Display.Log.Right Fill Right Log: Yes
+2D Display.Log.Right Filled Log Range: 3425320`5390050
+2D Display.Log.Right Filled Log name: P-Impedance
+2D Display.Log.Right Log Color: 0`0`255
+2D Display.Log.Right Log Color Table Flipped: No
+2D Display.Log.Right Log Name: P-Impedance
+2D Display.Log.Right Log Number: 1
+2D Display.Log.Right Log Overlapp: 0
+2D Display.Log.Right Log Range: 3425320`5390050
+2D Display.Log.Right Log Seismic Style Color: 255`255`255
+2D Display.Log.Right Log Size: 1
+2D Display.Log.Right Log Style: 0
+2D Display.Log.Right Log Width XY: 250
+2D Display.Log.Right Log scale: No
+2D Display.Log.Right Revert Range Bool: No
+2D Display.Log.Right Sequence name: Rainbow
+2D Display.Log.Right Single Fill Color: No
+2D Display.Markers.Cylinder Height: 1
+2D Display.Markers.Marker Dynamic Name Size: No
+2D Display.Markers.Marker Name Color Same as Marker: Yes
+2D Display.Markers.Marker Name Font: Helvetica`5`Bold`No`Regular
+2D Display.Markers.Marker Shape: 0
+2D Display.Markers.Selected Markers: 
+2D Display.Markers.Single Marker Color: No
+2D Display.Markers.Size: 3
+2D Display.Markers.Unselected Markers: 
+2D Display.Track.Color: 0`0`255
+2D Display.Track.Size: 1
+2D Display.Track.Track Dynamic Name Size: No
+2D Display.Track.Track Font: Helvetica`10`Bold`No`Regular
+2D Display.Track.Track Name Above: Yes
+2D Display.Track.Track Name Below: Yes
+3D Display.Markers.Cylinder Height: 2
+3D Display.Markers.Marker Dynamic Name Size: No
+3D Display.Markers.Marker Name Color Same as Marker: Yes
+3D Display.Markers.Marker Name Font: Helvetica`16`Bold`No`Regular
+3D Display.Markers.Marker Shape: 0
+3D Display.Markers.Selected Markers: FS8`FS7`Truncation`Top Foresets`FS6`MFS4`FS4
+3D Display.Markers.Single Marker Color: No
+3D Display.Markers.Size: 5
+3D Display.Markers.Unselected Markers: 
+3D Display.Track.Color: 255`0`0
+3D Display.Track.Size: 1
+3D Display.Track.Track Dynamic Name Size: No
+3D Display.Track.Track Font: Helvetica`20`Bold`No`Regular
+3D Display.Track.Track Name Above: Yes
+3D Display.Track.Track Name Below: Yes
+!

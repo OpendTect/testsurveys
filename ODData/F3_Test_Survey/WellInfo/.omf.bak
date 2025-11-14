@@ -1,8 +1,8 @@
-dTect V8.1.0
+dTect V7.0.0
 Object Management file
-2024-12-20T10:16:31Z
+2025-11-14T14:25:38Z
 !
-ID: 100050`60
+ID: 100050`122
 !
 WellInfo: 1
 Well Info directory: dGB`Stream
@@ -11,14 +11,17 @@ $Name: WellInfo
 F03-4: 2
 Well: dGB`Stream
 $Name: F03-4.well
+#Unique Well ID: 
 !
 Well A: 3
 Well: dGB`Stream
 $Name: Well_A.well
+#Unique Well ID: 
 !
 F06-1: 4
 Well: dGB`Stream
 $Name: F06-1.well
+#Unique Well ID: 
 !
 wtwsautosave: 5
 Well Table Work State: dGB`Stream
@@ -26,4 +29,18 @@ $Name: wtwsautosave.wtws
 #Created.At: 2023-09-06T13:36:25Z
 #Created.By: arnaud
 #Version: 7.0.2
+!
+Well B: 121
+Well: HDF`Stream
+$Name: Well_B.h5
+#Created.At: 2025-11-14T14:24:29Z
+#Created.By: arnaud
+#Version: 2025.DEV (development)
+!
+Well C: 122
+Well: dGB`Stream
+$Name: Well_C.well
+#Created.At: 2025-11-14T14:25:38Z
+#Created.By: arnaud
+#Version: 7.0.0 (development)
 !
