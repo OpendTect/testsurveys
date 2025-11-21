@@ -12,6 +12,7 @@ Seismic: 2
 Seismic Data: CBVS`Stream
 $Name: Seismic.cbvs
 #Data storage: 0 - auto
+#DataSet.ID: f0f4c7c0-7aa9-4d81-b4dd-533a1cb26998
 !
 stat 120: 3
 Wavelet: dGB`Stream
@@ -389,18 +390,4 @@ $Name: Seismic_ZGY_.zgydef
 #Version: 7.1.0 (development)
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
-!
-Seismic_copy: 175
-Seismic Data: CBVS`Stream
-$Name: Seismic_copy.cbvs
-#Created.At: 2024-12-20T10:16:31Z
-#Created.By: arnaud
-#Version: 8.1.0 (development)
-!
-Seismic_with_300-310_Inlines_missing_copy: 176
-Seismic Data: CBVS`Stream
-$Name: Seismic_with_300-310_Inlines_missing_copy.cbvs
-#Created.At: 2024-12-20T10:16:31Z
-#Created.By: arnaud
-#Version: 8.1.0 (development)
 !

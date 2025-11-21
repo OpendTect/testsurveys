@@ -1,8 +1,8 @@
 dTect V8.1.0
 Object Management file
-2024-12-20T10:16:31Z
+2025-11-21T16:12:04Z
 !
-ID: 100010`121
+ID: 100010`120
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -322,6 +322,14 @@ Seismic Data: CBVS`Stream
 $Name: Seismic_depth-ft.cbvs
 #ZDomain: Depth
 #ZDomain.Unit: Feet
+!
+Sonic log cube: 32
+Seismic Data: CBVS`Stream
+$Name: Sonic_log_cube.cbvs
+!
+P-Impedance log cube: 33
+Seismic Data: CBVS`Stream
+$Name: P-Impedance_log_cube.cbvs
 !
 Steering BG Fast (Median Filter): 109
 Seismic Data: CBVS`Stream
