@@ -1,6 +1,6 @@
-dTect V8.1.0
+dTect V7.0.9
 Object Management file
-2025-11-21T16:12:04Z
+2026-03-06T07:21:37Z
 !
 ID: 100010`120
 !
@@ -393,9 +393,8 @@ Seismic Data: ZGYDirect`Stream
 $Name: Seismic_ZGY_.zgydef
 #Created.At: 2024-02-08T11:59:52Z
 #Created.By: khushnood`qkhushnood
-#Created.From: E:\testsurveys\ODData\F3_Test_Survey\Export\Seismic(SEG-Y).sgy
 #Created.Info: 
-#Version: 7.1.0 (development)
+#Version: 7.0.9
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
 !
