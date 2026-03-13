@@ -27,6 +27,7 @@ SSIS-Grid-Faultsticks: 5
 FaultStickSet: dGB`Stream
 $Name: SSIS-Grid-Faultsticks.fss
 #Type: FaultStickSet
+#ZDomain: TWT
 !
 Flat at 1000ms: 6
 Horizon: dGB`Stream
@@ -46,27 +47,46 @@ $Name: VolumeEstimation.body
 SingleStickPickedOn426: 9
 Fault: dGB`Stream
 $Name: SingleStickPickedOn426.flt
-#Created.At: 2024-03-09T08:45:44Z
-#Created.By: prajjaval
 #Type: Fault
 #Version: 7.0.5rc2
+#ZDomain: TWT
 !
 1-Top Depth: 10
 Horizon: dGB`Stream
-$Name: 1-Top_Depth.hor
-#Created.At: 2024-03-26T07:12:06Z
-#Created.By: prajjaval
-#ID: 100090.6
+$Name: ..\..\F3_Test_Survey_DepthM\Surfaces\1-Top.hor
+#ID: 100010.8
 #Version: 7.1.0 (development)
 #ZDomain: Depth
 #ZDomain.Unit: Meter
 !
-SingleStickPickedOn426 Depth: 11
+2-Base Depth: 11
+Horizon: dGB`Stream
+$Name: ..\..\F3_Test_Survey_DepthM\Surfaces\2-Base.hor
+#ID: 100010.8
+#Version: 7.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+1-Top Depth with SRD 50ft: 12
+Horizon: dGB`Stream
+$Name: ..\..\F3_Test_Survey_DepthM\Surfaces\1-Top_with_SRD_50ft.hor
+#ID: 100010.8
+#Version: 7.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+2-Base Depth with SRD 50ft: 13
+Horizon: dGB`Stream
+$Name: ..\..\F3_Test_Survey_DepthM\Surfaces\2-Base_with_SRD_50ft.hor
+#ID: 100010.8
+#Version: 7.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+SingleStickPickedOn426 Depth: 14
 Fault: dGB`Stream
-$Name: SingleStickPickedOn426_Depth.flt
-#Created.At: 2024-03-26T07:45:07Z
-#Created.By: prajjaval
-#ID: 100090.6
+$Name: ..\..\F3_Test_Survey_DepthM\Surfaces\SingleStickPickedOn426.flt
+#ID: 100010.8
 #Version: 7.1.0 (development)
 #ZDomain: Depth
 #ZDomain.Unit: Meter
@@ -74,26 +94,31 @@ $Name: SingleStickPickedOn426_Depth.flt
 2D Demo0 - FS4: 21
 2D Horizon: dGB`Stream
 $Name: 2D_Demo0_-_FS4.2dh
+#Type: 2D Horizon
 #ZDomain: TWT
 !
 2D Demo1 - MFS4: 23
 2D Horizon: dGB`Stream
 $Name: 2D_Demo1_-_MFS4.2dh
+#Type: 2D Horizon
 #ZDomain: TWT
 !
 2D Demo4 - Truncation: 24
 2D Horizon: dGB`Stream
 $Name: 2D_Demo4_-_Truncation.2dh
+#Type: 2D Horizon
 #ZDomain: TWT
 !
 2D Demo6 - FS8: 25
 2D Horizon: dGB`Stream
 $Name: 2D_Demo6_-_FS8.2dh
+#Type: 2D Horizon
 #ZDomain: TWT
 !
 2D Demo7 - FS11: 26
 2D Horizon: dGB`Stream
 $Name: 2D_Demo7_-_FS11.2dh
+#Type: 2D Horizon
 #ZDomain: TWT
 !
 SSIS-Grid-Base: 31
@@ -111,10 +136,12 @@ $Name: SSIS-Grid-Top.2dh
 SSIS-Grid-Shallow: 80
 2D Horizon: dGB`Stream
 $Name: SSIS-Grid-Shallow.2dh
+#Type: 2D Horizon
 #ZDomain: TWT
 !
 SSIS-Grid-Deep: 82
 2D Horizon: dGB`Stream
 $Name: SSIS-Grid-Deep.2dh
+#Type: 2D Horizon
 #ZDomain: TWT
 !

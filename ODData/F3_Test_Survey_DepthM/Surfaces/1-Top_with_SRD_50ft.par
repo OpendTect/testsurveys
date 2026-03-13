@@ -1,6 +1,6 @@
-dTect V7.0.3rc3
+dTect V7.1.0
 Display Parameters
-2023-09-27T11:09:45Z
+2024-03-26T07:12:06Z
 !
 Color: 0`255`0
 Line Style: Solid`3`0`0`0
@@ -9,5 +9,5 @@ Marker Style: Cube`2`255`255`255
 Parent Color: 255`255`0
 Pos Attrib .Marker Style: Cube`2`255`0`255
 Selection Color: 255`170`0
-Strat Level: 2109876543
+Strat Level: 41
 !

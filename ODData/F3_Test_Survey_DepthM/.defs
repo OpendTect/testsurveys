@@ -1,11 +1,12 @@
-dTect V7.1.0
+dTect V2025.DEV
 Survey defaults
-2023-11-08T16:06:33Z
+2026-03-13T09:34:00Z
 !
 Survey defaults
 3DAttrset.Auto ID: 100080.2
 Default.Cube: 100010.2
 Default.Cube.Velocity: 100010.10
+Default.Fault: 100020.9
 Default.Horizon: 100020.2
 Default.PickSet Group: 100030.3
 Default.Simple Time-Depth Model: 100090.6

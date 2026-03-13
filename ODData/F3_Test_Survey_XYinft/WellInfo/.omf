@@ -1,6 +1,6 @@
-dTect V7.0.2
+dTect V2025.DEV
 Object Management file
-2023-09-06T13:41:14Z
+2026-03-13T08:32:29Z
 !
 ID: 100050`5
 !
@@ -11,19 +11,22 @@ $Name: WellInfo
 F03-4: 2
 Well: dGB`Stream
 $Name: F03-4.well
+#Unique Well ID: 
 !
 Well A: 3
 Well: dGB`Stream
 $Name: Well_A.well
+#Unique Well ID: 
 !
 F06-1: 4
 Well: dGB`Stream
 $Name: F06-1.well
+#Unique Well ID: 
 !
 wtwsautosave: 5
 Well Table Work State: dGB`Stream
 $Name: wtwsautosave.wtws
-#Created.By: arnaud
 #Created.At: 2023-09-06T13:41:14Z
+#Created.By: arnaud
 #Version: 7.0.2
 !

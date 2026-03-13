@@ -1,9 +1,9 @@
-dTect V7.1.0
+dTect V2025.DEV
 Survey Info
-2023-09-15T11:44:11Z
+2026-03-13T08:36:04Z
 !
 Name: F3 Test Survey DepthFT
-Survey Data Type: Only 3D
+Survey Data Type: Both 2D and 3D
 In-line range: 200`650`2
 Cross-line range: 700`1200`2
 Z range: 1200`3930`15`F
@@ -12,10 +12,10 @@ Coord-Y-BinID: 6070847.884`24.98966154`0.6984315789
 Set Point.1: 100/300`(605835.52,6073556.38)
 Set Point.2: 750/1250`(629122.55,6090463.17)
 Set Point.3: 100/1250`(629576.26,6074219.89)
-Coordinate System.XY in Feet: No
+Coordinate System.Reference Coordinate: 617461`6082100
 Coordinate System.System name: AnchorBased XY
-Coordinate System.Reference Coordinate: 617460.875`6082095
 Coordinate System.Reference Lat/Long: 54.872108`4.83051
+Coordinate System.XY in Feet: No
 Seismic Reference Datum: 0
 !
 Depth Test Survey

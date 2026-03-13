@@ -1,9 +1,9 @@
-dTect V7.1.0
+dTect V2025.DEV
 Survey Info
-2023-09-15T11:41:58Z
+2026-03-13T08:35:49Z
 !
 Name: F3 Test Survey DepthM
-Survey Data Type: Only 3D
+Survey Data Type: Both 2D and 3D
 In-line range: 200`650`2
 Cross-line range: 700`1200`2
 Z range: 400`1200`5`D
@@ -13,8 +13,8 @@ Set Point.1: 100/300`(605835.52,6073556.38)
 Set Point.2: 750/1250`(629122.55,6090463.17)
 Set Point.3: 100/1250`(629576.26,6074219.89)
 Coordinate System.System name: ProjectionBased System
-Coordinate System.Projection.Name: ED50 / UTM zone 31N
 Coordinate System.Projection.ID: EPSG`23031
+Coordinate System.Projection.Name: ED50 / UTM zone 31N
 Seismic Reference Datum: 0
 !
 Depth Test Survey

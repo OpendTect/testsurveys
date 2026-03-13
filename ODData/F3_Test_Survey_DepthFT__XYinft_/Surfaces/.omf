@@ -1,8 +1,8 @@
-dTect V7.0.0
+dTect V7.1.0
 Object Management file
-2024-04-03T06:46:16Z
+2024-03-29T15:18:34Z
 !
-ID: 100020`270
+ID: 100020`14
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -12,62 +12,73 @@ $Name: Surfaces directory
 Horizon: dGB`Stream
 $Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\1-Top.hor
 #ZDomain: Depth
+#ZDomain.Unit: Feet
 !
 2-Base: 3
 Horizon: dGB`Stream
 $Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\2-Base.hor
 #ZDomain: Depth
+#ZDomain.Unit: Feet
 !
-Flat at 2000ft: 4
+Flat at 2000ft: 6
 Horizon: dGB`Stream
 $Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\Flat_at_2000ft.hor
 #ZDomain: Depth
+#ZDomain.Unit: Feet
 !
-Flat at 2565ft: 5
+Flat at 2565ft: 7
 Horizon: dGB`Stream
 $Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\Flat_at_2565ft.hor
 #ZDomain: Depth
+#ZDomain.Unit: Feet
 !
-VolumeEstimation: 6
+VolumeEstimation: 8
 Body: od`Stream
 $Name: VolumeEstimation.body
-#Created.At: Thu 22 Dec 2016, 16:05:47
-#Created.By: nanne
 #Type: MC
-!
-1-Top with SRD 50ft: 7
-Horizon: dGB`Stream
-$Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\1-Top_with_SRD_50ft.hor
-#ZDomain: Depth
-!
-2-Base with SRD 50ft: 8
-Horizon: dGB`Stream
-$Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\2-Base_with_SRD_50ft.hor
-#ZDomain: Depth
 !
 SingleStickPickedOn426: 9
 Fault: dGB`Stream
 $Name: SingleStickPickedOn426.flt
-#Created.At: 2024-04-01T15:47:23Z
-#Created.By: prajjaval
-#Version: 7.1.0 (development)
+#Type: Fault
+#Version: 7.0.5rc2
+#ZDomain: Depth
+#ZDomain.Unit: Feet
 !
-1-Top Time: 10
+1-Top with SRD 50ft: 10
+Horizon: dGB`Stream
+$Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\1-Top_with_SRD_50ft.hor
+#ZDomain: Depth
+#ZDomain.Unit: Feet
+!
+2-Base with SRD 50ft: 11
+Horizon: dGB`Stream
+$Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\2-Base_with_SRD_50ft.hor
+#ZDomain: Depth
+#ZDomain.Unit: Feet
+!
+1-Top Time: 12
 Horizon: dGB`Stream
 $Name: ..\..\F3_Test_Survey\Surfaces\1-Top.hor
-#Created.At: 2024-03-26T07:12:06Z
-#Created.By: prajjaval
-#ID: 100090.6
+#ID: 100010.8
 #Version: 7.1.0 (development)
 #ZDomain: TWT
+#ZDomain.Unit: Seconds
 !
-SingleStickPickedOn426 Time: 11
-Fault: dGB`Stream
-$Name: SingleStickPickedOn426_Time.flt
-#Created.At: 2024-04-01T15:50:10Z
-#Created.By: prajjaval
-#ID: 100090.7
+2-Base Time: 13
+Horizon: dGB`Stream
+$Name: ..\..\F3_Test_Survey\Surfaces\2-Base.hor
+#ID: 100010.8
 #Version: 7.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
+!
+SingleStickPickedOn426 Time: 14
+Fault: dGB`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Surfaces\SingleStickPickedOn426.flt
+#Type: Fault
+#ID: 100010.8
+#Version: 7.0.5rc2
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
 !
