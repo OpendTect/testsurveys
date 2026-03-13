@@ -1,8 +1,8 @@
-dTect V7.1.0
+dTect V7.0.9
 Object Management file
-2024-03-29T15:18:34Z
+2026-03-13T12:44:00Z
 !
-ID: 100020`14
+ID: 100020`15
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -59,7 +59,7 @@ $Name: 2-Base_with_SRD_50ft.hor
 !
 1-Top Time: 12
 Horizon: dGB`Stream
-$Name: ..\..\F3_Test_Survey\Surfaces\1-Top.hor
+$Name: ../../F3_Test_Survey/Surfaces/1-Top.hor
 #ID: 100010.8
 #Version: 7.1.0 (development)
 #ZDomain: TWT
@@ -67,7 +67,7 @@ $Name: ..\..\F3_Test_Survey\Surfaces\1-Top.hor
 !
 2-Base Time: 13
 Horizon: dGB`Stream
-$Name: ..\..\F3_Test_Survey\Surfaces\2-Base.hor
+$Name: ../../F3_Test_Survey/Surfaces/2-Base.hor
 #ID: 100010.8
 #Version: 7.1.0 (development)
 #ZDomain: TWT
@@ -75,10 +75,17 @@ $Name: ..\..\F3_Test_Survey\Surfaces\2-Base.hor
 !
 SingleStickPickedOn426 Time: 14
 Fault: dGB`Stream
-$Name: ..\..\F3_Test_Survey\Surfaces\SingleStickPickedOn426.flt
-#Type: Fault
+$Name: ../../F3_Test_Survey/Surfaces/SingleStickPickedOn426.flt
 #ID: 100010.8
+#Type: Fault
 #Version: 7.0.5rc2
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
+!
+TwoSticksPickedOn426: 15
+FaultStickSet: dGB`Stream
+$Name: TwoSticksPickedOn426.fss
+#Version: 7.0.9
+#ZDomain: Depth
+#ZDomain.Unit: Meter
 !

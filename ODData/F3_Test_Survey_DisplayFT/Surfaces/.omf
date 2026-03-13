@@ -1,6 +1,6 @@
 dTect V7.1.0
 Object Management file
-2024-03-29T17:44:44Z
+2024-04-04T06:13:00Z
 !
 ID: 100020`82
 !
@@ -90,6 +90,12 @@ $Name: ..\..\F3_Test_Survey_DepthFT\Surfaces\SingleStickPickedOn426.flt
 #Version: 7.1.0 (development)
 #ZDomain: Depth
 #ZDomain.Unit: Feet
+!
+TwoSticksPickedOn426: 15
+FaultStickSet: dGB`Stream
+$Name: ..\..\F3_Test_Survey\Surfaces\TwoSticksPickedOn426.fss
+#Version: 7.0.9
+#ZDomain: TWT
 !
 2D Demo0 - FS4: 21
 2D Horizon: dGB`Stream

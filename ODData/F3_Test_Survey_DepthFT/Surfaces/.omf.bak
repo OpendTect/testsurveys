@@ -1,6 +1,6 @@
 dTect V7.0.9
 Object Management file
-2026-03-13T12:48:23Z
+2026-03-13T12:48:06Z
 !
 ID: 100020`15
 !
@@ -85,7 +85,9 @@ $Name: ../../F3_Test_Survey/Surfaces/SingleStickPickedOn426.flt
 TwoSticksPickedOn426: 15
 FaultStickSet: dGB`Stream
 $Name: TwoSticksPickedOn426.fss
+#Created.At: 2026-03-13T12:48:06Z
+#Created.By: arnaud
 #Version: 7.0.9
-#ZDomain: Depth 
-#ZDomain.Unit: Feet 
+#ZDomain: Depth` 
+#ZDomain.Unit: Feet` 
 !

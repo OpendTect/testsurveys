@@ -1,8 +1,8 @@
 dTect V7.0.9
 Object Management file
-2026-03-13T12:48:23Z
+2026-03-13T12:43:41Z
 !
-ID: 100020`15
+ID: 100020`17
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -12,25 +12,25 @@ $Name: Surfaces directory
 Horizon: dGB`Stream
 $Name: 1-Top.hor
 #ZDomain: Depth
-#ZDomain.Unit: Feet
+#ZDomain.Unit: Meter
 !
 2-Base: 3
 Horizon: dGB`Stream
 $Name: 2-Base.hor
 #ZDomain: Depth
-#ZDomain.Unit: Feet
+#ZDomain.Unit: Meter
 !
-Flat at 2000ft: 6
+Flat at 1000m: 6
 Horizon: dGB`Stream
-$Name: Flat_at_2000ft.hor
+$Name: Flat_at_1000m.hor
 #ZDomain: Depth
-#ZDomain.Unit: Feet
+#ZDomain.Unit: Meter
 !
-Flat at 2565ft: 7
+Flat at 1050m: 7
 Horizon: dGB`Stream
-$Name: Flat_at_2565ft.hor
+$Name: Flat_at_1050m.hor
 #ZDomain: Depth
-#ZDomain.Unit: Feet
+#ZDomain.Unit: Meter
 !
 VolumeEstimation: 8
 Body: od`Stream
@@ -43,19 +43,19 @@ $Name: SingleStickPickedOn426.flt
 #Type: Fault
 #Version: 7.0.5rc2
 #ZDomain: Depth
-#ZDomain.Unit: Feet
+#ZDomain.Unit: Meter
 !
 1-Top with SRD 50ft: 10
 Horizon: dGB`Stream
 $Name: 1-Top_with_SRD_50ft.hor
 #ZDomain: Depth
-#ZDomain.Unit: Feet
+#ZDomain.Unit: Meter
 !
 2-Base with SRD 50ft: 11
 Horizon: dGB`Stream
 $Name: 2-Base_with_SRD_50ft.hor
 #ZDomain: Depth
-#ZDomain.Unit: Feet
+#ZDomain.Unit: Meter
 !
 1-Top Time: 12
 Horizon: dGB`Stream
@@ -82,10 +82,19 @@ $Name: ../../F3_Test_Survey/Surfaces/SingleStickPickedOn426.flt
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
 !
-TwoSticksPickedOn426: 15
+TwoSticksPickedOn426: 16
 FaultStickSet: dGB`Stream
 $Name: TwoSticksPickedOn426.fss
+#Created.At: 2026-03-13T12:40:23Z
+#Created.By: arnaud
 #Version: 7.0.9
-#ZDomain: Depth 
-#ZDomain.Unit: Feet 
+#ZDomain: Depth`
+#ZDomain.Unit: Meter`
+!
+SingleStickPickedOn426 test: 17
+Fault: dGB`Stream
+$Name: SingleStickPickedOn426_test.flt
+#Created.At: 2026-03-13T12:41:49Z
+#Created.By: arnaud
+#Version: 7.0.9
 !

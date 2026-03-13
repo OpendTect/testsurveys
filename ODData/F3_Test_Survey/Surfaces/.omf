@@ -91,6 +91,12 @@ $Name: ..\..\F3_Test_Survey_DepthM\Surfaces\SingleStickPickedOn426.flt
 #ZDomain: Depth
 #ZDomain.Unit: Meter
 !
+TwoSticksPickedOn426: 15
+FaultStickSet: dGB`Stream
+$Name: TwoSticksPickedOn426.fss
+#Version: 7.0.9
+#ZDomain: TWT
+!
 2D Demo0 - FS4: 21
 2D Horizon: dGB`Stream
 $Name: 2D_Demo0_-_FS4.2dh

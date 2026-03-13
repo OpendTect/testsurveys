@@ -1,12 +1,13 @@
-dTect V2025.DEV
+dTect V7.0.9
 Survey defaults
-2026-03-13T08:35:42Z
+2026-03-13T14:42:20Z
 !
 Survey defaults
 3DAttrset.Auto ID: 100080.2
 Default.Cube: 100010.2
 Default.Cube.Velocity: 100010.9
 Default.Fault: 100020.9
+Default.FaultStickSet: 100020.83
 Default.Horizon: 100020.2
 Default.PickSet Group: 100030.3
 Default.Simple Time-Depth Model: 100090.7
@@ -23,5 +24,6 @@ Home position.Position: 2019185.375`19934482`-11.2476358413696
 SEG-Y Rev. 1 policy: 3
 Session.Auto ID: 100070.2
 Show depth in feet: Yes
+UOM.Time: ms
 Z Scale.TWT: 21.5270748
 !
