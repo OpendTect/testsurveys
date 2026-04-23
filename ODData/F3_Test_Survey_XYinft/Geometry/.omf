@@ -1,10 +1,54 @@
-dTect V5.0
+dTect V8.1.0-20260314
 Object Management file
-Wed Dec 19 14:03:56 2012
+2026-03-17T16:38:25Z
 !
-ID: 100100
+ID: 100100`12
 !
 Geometry: 1
 Survey Geometry Directory: dGB`Stream
 $Name: Geometry
+!
+Line: 2
+Geometry: 2D Geometry`Stream
+$Name: Line.geom
+!
+Dip1: 3
+Geometry: 2D Geometry`Stream
+$Name: Dip1.geom
+!
+Dip2: 4
+Geometry: 2D Geometry`Stream
+$Name: Dip2.geom
+!
+Dip3: 5
+Geometry: 2D Geometry`Stream
+$Name: Dip3.geom
+!
+Dip4: 6
+Geometry: 2D Geometry`Stream
+$Name: Dip4.geom
+!
+Strike1: 7
+Geometry: 2D Geometry`Stream
+$Name: Strike1.geom
+!
+Strike2: 8
+Geometry: 2D Geometry`Stream
+$Name: Strike2.geom
+!
+Strike3: 9
+Geometry: 2D Geometry`Stream
+$Name: Strike3.geom
+!
+Strike4: 10
+Geometry: 2D Geometry`Stream
+$Name: Strike4.geom
+!
+Strike5: 11
+Geometry: 2D Geometry`Stream
+$Name: Strike5.geom
+!
+Strike6: 12
+Geometry: 2D Geometry`Stream
+$Name: Strike6.geom
 !

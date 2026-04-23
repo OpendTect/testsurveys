@@ -2,9 +2,53 @@ dTect V5.0
 Object Management file
 Wed Dec 19 14:03:56 2012
 !
-ID: 100100
+ID: 100100`12
 !
 Geometry: 1
 Survey Geometry Directory: dGB`Stream
 $Name: Geometry
+!
+Line: 2
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Line.geom 
+!
+Dip1: 3
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Dip1.geom
+!
+Dip2: 4
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Dip2.geom
+!
+Dip3: 5
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Dip3.geom
+!
+Dip4: 6
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Dip4.geom
+!
+Strike1: 7
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Strike1.geom
+!
+Strike2: 8
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Strike2.geom
+!
+Strike3: 9
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Strike3.geom
+!
+Strike4: 10
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Strike4.geom
+!
+Strike5: 11
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Strike5.geom
+!
+Strike6: 12
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey_XYinft\Geometry\Strike6.geom
 !

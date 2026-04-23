@@ -1,8 +1,8 @@
-dTect V7.0.9
+dTect V8.1.0-20260314
 Object Management file
-2026-03-13T12:43:41Z
+2026-04-17T16:08:40Z
 !
-ID: 100020`17
+ID: 100020`24
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -59,7 +59,7 @@ $Name: 2-Base_with_SRD_50ft.hor
 !
 1-Top Time: 12
 Horizon: dGB`Stream
-$Name: ../../F3_Test_Survey/Surfaces/1-Top.hor
+$Name: ..\..\F3_Test_Survey\Surfaces\1-Top.hor
 #ID: 100010.8
 #Version: 7.1.0 (development)
 #ZDomain: TWT
@@ -67,7 +67,7 @@ $Name: ../../F3_Test_Survey/Surfaces/1-Top.hor
 !
 2-Base Time: 13
 Horizon: dGB`Stream
-$Name: ../../F3_Test_Survey/Surfaces/2-Base.hor
+$Name: ..\..\F3_Test_Survey\Surfaces\2-Base.hor
 #ID: 100010.8
 #Version: 7.1.0 (development)
 #ZDomain: TWT
@@ -75,26 +75,55 @@ $Name: ../../F3_Test_Survey/Surfaces/2-Base.hor
 !
 SingleStickPickedOn426 Time: 14
 Fault: dGB`Stream
-$Name: ../../F3_Test_Survey/Surfaces/SingleStickPickedOn426.flt
+$Name: ..\..\F3_Test_Survey\Surfaces\SingleStickPickedOn426.flt
 #ID: 100010.8
 #Type: Fault
 #Version: 7.0.5rc2
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
 !
-TwoSticksPickedOn426: 16
+TwoSticksPickedOn426: 15
 FaultStickSet: dGB`Stream
 $Name: TwoSticksPickedOn426.fss
-#Created.At: 2026-03-13T12:40:23Z
-#Created.By: arnaud
 #Version: 7.0.9
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+SingleMemberFaultSetOn426: 16
+FaultSet: dGB`Stream
+$Name: SingleMemberFaultSetOn426
+#Created.At: 2026-03-25T11:14:35Z
+#Version: 8.1.0-20260314
+!
+exportft: 21
+FaultStickSet: dGB`Stream
+$Name: exportft.fss
+#Created.At: 2026-03-27T13:34:24Z
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Feet
+!
+feet: 22
+FaultStickSet: dGB`Stream
+$Name: feet.fss
+#Created.At: 2026-03-27T14:58:55Z
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Feet
+!
+meter: 23
+FaultStickSet: dGB`Stream
+$Name: meter.fss
+#Created.At: 2026-03-27T14:59:33Z
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+hor3Dmeter: 24
+Horizon: dGB`Stream
+$Name: hor3Dmeter.hor
+#Created.At: 2026-04-17T15:52:57Z
+#Version: 8.1.0-20260314
 #ZDomain: Depth`
 #ZDomain.Unit: Meter`
-!
-SingleStickPickedOn426 test: 17
-Fault: dGB`Stream
-$Name: SingleStickPickedOn426_test.flt
-#Created.At: 2026-03-13T12:41:49Z
-#Created.By: arnaud
-#Version: 7.0.9
 !

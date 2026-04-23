@@ -1,8 +1,8 @@
 dTect V7.0.9
 Object Management file
-2026-03-13T12:45:39Z
+2026-03-13T12:47:05Z
 !
-ID: 100020`16
+ID: 100020`15
 !
 Surfaces: 1
 Surfaces directory: dGB`Stream
@@ -85,16 +85,7 @@ $Name: ../../F3_Test_Survey_XYinft/Surfaces/SingleStickPickedOn426.flt
 TwoSticksPickedOn426: 15
 FaultStickSet: dGB`Stream
 $Name: TwoSticksPickedOn426.fss
-#Created.At: 2026-03-13T12:45:06Z
-#Created.By: arnaud
 #Version: 7.0.9
-#ZDomain: Depth` 
-#ZDomain.Unit: Meter` 
-!
-ID=<100020.17>: 16
-Fault: dGB`Stream
-$Name: ID__100020.17_.flt
-#Created.At: 2026-03-13T12:45:39Z
-#Created.By: arnaud
-#Version: 7.0.9
+#ZDomain: Depth
+#ZDomain.Unit: Meter
 !

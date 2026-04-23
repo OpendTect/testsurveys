@@ -8,3 +8,47 @@ Geometry: 1
 Survey Geometry Directory: dGB`Stream
 $Name: Geometry
 !
+Line: 2
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Line.geom
+!
+Dip1: 3
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Dip1.geom
+!
+Dip2: 4
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Dip2.geom
+!
+Dip3: 5
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Dip3.geom
+!
+Dip4: 6
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Dip4.geom
+!
+Strike1: 7
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Strike1.geom
+!
+Strike2: 8
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Strike2.geom
+!
+Strike3: 9
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Strike3.geom
+!
+Strike4: 10
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Strike4.geom
+!
+Strike5: 11
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Strike5.geom
+!
+Strike6: 12
+Geometry: 2D Geometry`Stream
+$Name: ..\..\F3_Test_Survey\Geometry\Strike6.geom
+!
