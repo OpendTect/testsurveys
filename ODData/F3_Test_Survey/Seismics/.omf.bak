@@ -1,8 +1,8 @@
 dTect V8.1.0
 Object Management file
-2024-12-20T10:16:31Z
+2026-05-22T09:39:04Z
 !
-ID: 100010`120
+ID: 100010`130
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -50,10 +50,10 @@ $Name: Velocity_model__INT__time-s__m_s_.cbvs
 Velocity model (INT) time-s (ft/s): 9
 Seismic Data: CBVS`Stream
 $Name: Velocity_model__INT__time-s__ft_s_.cbvs
-#Bottom Vavg: 6886.0668945`7035.6870117`ft/s
+#Bottom Vavg: 6886.09`7035.7`ft/s
 #Data storage: 7 - 32 bit floating point
 #Is Velocity: Yes
-#Top Vavg: 6430.3344727`6430.4902344`ft/s
+#Top Vavg: 6430.45`6430.45`ft/s
 #Type: Velocity
 #Velocity Type: Vint
 #Velocity Unit: ft/s
@@ -323,39 +323,42 @@ $Name: Seismic_depth-ft.cbvs
 #ZDomain: Depth
 #ZDomain.Unit: Feet
 !
+Sonic log cube: 32
+Seismic Data: CBVS`Stream
+$Name: Sonic_log_cube.cbvs
+!
+P-Impedance log cube: 33
+Seismic Data: CBVS`Stream
+$Name: P-Impedance_log_cube.cbvs
+!
 Steering BG Fast (Median Filter): 109
 Seismic Data: CBVS`Stream
 $Name: Steering_BG_Fast__Median_Filter_.cbvs
-#Created.At: Thu 06 Apr 2017, 10:20:31
-#Created.By: mahant
 #Data storage: 3 - 16 bit signed
 #Type: Steering
 !
 Seis: 110
 2D Seismic Data: CBVS`Stream
 $Name: Seis
-#Created.At: Mon 01 Apr 2019, 13:13:30
-#Created.By: cases`arnaud6
 !
 pstm stk: 111
 2D Seismic Data: CBVS`Stream
 $Name: pstm_stk
-#Created.At: Mon 01 Apr 2019, 13:13:30
-#Created.By: cases`arnaud6
+#Created.At: 2026-05-12T14:32:07Z
+#Created.By: mohammad
+#Created.From: 
+#Created.Info: 
+#Version: 8.1.0-20260418
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
 !
 Seismic_with_300-310_Inlines_missing: 112
 Seismic Data: CBVS`Stream
 $Name: Seismic_with_300-310_Inlines_missing.cbvs
-#Created.At: Fri 07 Apr 2017, 14:15:28
-#Created.By: mahant
-#Created.From: /d15/mahant/surveys/testsurveys.git/trunk/ODData/F3_Test_Survey/Seismic.dat
 !
 Seismic (CBVS-optimized Z): 114
 Seismic Data: CBVS`Stream
 $Name: Seismic__CBVS-optimized_Z_.cbvs
-#Created.At: 2024-02-08T12:12:28Z
-#Created.By: khushnood`qkhushnood
-#Created.From: E:\testsurveys\ODData\F3_Test_Survey\Seismics\Seismic.cbvs
 #Data storage: 0 - auto
 #Optimized direction: Horizontal
 #Version: 7.1.0 (development)
@@ -365,8 +368,6 @@ $Name: Seismic__CBVS-optimized_Z_.cbvs
 Seismic(SEG-Y): 118
 Seismic Data: SEGYDirect`Stream
 $Name: Seismic_SEG-Y_.sgydef
-#Created.At: 2024-02-08T11:59:03Z
-#Created.By: khushnood`qkhushnood
 #Version: 7.1.0 (development)
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
@@ -374,8 +375,6 @@ $Name: Seismic_SEG-Y_.sgydef
 Seismic(VDS): 119
 Seismic Data: VDSDirect`Stream
 $Name: Seismic_VDS_.vdsdef
-#Created.At: 2024-02-08T11:59:24Z
-#Created.By: khushnood`qkhushnood
 #Version: 7.1.0 (development)
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
@@ -383,11 +382,91 @@ $Name: Seismic_VDS_.vdsdef
 Seismic(ZGY): 120
 Seismic Data: ZGYDirect`Stream
 $Name: Seismic_ZGY_.zgydef
-#Created.At: 2024-02-08T11:59:52Z
-#Created.By: khushnood`qkhushnood
-#Created.From: E:\testsurveys\ODData\F3_Test_Survey\Export\Seismic(SEG-Y).sgy
-#Created.Info: 
-#Version: 7.1.0 (development)
+#Data storage: 0 - auto
+#DataSet.ID: f0f4c7c0-7aa9-4d81-b4dd-533a1cb26998
+#Version: 2025.3.11
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
+!
+2DVM INT SRD50ft Time-s m/s: 121
+2D Seismic Data: CBVS`Stream
+$Name: 2DVM_INT_SRD50ft_Time-s_m_s
+#Bottom Vavg: 3110.06`3141.44`m/s
+#Created.From: 
+#Created.Info: 
+#Is Velocity: Yes
+#Top Vavg: 3001.2`3045`m/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: m/s
+#Version: 8.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
+!
+2DVM INT SRD50ft Time-s ft/s: 122
+2D Seismic Data: CBVS`Stream
+$Name: 2DVM_INT_SRD50ft_Time-s_ft_s
+#Bottom Vavg: 10203.6`10306.5`ft/s
+#Created.From: 
+#Created.Info: 
+#Is Velocity: Yes
+#Top Vavg: 9846.46`9990.16`ft/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: ft/s
+#Version: 8.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
+!
+2DVM INT SRD50ft Depth-m m/s: 123
+2D Seismic Data: CBVS`Stream
+$Name: 2DVM_INT_SRD50ft_Depth-m_m_s
+#Bottom Vavg: 3134.58`3141.64`m/s
+#Is Velocity: Yes
+#Top Vavg: 3001.19`3045`m/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: m/s
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+2DVM INT SRD50ft Depth-m ft/s: 124
+2D Seismic Data: CBVS`Stream
+$Name: 2DVM_INT_SRD50ft_Depth-m_ft_s
+#Bottom Vavg: 10284`10307.2`ft/s
+#Is Velocity: Yes
+#Top Vavg: 9846.43`9990.16`ft/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: ft/s
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+2DVM INT SRD50ft Depth-ft m/s: 125
+2D Seismic Data: CBVS`Stream
+$Name: 2DVM_INT_SRD50ft_Depth-ft_m_s
+#Bottom Vavg: 3129.82`3133.71`m/s
+#Is Velocity: Yes
+#Top Vavg: 3001.22`3045`m/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: m/s
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Feet
+!
+2DVM INT SRD50ft Depth-ft ft/s: 126
+2D Seismic Data: CBVS`Stream
+$Name: 2DVM_INT_SRD50ft_Depth-ft_ft_s
+#Bottom Vavg: 10268.4`10281.2`ft/s
+#Is Velocity: Yes
+#Top Vavg: 9846.52`9990.16`ft/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: ft/s
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Feet
 !

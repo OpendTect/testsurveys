@@ -2,7 +2,7 @@ dTect V7.0.0
 Object Management file
 2023-11-09T14:55:32Z
 !
-ID: 100010`31
+ID: 100010`130
 !
 Seismics: 1
 Seismic directory: dGB`Stream
@@ -320,6 +320,88 @@ $Name: ../../F3_Test_Survey/Seismics/Seismic_depth-m.cbvs
 Seismic depth-ft: 31
 Seismic Data: CBVS`Stream
 $Name: ../../F3_Test_Survey/Seismics/Seismic_depth-ft.cbvs
+#ZDomain: Depth
+#ZDomain.Unit: Feet
+!
+2DVM INT SRD50ft Time-s m/s: 121
+2D Seismic Data: CBVS`Stream
+$Name: ..\..\F3_Test_Survey\Seismics\2DVM_INT_SRD50ft_Time-s_m_s
+#Bottom Vavg: 3110.06`3141.44`m/s
+#Created.From: 
+#Created.Info: 
+#Is Velocity: Yes
+#Top Vavg: 3001.2`3045`m/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: m/s
+#Version: 8.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
+!
+2DVM INT SRD50ft Time-s ft/s: 122
+2D Seismic Data: CBVS`Stream
+$Name: ..\..\F3_Test_Survey\Seismics\2DVM_INT_SRD50ft_Time-s_ft_s
+#Bottom Vavg: 10203.6`10306.5`ft/s
+#Created.From: 
+#Created.Info: 
+#Is Velocity: Yes
+#Top Vavg: 9846.46`9990.16`ft/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: ft/s
+#Version: 8.1.0 (development)
+#ZDomain: TWT
+#ZDomain.Unit: Seconds
+!
+2DVM INT SRD50ft Depth-m m/s: 123
+2D Seismic Data: CBVS`Stream
+$Name: ..\..\F3_Test_Survey\Seismics\2DVM_INT_SRD50ft_Depth-m_m_s
+#Bottom Vavg: 3134.58`3141.64`m/s
+#Is Velocity: Yes
+#Top Vavg: 3001.19`3045`m/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: m/s
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+2DVM INT SRD50ft Depth-m ft/s: 124
+2D Seismic Data: CBVS`Stream
+$Name: ..\..\F3_Test_Survey\Seismics\2DVM_INT_SRD50ft_Depth-m_ft_s
+#Bottom Vavg: 10284`10307.2`ft/s
+#Is Velocity: Yes
+#Top Vavg: 9846.43`9990.16`ft/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: ft/s
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Meter
+!
+2DVM INT SRD50ft Depth-ft m/s: 125
+2D Seismic Data: CBVS`Stream
+$Name: ..\..\F3_Test_Survey\Seismics\2DVM_INT_SRD50ft_Depth-ft_m_s
+#Bottom Vavg: 3129.82`3133.71`m/s
+#Is Velocity: Yes
+#Top Vavg: 3001.22`3045`m/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: m/s
+#Version: 8.1.0 (development)
+#ZDomain: Depth
+#ZDomain.Unit: Feet
+!
+2DVM INT SRD50ft Depth-ft ft/s: 126
+2D Seismic Data: CBVS`Stream
+$Name: ..\..\F3_Test_Survey\Seismics\2DVM_INT_SRD50ft_Depth-ft_ft_s
+#Bottom Vavg: 10268.4`10281.2`ft/s
+#Is Velocity: Yes
+#Top Vavg: 9846.52`9990.16`ft/s
+#Type: Velocity
+#Velocity Type: Vint
+#Velocity Unit: ft/s
+#Version: 8.1.0 (development)
 #ZDomain: Depth
 #ZDomain.Unit: Feet
 !
