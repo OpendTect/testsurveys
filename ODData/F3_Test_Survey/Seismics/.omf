@@ -366,6 +366,7 @@ $Name: Seismic__CBVS-optimized_Z_.cbvs
 Seismic(SEG-Y): 118
 Seismic Data: SEGYDirect`Stream
 $Name: Seismic_SEG-Y_.sgydef
+#Created.By: dgb
 #Version: 7.1.0 (development)
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
