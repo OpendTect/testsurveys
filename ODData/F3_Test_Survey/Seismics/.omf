@@ -345,9 +345,7 @@ pstm stk: 111
 2D Seismic Data: CBVS`Stream
 $Name: pstm_stk
 #Created.At: 2026-05-12T14:32:07Z
-#Created.By: mohammad
-#Created.From: 
-#Created.Info: 
+#Created.By: dGB Earth Sciences
 #Version: 8.1.0-20260418
 #ZDomain: TWT
 #ZDomain.Unit: Seconds
